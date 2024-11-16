@@ -9,7 +9,7 @@ router = APIRouter()
 def get_promociones():
     # Leer el archivo JSON con todas las promociones recolectadas
     try:
-        with open("../backend/scripts/output/promociones_combinadas.json", "r", encoding="utf-8") as file:
+        with open("../backend/scripts/output/promociones_normalizadas.json", "r", encoding="utf-8") as file:
             promociones = file.read()
     except Exception as e:
         promociones = {"error": f"Error al leer el archivo: {e}"}
