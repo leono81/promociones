@@ -1,0 +1,6237 @@
+[
+    {
+        "id": "20378",
+        "banco": "Banco Galicia",
+        "titulo": "Scandinavian",
+        "subtitulo": "Indumentaria",
+        "promocion": "20% de ahorro y hasta 3 cuotas sin interés",
+        "imagen": "scandinavian_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta American Express",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Galicia Débito",
+                "tipo_tarjeta": "Debito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "20390",
+        "banco": "Banco Galicia",
+        "titulo": "Scandinavian",
+        "subtitulo": "Indumentaria",
+        "promocion": "25% de ahorro y hasta 3 cuotas sin interés",
+        "imagen": "scandinavian_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta American Express",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Galicia Débito",
+                "tipo_tarjeta": "Debito"
+            }
+        ],
+        "modeloAtencion": "Eminent",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "20458",
+        "banco": "Banco Galicia",
+        "titulo": "Etam",
+        "subtitulo": "Indumentaria",
+        "promocion": "20% de ahorro y hasta 3 cuotas sin interés",
+        "imagen": "etam_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta American Express",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Galicia Débito",
+                "tipo_tarjeta": "Debito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "20460",
+        "banco": "Banco Galicia",
+        "titulo": "Etam",
+        "subtitulo": "Indumentaria",
+        "promocion": "25% de ahorro y hasta 3 cuotas sin interés",
+        "imagen": "etam_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta American Express",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Galicia Débito",
+                "tipo_tarjeta": "Debito"
+            }
+        ],
+        "modeloAtencion": "Eminent",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "22202",
+        "banco": "Banco Galicia",
+        "titulo": "Renault",
+        "subtitulo": "Vehículos",
+        "promocion": "Hasta 12 cuotas sin interés",
+        "imagen": "renaultservice_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Todos los días"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta American Express",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "24560",
+        "banco": "Banco Galicia",
+        "titulo": "Supermercados La Anonima",
+        "subtitulo": "Supermercados",
+        "promocion": "Hasta 3 cuotas sin interés",
+        "imagen": "laanonimanuevo.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Jueves a domingo"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "24592",
+        "banco": "Banco Galicia",
+        "titulo": "Diarco",
+        "subtitulo": "Supermercados",
+        "promocion": "Hasta 3 cuotas sin interés",
+        "imagen": "diarco_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Jueves a domingo"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "24596",
+        "banco": "Banco Galicia",
+        "titulo": "Carrefour Market",
+        "subtitulo": "Supermercados",
+        "promocion": "Hasta 3 cuotas sin interés",
+        "imagen": "cr-market_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Jueves a domingo"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "24729",
+        "banco": "Banco Galicia",
+        "titulo": "Hiper Tehuelche",
+        "subtitulo": "Supermercados",
+        "promocion": "Hasta 3 cuotas sin interés",
+        "imagen": "hiper_tehuelche_principal.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Todos los días"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "24730",
+        "banco": "Banco Galicia",
+        "titulo": "Hiper Tehuelche",
+        "subtitulo": "Supermercados",
+        "promocion": "Hasta 12 cuotas sin interés",
+        "imagen": "hiper_tehuelche_principal.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Sábado y domingo"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "24732",
+        "banco": "Banco Galicia",
+        "titulo": "Soldasur",
+        "subtitulo": "Hogar",
+        "promocion": "Hasta 6 cuotas sin interés",
+        "imagen": "soldasur_principal.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Todos los días"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "24828",
+        "banco": "Banco Galicia",
+        "titulo": "Sarkany",
+        "subtitulo": "Indumentaria",
+        "promocion": "20% de ahorro y hasta 5 cuotas sin interés",
+        "imagen": "sarkany_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta American Express",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Galicia Débito",
+                "tipo_tarjeta": "Debito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "24830",
+        "banco": "Banco Galicia",
+        "titulo": "Sarkany",
+        "subtitulo": "Indumentaria",
+        "promocion": "25% de ahorro y hasta 5 cuotas sin interés",
+        "imagen": "sarkany_180.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta American Express",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Galicia Débito",
+                "tipo_tarjeta": "Debito"
+            }
+        ],
+        "modeloAtencion": "Eminent",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "101491",
+        "banco": "Banco Galicia",
+        "titulo": "KaizenPro",
+        "subtitulo": "Hogar",
+        "promocion": "Hasta 12 cuotas sin interés",
+        "imagen": "Imagen%20categoria%20Hogar.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Todos los días"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "101509",
+        "banco": "Banco Galicia",
+        "titulo": "acevedo paula",
+        "subtitulo": "Indumentaria",
+        "promocion": "25% de ahorro",
+        "imagen": "imagen_indumentaria.png",
+        "categorias": [
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Sábado"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Mastercard",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Galicia Débito",
+                "tipo_tarjeta": "Debito"
+            }
+        ],
+        "modeloAtencion": "Masivo",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "cuotas": false,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": null,
+        "tipo_promocion": "Marca"
+    },
+    {
+        "id": "71473",
+        "banco": "Banco Francés",
+        "titulo": "Carrefour",
+        "subtitulo": "Otros comercios y servicios",
+        "promocion": "Con tus tarjetas de crédito Visa BBVA a través de app BBVA y/o MODO todos los Sabados.\nRecibí el reintegro en tu caja de ahorro BBVA vinculada a Modo.\n10% de reintegro con tope de $8000 mensual y 15% de reintegro adicional si cobrás el sueldo en el Banco con tope de $12000 mensual.",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/carrefour320x144_1.jpg",
+        "categorias": [
+            "Otros comercios y servicios"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": "05/10/2024",
+            "hasta": "28/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": false,
+        "ahorro": true,
+        "tope_reintegro": "20000",
+        "frecuencia_reintegro": "Por Mes",
+        "tipo_tope": "Por tarjeta",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71372",
+        "banco": "Banco Francés",
+        "titulo": "NO SOMOS DIABLAS",
+        "subtitulo": "Moda",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes\n",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-lenceria-940x620-2.jpg",
+        "categorias": [
+            "Moda"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71469",
+        "banco": "Banco Francés",
+        "titulo": "Samsung",
+        "subtitulo": "Electro y Tecnología",
+        "promocion": "Todos los días hasta 18 cuotas con tus tarjetas de crédito BBVA",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-electroytecno-electro-940x620-4.jpg",
+        "categorias": [
+            "Electro y Tecnología"
+        ],
+        "dias_aplicacion": [
+            "Domingo",
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "31/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71411",
+        "banco": "Banco Francés",
+        "titulo": "Pourquoi pas",
+        "subtitulo": "Belleza",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes\n",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/farmacia320x144.png",
+        "categorias": [
+            "Belleza"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71462",
+        "banco": "Banco Francés",
+        "titulo": "Motorola",
+        "subtitulo": "Electro y Tecnología",
+        "promocion": "Todos los días hasta 18 cuotas con tus tarjetas de crédito BBVA",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/motorolalogo320x320_0.jpg",
+        "categorias": [
+            "Electro y Tecnología"
+        ],
+        "dias_aplicacion": [
+            "Domingo",
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "31/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71458",
+        "banco": "Banco Francés",
+        "titulo": "Diggit",
+        "subtitulo": "Electro y Tecnología",
+        "promocion": "Todos los días hasta 18 cuotas con tus tarjetas de crédito BBVA",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/tecnologia_4_0.jpg",
+        "categorias": [
+            "Electro y Tecnología"
+        ],
+        "dias_aplicacion": [
+            "Domingo",
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "31/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "70977",
+        "banco": "Banco Francés",
+        "titulo": "Trini Calzados",
+        "subtitulo": "Moda",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-calzadosyaccesorios-940x620-2.jpg",
+        "categorias": [
+            "Moda"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "14/08/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71163",
+        "banco": "Banco Francés",
+        "titulo": "Valkiria",
+        "subtitulo": "Moda",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-femenina-940x620-3.jpg",
+        "categorias": [
+            "Moda"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "28/08/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71473",
+        "banco": "Banco Francés",
+        "titulo": "Carrefour",
+        "subtitulo": "Otros comercios y servicios",
+        "promocion": "Con tus tarjetas de crédito Visa BBVA a través de app BBVA y/o MODO todos los Sabados.\nRecibí el reintegro en tu caja de ahorro BBVA vinculada a Modo.\n10% de reintegro con tope de $8000 mensual y 15% de reintegro adicional si cobrás el sueldo en el Banco con tope de $12000 mensual.",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/carrefour320x144_1.jpg",
+        "categorias": [
+            "Otros comercios y servicios"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": "05/10/2024",
+            "hasta": "28/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Visa",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": false,
+        "ahorro": true,
+        "tope_reintegro": "20000",
+        "frecuencia_reintegro": "Por Mes",
+        "tipo_tope": "Por tarjeta",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71469",
+        "banco": "Banco Francés",
+        "titulo": "Samsung",
+        "subtitulo": "Electro y Tecnología",
+        "promocion": "Todos los días hasta 18 cuotas con tus tarjetas de crédito BBVA",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-electroytecno-electro-940x620-4.jpg",
+        "categorias": [
+            "Electro y Tecnología"
+        ],
+        "dias_aplicacion": [
+            "Domingo",
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "31/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71411",
+        "banco": "Banco Francés",
+        "titulo": "Pourquoi pas",
+        "subtitulo": "Belleza",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes\n",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/farmacia320x144.png",
+        "categorias": [
+            "Belleza"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71462",
+        "banco": "Banco Francés",
+        "titulo": "Motorola",
+        "subtitulo": "Electro y Tecnología",
+        "promocion": "Todos los días hasta 18 cuotas con tus tarjetas de crédito BBVA",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/motorolalogo320x320_0.jpg",
+        "categorias": [
+            "Electro y Tecnología"
+        ],
+        "dias_aplicacion": [
+            "Domingo",
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "31/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71372",
+        "banco": "Banco Francés",
+        "titulo": "NO SOMOS DIABLAS",
+        "subtitulo": "Moda",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes\n",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-lenceria-940x620-2.jpg",
+        "categorias": [
+            "Moda"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71458",
+        "banco": "Banco Francés",
+        "titulo": "Diggit",
+        "subtitulo": "Electro y Tecnología",
+        "promocion": "Todos los días hasta 18 cuotas con tus tarjetas de crédito BBVA",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/tecnologia_4_0.jpg",
+        "categorias": [
+            "Electro y Tecnología"
+        ],
+        "dias_aplicacion": [
+            "Domingo",
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves",
+            "Viernes",
+            "Sábado"
+        ],
+        "vigencia": {
+            "desde": "01/10/2024",
+            "hasta": "31/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": null,
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "70977",
+        "banco": "Banco Francés",
+        "titulo": "Trini Calzados",
+        "subtitulo": "Moda",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-calzadosyaccesorios-940x620-2.jpg",
+        "categorias": [
+            "Moda"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "14/08/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "71163",
+        "banco": "Banco Francés",
+        "titulo": "Valkiria",
+        "subtitulo": "Moda",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-femenina-940x620-3.jpg",
+        "categorias": [
+            "Moda"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "28/08/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta BBVA",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
+        "id": "0ca270d6-b975-4155-a255-d87d7b65aa84",
+        "banco": "Tarjeta Naranja",
+        "titulo": "La Anonima",
+        "subtitulo": "En La Anonima, ingresá y encontrá más beneficios.",
+        "promocion": "12 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030506730038_WbssvBUVU1BxzJCV.png",
+        "categorias": [
+            "Supermercados",
+            "Hipermercados"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "97004caa-81a7-4183-b017-5d9f5fac45f5",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Diggit",
+        "subtitulo": "En Diggit, ingresá y encontrá más beneficios.",
+        "promocion": "9 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_253004691_0LWJXi0ybaivy3Yz.png",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "4d5b63ba-414f-4936-bda0-95d45b4b2132",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Etam",
+        "subtitulo": "En Etam, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707489878_7y7zSXv9DvXq6MCb.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3c01f873-76c4-46a2-998e-bb6d8921cac4",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Nitro",
+        "subtitulo": "En Nitro, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a90986ac-f2e2-4fb7-b077-06f39fad22b5",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Abc Deportes",
+        "subtitulo": "En Abc Deportes.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "eb45ff42-d786-4bfd-855e-a570d771450f",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Cosa Nostra",
+        "subtitulo": "En Cosa Nostra.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "c8aa1f95-4b13-40e2-941f-06378c38201e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Repuestos Pitu",
+        "subtitulo": "En Repuestos Pitu.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para autos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3cee9c54-171e-419c-be14-4b4f43ea34ab",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Monaco Muebles - Articulos P/hog",
+        "subtitulo": "En Monaco Muebles - Articulos P/hog, ingresá y encontrá más beneficios.",
+        "promocion": "12 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020143414001_dC5xmdf8iuckHid8.png",
+        "categorias": [
+            "Hogar y deco",
+            "Decoración"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "51114eda-99bc-4ff5-af3a-8c0ceac99388",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Opticas del Sur",
+        "subtitulo": "En Opticas del Sur, ingresá y encontrá más beneficios.",
+        "promocion": "10 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707594515_oCU0UADhSAZWQQnW.png",
+        "categorias": [
+            "Salud y bienestar",
+            "Ópticas"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "c29f1724-d0a0-4fcb-bd8b-a8b2022e0c98",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Sur Importacion - Rio Grande -",
+        "subtitulo": "En Sur Importacion - Rio Grande -, ingresá y encontrá más beneficios.",
+        "promocion": "14 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030595204549_ZxDDf2AHpC7UbM0B.png",
+        "categorias": [
+            "Electro y tecnología",
+            "Electrodomésticos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b9f138d3-1ee6-48ba-aec6-bd5bb8b15f79",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Sur Importacion - Venta Telefonica -",
+        "subtitulo": "En Sur Importacion - Venta Telefonica -, ingresá y encontrá más beneficios.",
+        "promocion": "10 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030595204549_ZxDDf2AHpC7UbM0B.png",
+        "categorias": [
+            "Electro y tecnología",
+            "Electrodomésticos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "4d60f3c2-32a4-478b-bd64-8fbab5a7b569",
+        "banco": "Tarjeta Naranja",
+        "titulo": "S. I. P.",
+        "subtitulo": "En S. I. P., ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Taller mecánico para autos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "f1fbd8ce-a4fc-469e-8593-47c64ef436a7",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Wapa",
+        "subtitulo": "En Wapa, ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "5fb37ea9-3699-47c6-8916-a1d335d70dc1",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Celulares Rivadavia",
+        "subtitulo": "En Celulares Rivadavia.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019222_jFjcvt2uY1YIqeMV.png",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b9cea6a2-c27b-45e2-ba27-50a5e721ae9b",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Trelew",
+        "subtitulo": "En Trelew, ingresá y encontrá más beneficios.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030716289482_a4FIFJdxlPHpWjbX.png",
+        "categorias": [
+            "Alimentos",
+            "Carnicerías y verdulerías"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "693c8abd-7fc7-4610-8605-f129775a8187",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Lulu",
+        "subtitulo": "En Lulu, ingresá y encontrá más beneficios.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750029136_XvezPPdKKhv1LfOH.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "70c46e4d-da54-4ecd-b33a-17235b8a262a",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Kiosco Alianza",
+        "subtitulo": "En Kiosco Alianza.",
+        "promocion": "Plan Zeta cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020273685139_XY15fPk1crCsZMzT.png",
+        "categorias": [
+            "Supermercados",
+            "Despensas"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "5a26628d-c303-43dd-bde5-8e6052a81caa",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Dra Romina Dufour",
+        "subtitulo": "En Dra Romina Dufour, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Especialidades médicas"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "8f6510cc-ec0f-453c-b94d-d2e9f69ba64a",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Colchoneria y Blanqueria Spymo",
+        "subtitulo": "En Colchoneria y Blanqueria Spymo, ingresá y encontrá más beneficios.",
+        "promocion": "1 cuota menos y 10 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019618_osaMaDRaUGR67ncl.png",
+        "categorias": [
+            "Hogar y deco",
+            "Textiles de hogar"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "fb3a90c3-c2e8-406a-b822-20ec4e8d447f",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Soldasur Sa",
+        "subtitulo": "En Soldasur Sa, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_760002563_DED6E8Co62jTVbxd.png",
+        "categorias": [
+            "Construcción",
+            "Ferreterías"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "5c94bb71-cf0b-4517-ba35-4d66d2121711",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Accesorios Rivadavia",
+        "subtitulo": "En Accesorios Rivadavia.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750011658_5FfLCeD0wb8vD3lp.png",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "411e7f87-b0ee-44e2-a88c-09bd7cf5e8cd",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Materiales y Servicios S. R. L.",
+        "subtitulo": "En Materiales y Servicios S. R. L..",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Materiales de construcción"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "aab16f04-7315-4985-a744-6df6a3abd092",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Autofarma",
+        "subtitulo": "En Autofarma, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030708661127_jYp6L68TN2MgbV0D.png",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "0b762b49-fd17-483d-b716-ec54fff5049e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Wapa Ii",
+        "subtitulo": "En Wapa Ii.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "14ef4be8-f27e-4a63-99ed-5950a9e9f335",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Alfa Hogar",
+        "subtitulo": "En Alfa Hogar, ingresá y encontrá más beneficios.",
+        "promocion": "14 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707771654_1Z4rFKCrmcN3pFs7.png",
+        "categorias": [
+            "Electro y tecnología",
+            "Electrodomésticos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "6806dead-19f3-408d-a510-d48452e77f42",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Chics Cosas de Chica",
+        "subtitulo": "En Chics Cosas de Chica.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Hogar y deco",
+            "Regalerías"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "ddcb8a06-2590-4630-8469-d7e8914ab539",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Joyeria Relojeria el Trust",
+        "subtitulo": "En Joyeria Relojeria el Trust.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0027063565151_Ai1LjTGUJESM5z3V.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Joyerias y relojerias"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "e214fe98-f3af-4420-97a1-c76a26332be7",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Hola Mola",
+        "subtitulo": "En Hola Mola.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Hogar y deco",
+            "Regalerías"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b08efa5c-9fbc-4d09-9bf2-d687deed29a6",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Lazaro",
+        "subtitulo": "En Lazaro, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_380070584_TVdgmPngDoAMGzFG.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Marroquinerías"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "1d14f384-ea52-4bb8-b9af-fce15d265a28",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Domingo Granja",
+        "subtitulo": "En Domingo Granja.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750003611_TqkplyUFiYzSicd6.png",
+        "categorias": [
+            "Construcción",
+            "Materiales de construcción"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "8105d7c2-294c-456e-bed8-a850514c2449",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Anglers Aventuras Srl",
+        "subtitulo": "En Anglers Aventuras Srl, ingresá y encontrá más beneficios.",
+        "promocion": "12 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750020200_5x4VDR5nXI7DljJV.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a384a86a-d374-46f7-be4f-c7a3ea5c333d",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Lacar",
+        "subtitulo": "En Lacar.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750004811_k4U7xBlhr8REpLLx.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "74dd3e0d-7773-4e72-84a9-f2e6a450fd9c",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Ona's Corralon S. R. L.",
+        "subtitulo": "En Ona's Corralon S. R. L..",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Ferreterías"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "4206223b-4073-401e-bde4-857d50c3bb88",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Spymo Sofa",
+        "subtitulo": "En Spymo Sofa, ingresá y encontrá más beneficios.",
+        "promocion": "1 cuota menos y 10 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750031279_QuAZU6qPPsQFe8Rf.png",
+        "categorias": [
+            "Hogar y deco",
+            "Textiles de hogar"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "1b001c94-4be7-4c7d-9fba-966b201a47f5",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Optica Lopez",
+        "subtitulo": "En Optica Lopez, ingresá y encontrá más beneficios.",
+        "promocion": "10 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030716698242_rdVkW9vvWQohGgpA.png",
+        "categorias": [
+            "Salud y bienestar",
+            "Ópticas"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "65fde1f8-a006-4b38-a012-46bb5f07758d",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Mariano Acosta Neumaticos",
+        "subtitulo": "En Mariano Acosta Neumaticos.",
+        "promocion": "10 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Taller mecánico para autos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "c55d3266-1099-4058-bdc6-de144f9c9cc1",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Scandinavian",
+        "subtitulo": "En Scandinavian, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030640843329_EkWeYDGnh6o26YfW.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "525a7652-4c06-4dbe-9dd6-1545609cdba1",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Calzados Mari - Esth",
+        "subtitulo": "En Calzados Mari - Esth, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Calzados"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "4fa90513-6594-4a1a-b1c7-ae0113ca6c3a",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Austral Repuestos",
+        "subtitulo": "En Austral Repuestos.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para autos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "fc0f8972-9761-4a00-88f3-2d396fb15556",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Trevman Kumho Neumaticos",
+        "subtitulo": "En Trevman Kumho Neumaticos, ingresá y encontrá más beneficios.",
+        "promocion": "10 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030635932518_jRlcKMDBWNHsnucc.png",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para autos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b0788425-0919-4e64-9164-b8dc74960684",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Iterbio Sas",
+        "subtitulo": "En Iterbio Sas, ingresá y encontrá más beneficios.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_760024560_E9J1EHFTpQDl93OJ.png",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "583b12b6-16f6-4fdd-af5a-0e30bbbbc43e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Don Aldo Neumaticos",
+        "subtitulo": "En Don Aldo Neumaticos.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para autos"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "e49ca06f-6856-421e-b68a-355cbab86251",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Municipalidad de Rio Grande",
+        "subtitulo": "En Municipalidad de Rio Grande, ingresá y encontrá más beneficios.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Otros",
+            "Varios"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "26f54820-0caf-4c15-bb6d-97a8d31660d9",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacia Posadas",
+        "subtitulo": "En Farmacia Posadas.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020229537742_gTaidUlNs4QiOHRR.png",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "86eff2b4-8494-4a52-b7f4-12f8196b006d",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Guadis Jugueteria",
+        "subtitulo": "En Guadis Jugueteria.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0027116273026_PAgJpLlsgE0WOb6r.png",
+        "categorias": [
+            "Juguetería",
+            ""
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a512a692-fde9-424c-8bd1-0e1a79a3e85b",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Corralon Naza",
+        "subtitulo": "En Corralon Naza.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Materiales de construcción"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "f2be0a3b-4453-499f-84c2-870ede0674b6",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Ms Patagonia Argentina Rgd",
+        "subtitulo": "En Ms Patagonia Argentina Rgd, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Servicios",
+            ""
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "4ccdf494-58b8-4507-bc1d-fe216c819c66",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Torres Ariel Hernan",
+        "subtitulo": "En Torres Ariel Hernan.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3f02cf66-22c5-49be-87a8-de887006ee78",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Minimercado Champita",
+        "subtitulo": "En Minimercado Champita.",
+        "promocion": "Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Supermercados",
+            "Despensas"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "2c038b0f-c803-4b11-b401-3ce768552882",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Tienda Buenos Aires",
+        "subtitulo": "En Tienda Buenos Aires.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "7ba10f52-91f3-4b38-a338-5b960b50fd20",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Montagne",
+        "subtitulo": "En Montagne, ingresá y encontrá más beneficios.",
+        "promocion": "15% off y 12 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030714303585_S1iNJ5kJ5l7F9J8L.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "e67d367a-f8e8-4365-9151-e17eae468f77",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Patagonia Lighting S R. L.",
+        "subtitulo": "En Patagonia Lighting S R. L., ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Electricidad e iluminación"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "0d22cbb6-9b87-4a18-ace5-3362cedd5f0b",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Transporte Montiel",
+        "subtitulo": "En Transporte Montiel, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Viajes y turismo",
+            "Transportes"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "92b58c81-6231-435b-b2da-a57197fa27e3",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Mundo Maderas",
+        "subtitulo": "En Mundo Maderas, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Ferreterías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "ca111271-b6f7-46a8-abd7-e5193d242535",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Isla Race S A. S.",
+        "subtitulo": "En Isla Race S A. S., ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para motos"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "be38701b-8df1-4213-a215-66d680de2af4",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Fuego Bikes",
+        "subtitulo": "En Fuego Bikes, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "6e6dff34-b7a6-4162-91c5-25c64fe09be7",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Pintureria Ti - Son",
+        "subtitulo": "En Pintureria Ti - Son, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Pinturerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "e1901922-2d48-478b-aefd-4630af85ba1c",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Dulce Lucia",
+        "subtitulo": "En Dulce Lucia, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Lencerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "72514d13-2f27-44ee-82cb-cf728cc921dc",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Western Jeans",
+        "subtitulo": "En Western Jeans, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3c186167-d2da-4d7a-b667-99b3bfd02287",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Western",
+        "subtitulo": "En Western, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "51cd83c5-8c13-4ab0-b701-af127605091a",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Rhodes",
+        "subtitulo": "En Rhodes, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Joyerias y relojerias"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "94e8493c-314f-41b5-aae4-5477ad9940fd",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Lamparas de Sal Tdf",
+        "subtitulo": "En Lamparas de Sal Tdf, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Electricidad e iluminación"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "f007fe3a-6023-45ee-89ff-679319972cfe",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Mh Graphic",
+        "subtitulo": "En Mh Graphic, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Librerías",
+            ""
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "e3856c81-3673-48ca-b42c-2d757d94bb5a",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Fulanas de Tal",
+        "subtitulo": "En Fulanas de Tal, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "81f247e6-2f2a-4f12-a3bb-bb7b357f4003",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Sarah Oly",
+        "subtitulo": "En Sarah Oly, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Otros",
+            "Cotillón"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "09932172-d5b5-451b-8d6f-9c93446e91bd",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Electro Service",
+        "subtitulo": "En Electro Service, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "89ae8b91-e059-4510-9990-f828c1502478",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Ecus Cars Repuestos",
+        "subtitulo": "En Ecus Cars Repuestos, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para autos"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "edb26383-5c52-4b9d-ae65-46d47314ae1f",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Ph Showroom",
+        "subtitulo": "En Ph Showroom, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "ceeba028-50af-4b87-ba48-a554f1d84610",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Mr Drinks Beer Shop",
+        "subtitulo": "En Mr Drinks Beer Shop.",
+        "promocion": "30% off",
+        "imagen": "",
+        "categorias": [
+            "Supermercados",
+            "Hipermercados"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [],
+        "cuotas": false,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "6b1463cf-23fb-4d7b-b415-3419a9c8f9e2",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Santino Big Shop 2",
+        "subtitulo": "En Santino Big Shop 2.",
+        "promocion": "30% off",
+        "imagen": "",
+        "categorias": [
+            "Supermercados",
+            "Hipermercados"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [],
+        "cuotas": false,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3b905918-dd43-4cfe-b179-efb7d26c66aa",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Chic Chic Indumentaria",
+        "subtitulo": "En Chic Chic Indumentaria, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "0bcb3860-bff9-49f3-b21a-46f721bd2ca9",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacia Margen Sur",
+        "subtitulo": "En Farmacia Margen Sur, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "2c03b731-8a7e-4b2f-ac92-b441ae04a205",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Martina Store",
+        "subtitulo": "En Martina Store.",
+        "promocion": "4 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Calzados"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "fd27cd76-b185-4c90-b934-1974874d9cab",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Acuarela Centro",
+        "subtitulo": "En Acuarela Centro, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Librerías",
+            ""
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "0b5a84d9-3f62-4d2a-be86-d1ff3068aae6",
+        "banco": "Tarjeta Naranja",
+        "titulo": "La Casa del Plomero",
+        "subtitulo": "En La Casa del Plomero, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Ferreterías"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "23f7f5e0-f410-4207-8f82-c687f8ba30b3",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacia Bahia",
+        "subtitulo": "En Farmacia Bahia, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "bca0f7b9-afa1-4c61-9898-ace9c15ac1ff",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacia del Pueblo",
+        "subtitulo": "En Farmacia del Pueblo, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030708661127_jYp6L68TN2MgbV0D.png",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "ca212372-0006-4708-9e16-12d3c5d73c49",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Oruga",
+        "subtitulo": "En Oruga, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a1cba24c-fe68-4a75-9bcc-914b353e2c85",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Peumamiya",
+        "subtitulo": "En Peumamiya, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Hogar y deco",
+            "Regalerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a7c18375-19a4-4a2d-8e97-cc235603e304",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Linea B Sa",
+        "subtitulo": "En Linea B Sa, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Viajes y turismo",
+            "Agencias de viajes"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "31aa8bd0-b930-4cbf-88cc-f9c32435f4be",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Alan",
+        "subtitulo": "En Alan, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b16bba58-b562-47d0-934d-b53b7f58786e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Anastasia",
+        "subtitulo": "En Anastasia, ingresá y encontrá más beneficios.",
+        "promocion": "12 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750005118_DjRZOI0WpUKqhd81.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "416d014e-b6f8-42a6-ae91-6987e4d15ca2",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Abrojitos Bb",
+        "subtitulo": "En Abrojitos Bb, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Niños"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "e771beb5-9901-47f0-9d3c-594c9d0f6fbf",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Bodysculpt Rio Grande",
+        "subtitulo": "En Bodysculpt Rio Grande, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "626fca82-4aa0-4a97-ae5e-adee125d9538",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Crazy",
+        "subtitulo": "En Crazy, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750018366_ogQChSEq9meuVScq.png",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "268eaec7-9fd7-41a8-b34e-580cc5921f35",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Sanitarios y Repuestos Fede",
+        "subtitulo": "En Sanitarios y Repuestos Fede, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Electro y tecnología",
+            "Electrodomésticos"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "c697908f-f704-4e18-8bea-054f4891fc2e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Morena Moda",
+        "subtitulo": "En Morena Moda, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "9203e1a3-1600-40da-9117-bd4c907926df",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Cr Motos",
+        "subtitulo": "En Cr Motos, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para motos"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "6d1a768f-ed88-426a-8bc7-b4a364416779",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Mini Boutique",
+        "subtitulo": "En Mini Boutique, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "986d7311-c274-4242-8e6b-ea98a458675e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Autoglass",
+        "subtitulo": "En Autoglass, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para autos"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3a1e8969-4bfd-44db-98dc-2d3e431ccbb4",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Levati",
+        "subtitulo": "En Levati, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Perfumerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "410c9b7a-e6b6-443c-b74a-d65dbca5acfc",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Drako Gnc",
+        "subtitulo": "En Drako Gnc, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Taller mecánico para autos"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "fdc1c79c-89cb-49a8-b677-3a1da92d8923",
+        "banco": "Tarjeta Naranja",
+        "titulo": "No Callare",
+        "subtitulo": "En No Callare, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "47d79f70-a32e-4bac-808d-181bcbbd671c",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Kahlo",
+        "subtitulo": "En Kahlo, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "26b5ec29-6372-4eea-ad1e-f22b1f90f7fb",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Motohouse",
+        "subtitulo": "En Motohouse, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para autos"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "73d9be11-c947-498f-8172-54b30fd3c075",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Artesanias Kospi",
+        "subtitulo": "En Artesanias Kospi, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Joyerias y relojerias"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "709912b3-5623-4dea-b0f1-125638b43c6c",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Bejira Peluqueria Unisex",
+        "subtitulo": "En Bejira Peluqueria Unisex, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Peluquerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "19e23f9a-ec85-4393-927b-6c00b4d15e24",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Variedades",
+        "subtitulo": "En Variedades, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Mercerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "aecb9c78-46e2-48b9-a7ff-15ce4e4e39c1",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Stylofs",
+        "subtitulo": "En Stylofs, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Peluquerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b0853072-5f57-46f7-9418-4a7d09cac6b4",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Https://www. Instagram. Com/magnolia. Tdf/",
+        "subtitulo": "En Https://www. Instagram. Com/magnolia. Tdf/, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3112b3a9-4cec-45dc-a7c2-a8803bafecc3",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Nina",
+        "subtitulo": "En Nina, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "883f071c-c0f3-417c-8e72-afaa709a9f8f",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Oasis",
+        "subtitulo": "En Oasis, ingresá y encontrá más beneficios.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "ae0c1e68-c244-4d6a-9652-875f72709b28",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Bodysculpt",
+        "subtitulo": "En Bodysculpt, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Otros",
+            "Varios"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a35ba4d0-7d3f-466d-bfa7-217af6f8277f",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Almacen de Ramos Generales",
+        "subtitulo": "En Almacen de Ramos Generales, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Hogar y deco",
+            "Regalerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "0b7e1c4a-522b-4954-a4d0-141b9b8918f2",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Placa Centro",
+        "subtitulo": "En Placa Centro, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Materiales de construcción"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "7f92f590-8db1-4d17-a8ff-65636f35836d",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Tuti Frutti",
+        "subtitulo": "En Tuti Frutti.",
+        "promocion": "30% off",
+        "imagen": "",
+        "categorias": [
+            "Supermercados",
+            "Hipermercados"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [],
+        "cuotas": false,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b237ce81-1a64-43ed-87a0-a2c248108f9d",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Grandiosas",
+        "subtitulo": "En Grandiosas, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a3b33ac0-a0b0-4caa-b49d-af171b80c0c3",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Abby Chuela",
+        "subtitulo": "En Abby Chuela, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "1f382974-c81e-4244-ac32-6233098bffe7",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Grande Hotel",
+        "subtitulo": "En Grande Hotel, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Viajes y turismo",
+            "Hospedajes"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "1b9e5474-8b96-47e6-ba11-4381ce0467ba",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Viceversa",
+        "subtitulo": "En Viceversa, ingresá y encontrá más beneficios.",
+        "promocion": "12 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "2bbb0fcd-d85b-42a0-b2e9-aaa1311aad63",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Pe - Kes",
+        "subtitulo": "En Pe - Kes, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "aaa7cea8-d8ec-4fb0-a4b5-4bbae7519da8",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Fulanos",
+        "subtitulo": "En Fulanos, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "e7ed6e62-147c-4091-b4a3-e528ef696cfa",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Felipa",
+        "subtitulo": "En Felipa, ingresá y encontrá más beneficios.",
+        "promocion": "12 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Calzados"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "5ce360c4-6416-47f4-8362-c2d79f651a7e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Susana Mascarello",
+        "subtitulo": "En Susana Mascarello, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Peluquerías"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "f5e32a50-7b69-4ef0-854c-e995992f50f1",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Salgado Macarena Soledad",
+        "subtitulo": "En Salgado Macarena Soledad, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "05f8b964-a755-4155-bb69-3fa27df74b38",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacia San Expedito",
+        "subtitulo": "En Farmacia San Expedito, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "0686c1d7-3401-454a-a6b2-8cb1b34fcab4",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Gomeria y Lavadero el Paton",
+        "subtitulo": "En Gomeria y Lavadero el Paton, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Gomería"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "42b42054-4017-4c4b-9233-df7aedda9e7e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacenter",
+        "subtitulo": "En Farmacenter, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "799c095b-ba65-44de-b607-14b83b63d91e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Minimercado y Carniceria Triple B",
+        "subtitulo": "En Minimercado y Carniceria Triple B, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Juguetería",
+            ""
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "518ce6eb-5d84-464b-ba09-1061d27d88a7",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Infierno Grande",
+        "subtitulo": "En Infierno Grande, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Joyerias y relojerias"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b14bb627-b7fd-487c-b2dc-df84dc18df8a",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Vzmotos",
+        "subtitulo": "En Vzmotos, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Autos y motos",
+            "Repuestos y accesorios para motos"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "44a167a4-498f-4ea5-a057-059f524dca34",
+        "banco": "Tarjeta Naranja",
+        "titulo": "La Sportiva",
+        "subtitulo": "En La Sportiva, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "38fbfddb-62a4-469c-b31e-cbe1f8edd200",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacia Moreno",
+        "subtitulo": "En Farmacia Moreno, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "2fa0adbe-57b1-42f7-b78f-1294e2e85559",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Almacen Raulito",
+        "subtitulo": "En Almacen Raulito, ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Supermercados",
+            "Despensas"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "207c02f3-6219-4fde-a7b5-e972eced86ff",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Boom",
+        "subtitulo": "En Boom, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "71b9c544-ee9e-4087-b413-6b06829643e3",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Girasoles S A. S.",
+        "subtitulo": "En Girasoles S A. S., ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Perfumerías"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "4c056fc0-7930-4da8-a960-531b0001f188",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Taller de Conceptos",
+        "subtitulo": "En Taller de Conceptos, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Hogar y deco",
+            "Decoración"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "50be479c-ae27-421d-b03e-403dab65e93b",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Economizadores Tdf",
+        "subtitulo": "En Economizadores Tdf, ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Hogar y deco",
+            "Bazar"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "7c4edd05-393e-447f-bbf5-f254ef8a9688",
+        "banco": "Tarjeta Naranja",
+        "titulo": "4m Service",
+        "subtitulo": "En 4m Service, ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a302c78c-86d3-41c4-b645-452c36393e93",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Upalala",
+        "subtitulo": "En Upalala, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Niños"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "cccc894a-29e1-4308-b3dc-ffa89ca9f9b2",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Multi Rubro Eluney",
+        "subtitulo": "En Multi Rubro Eluney, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "2e9fd66f-5638-459b-8017-58eaea8b4e5d",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Silka#s",
+        "subtitulo": "En Silka#s, ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Hogar y deco",
+            "Regalerías"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3c1135c9-04e4-4d69-b56d-c0d7b12da95a",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Oh Nena",
+        "subtitulo": "En Oh Nena, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b63162e6-f009-47b5-892d-0c6a5dc141c5",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Beauty Full",
+        "subtitulo": "En Beauty Full, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Centros de estética"
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "1971d080-098f-4118-b9fb-d69935c4bc9e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Fuegotech",
+        "subtitulo": "En Fuegotech, ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "1b056e54-1f24-4875-a940-70bbd5c47827",
+        "banco": "Tarjeta Naranja",
+        "titulo": "No Somos Diablas",
+        "subtitulo": "En No Somos Diablas, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Lencerías"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "20cb6bae-f77d-4818-b063-f3e8f4efae8e",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Austral Herramientas",
+        "subtitulo": "En Austral Herramientas, ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Ferreterías"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "b0b8c2db-140c-495f-8af9-90b7d7c91dcc",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Insfran Carlos",
+        "subtitulo": "En Insfran Carlos, ingresá y encontrá más beneficios.",
+        "promocion": "12 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Servicios",
+            ""
+        ],
+        "dias_aplicacion": [
+            "Lunes",
+            "Jueves",
+            "Domingo",
+            "Viernes",
+            "Martes",
+            "Sábado",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "3deb4353-6388-4b6a-ac83-46e5691a7793",
+        "banco": "Tarjeta Naranja",
+        "titulo": "El Divino Boton",
+        "subtitulo": "En El Divino Boton, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Mercerías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a9303dc2-aa3d-4e8f-a638-1102e99688fc",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Danzo",
+        "subtitulo": "En Danzo, ingresá y encontrá más beneficios.",
+        "promocion": "25% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Materiales de construcción"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    }
+]
