@@ -585,16 +585,61 @@
             ]
         },
         {
-            "id": "70977",
-            "titulo": "Trini Calzados",
-            "fechaVigenciaDesde": "2024-08-14",
+            "id": "71469",
+            "titulo": "Samsung",
+            "fechaVigenciaDesde": "2024-10-01",
+            "fechaVigenciaHasta": "2024-12-31",
+            "subtitulo": "en el total de tu compra",
+            "destacado": false,
+            "beneficios": [
+                {
+                    "tipo": "cartera",
+                    "cuando": "Del 01/10/2024 al 31/12/2024",
+                    "valor": null,
+                    "cuota": 18,
+                    "tope": null,
+                    "frecuencia": null,
+                    "tipoTope": "",
+                    "claseDeBeneficio": "Descuento",
+                    "casuistica": {
+                        "descripcion": null
+                    },
+                    "condicion": "en el total de tu compra",
+                    "requisitos": [
+                        "Todos los días hasta 18 cuotas con tus tarjetas de crédito BBVA"
+                    ],
+                    "usos": [
+                        "PRESENCIAL",
+                        "ONLINE"
+                    ],
+                    "texto_aplicacion": "El beneficio se aplicará según lo detallado en las bases y condiciones"
+                }
+            ],
+            "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-electroytecno-electro-940x620-4.jpg",
+            "campania": null,
+            "mensajeReintegro": null,
+            "diasPromo": "1,1,1,1,1,1,1",
+            "idPrioridad": 4,
+            "cabecera": "Samsung 0% y 18 cuotas",
+            "subcabecera": "Hasta 18 cuotas con tus tarjetas de crédito BBVA .Promoción válida desde 01-10-2024 hasta 31-12-2024",
+            "rubros": [
+                {
+                    "nombre": "Electro y Tecnología",
+                    "id": "192"
+                }
+            ]
+        },
+        {
+            "id": "71411",
+            "titulo": "Pourquoi pas",
+            "fechaVigenciaDesde": "2024-10-01",
             "fechaVigenciaHasta": "2024-12-26",
             "subtitulo": "en el total de tu compra",
             "destacado": false,
             "beneficios": [
                 {
                     "tipo": "cartera",
-                    "cuando": "Del 14/08/2024 al 26/12/2024",
+                    "cuando": "Del 01/10/2024 al 26/12/2024",
                     "valor": "30",
                     "cuota": 6,
                     "tope": null,
@@ -606,7 +651,7 @@
                     },
                     "condicion": "en el total de tu compra",
                     "requisitos": [
-                        "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes"
+                        "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes\n"
                     ],
                     "usos": [
                         "PRESENCIAL"
@@ -614,17 +659,17 @@
                     "texto_aplicacion": "El beneficio se aplicará según lo detallado en las bases y condiciones"
                 }
             ],
-            "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-calzadosyaccesorios-940x620-2.jpg",
+            "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/farmacia320x144.png",
             "campania": null,
             "mensajeReintegro": null,
             "diasPromo": "0,0,0,1,0,0,0",
             "idPrioridad": 4,
-            "cabecera": "Trini Calzados 30% y 6 cuotas",
-            "subcabecera": " 30% de reintegro y 6 cuotas sin interés .Promoción válida desde 14-08-2024 hasta 26-12-2024",
+            "cabecera": "Pourquoi pas 30% y 6 cuotas",
+            "subcabecera": " 30% de reintegro y 6 cuotas sin interés .Promoción válida desde 01-10-2024 hasta 26-12-2024",
             "rubros": [
                 {
-                    "nombre": "Moda",
-                    "id": "170"
+                    "nombre": "Belleza",
+                    "id": "8"
                 }
             ]
         },
@@ -719,16 +764,16 @@
             ]
         },
         {
-            "id": "71411",
-            "titulo": "Pourquoi pas",
-            "fechaVigenciaDesde": "2024-10-01",
+            "id": "70977",
+            "titulo": "Trini Calzados",
+            "fechaVigenciaDesde": "2024-08-14",
             "fechaVigenciaHasta": "2024-12-26",
             "subtitulo": "en el total de tu compra",
             "destacado": false,
             "beneficios": [
                 {
                     "tipo": "cartera",
-                    "cuando": "Del 01/10/2024 al 26/12/2024",
+                    "cuando": "Del 14/08/2024 al 26/12/2024",
                     "valor": "30",
                     "cuota": 6,
                     "tope": null,
@@ -740,7 +785,7 @@
                     },
                     "condicion": "en el total de tu compra",
                     "requisitos": [
-                        "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes\n"
+                        "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes"
                     ],
                     "usos": [
                         "PRESENCIAL"
@@ -748,17 +793,17 @@
                     "texto_aplicacion": "El beneficio se aplicará según lo detallado en las bases y condiciones"
                 }
             ],
-            "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/farmacia320x144.png",
+            "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-calzadosyaccesorios-940x620-2.jpg",
             "campania": null,
             "mensajeReintegro": null,
             "diasPromo": "0,0,0,1,0,0,0",
             "idPrioridad": 4,
-            "cabecera": "Pourquoi pas 30% y 6 cuotas",
-            "subcabecera": " 30% de reintegro y 6 cuotas sin interés .Promoción válida desde 01-10-2024 hasta 26-12-2024",
+            "cabecera": "Trini Calzados 30% y 6 cuotas",
+            "subcabecera": " 30% de reintegro y 6 cuotas sin interés .Promoción válida desde 14-08-2024 hasta 26-12-2024",
             "rubros": [
                 {
-                    "nombre": "Belleza",
-                    "id": "8"
+                    "nombre": "Moda",
+                    "id": "170"
                 }
             ]
         },
@@ -803,51 +848,6 @@
                 {
                     "nombre": "Moda",
                     "id": "170"
-                }
-            ]
-        },
-        {
-            "id": "71469",
-            "titulo": "Samsung",
-            "fechaVigenciaDesde": "2024-10-01",
-            "fechaVigenciaHasta": "2024-12-31",
-            "subtitulo": "en el total de tu compra",
-            "destacado": false,
-            "beneficios": [
-                {
-                    "tipo": "cartera",
-                    "cuando": "Del 01/10/2024 al 31/12/2024",
-                    "valor": null,
-                    "cuota": 18,
-                    "tope": null,
-                    "frecuencia": null,
-                    "tipoTope": "",
-                    "claseDeBeneficio": "Descuento",
-                    "casuistica": {
-                        "descripcion": null
-                    },
-                    "condicion": "en el total de tu compra",
-                    "requisitos": [
-                        "Todos los días hasta 18 cuotas con tus tarjetas de crédito BBVA"
-                    ],
-                    "usos": [
-                        "PRESENCIAL",
-                        "ONLINE"
-                    ],
-                    "texto_aplicacion": "El beneficio se aplicará según lo detallado en las bases y condiciones"
-                }
-            ],
-            "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-electroytecno-electro-940x620-4.jpg",
-            "campania": null,
-            "mensajeReintegro": null,
-            "diasPromo": "1,1,1,1,1,1,1",
-            "idPrioridad": 4,
-            "cabecera": "Samsung 0% y 18 cuotas",
-            "subcabecera": "Hasta 18 cuotas con tus tarjetas de crédito BBVA .Promoción válida desde 01-10-2024 hasta 31-12-2024",
-            "rubros": [
-                {
-                    "nombre": "Electro y Tecnología",
-                    "id": "192"
                 }
             ]
         },
@@ -1215,7 +1215,7 @@
             "commerceName": "La Anonima",
             "subtitle": "En La Anonima, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030506730038_WbssvBUVU1BxzJCV.png",
-            "id": "de027464-6245-4e5a-bc42-7d01efa1d78b",
+            "id": "bda3e775-80ba-4329-97fd-3c9f56c93c9c",
             "title": "12 cuotas cero interés",
             "category": {
                 "sectorId": 550,
@@ -1241,7 +1241,7 @@
             "commerceName": "Diggit",
             "subtitle": "En Diggit, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_253004691_0LWJXi0ybaivy3Yz.png",
-            "id": "b5dd0f87-87f9-4bd7-85fd-f284d00a1c1a",
+            "id": "e4ccb2d2-c986-40f4-a2a3-b1b5a0dda7f0",
             "title": "9 cuotas cero interés",
             "category": {
                 "sectorId": 40,
@@ -1267,7 +1267,7 @@
             "commerceName": "Etam",
             "subtitle": "En Etam, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707489878_7y7zSXv9DvXq6MCb.png",
-            "id": "e0f6a92b-2ce8-4919-b901-4850f788bd7e",
+            "id": "6ca8eed9-4d02-48ef-99e1-049610ac1e4f",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -1293,7 +1293,7 @@
             "commerceName": "Nitro",
             "subtitle": "En Nitro, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "e4a24815-9b8b-4478-9498-4193a1d2511b",
+            "id": "bccd2923-1d17-4a39-a037-203ef9b153fc",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -1319,7 +1319,7 @@
             "commerceName": "Abc Deportes",
             "subtitle": "En Abc Deportes.",
             "logo": "",
-            "id": "999367f6-71ce-4221-add9-c7b55eafddc5",
+            "id": "c584f788-85f9-48ed-bc24-f480bbd6d1c5",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 155,
@@ -1345,7 +1345,7 @@
             "commerceName": "Cosa Nostra",
             "subtitle": "En Cosa Nostra.",
             "logo": "",
-            "id": "5284ec1f-f99b-4309-a549-17605911d3ec",
+            "id": "8e9bf74c-c043-4ae5-ac9b-321d96754c5a",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -1371,7 +1371,7 @@
             "commerceName": "Repuestos Pitu",
             "subtitle": "En Repuestos Pitu.",
             "logo": "",
-            "id": "54fe6b10-8fb1-4e33-894f-26ce5f5a7a23",
+            "id": "4b202326-bce2-44fc-81a7-c5f20f88018c",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 560,
@@ -1397,7 +1397,7 @@
             "commerceName": "Monaco Muebles - Articulos P/hog",
             "subtitle": "En Monaco Muebles - Articulos P/hog, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020143414001_dC5xmdf8iuckHid8.png",
-            "id": "51a4f3ab-fa4d-44d2-8057-34a4fca21e43",
+            "id": "c9dfa1f9-5510-419f-a302-9d07e1909b75",
             "title": "12 cuotas cero interés",
             "category": {
                 "sectorId": 420,
@@ -1423,7 +1423,7 @@
             "commerceName": "Opticas del Sur",
             "subtitle": "En Opticas del Sur, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707594515_oCU0UADhSAZWQQnW.png",
-            "id": "18b2149a-262a-4f00-bce5-90587c073a13",
+            "id": "55616ac4-28a2-4941-bbf0-ef83e3663f06",
             "title": "10 cuotas cero interés",
             "category": {
                 "sectorId": 430,
@@ -1446,36 +1446,10 @@
             ]
         },
         {
-            "commerceName": "Sur Importacion - Rio Grande -",
-            "subtitle": "En Sur Importacion - Rio Grande -, ingresá y encontrá más beneficios.",
-            "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030595204549_ZxDDf2AHpC7UbM0B.png",
-            "id": "28dc2369-3ffa-49c9-addf-d719e23fd55c",
-            "title": "14 cuotas cero interés",
-            "category": {
-                "sectorId": 60,
-                "name": "ELECTRO_Y_TECNOLOGIA",
-                "id": 102,
-                "title": "Electro y tecnología",
-                "subcategory": {
-                    "name": "ELECTRODOMESTICOS",
-                    "id": 27,
-                    "title": "Electrodomésticos"
-                }
-            },
-            "urlDetail": null,
-            "url": "sur_importacion__rio_grande_",
-            "tags": [
-                {
-                    "description": "Todos los dias",
-                    "type": "days"
-                }
-            ]
-        },
-        {
             "commerceName": "Sur Importacion - Venta Telefonica -",
             "subtitle": "En Sur Importacion - Venta Telefonica -, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030595204549_ZxDDf2AHpC7UbM0B.png",
-            "id": "a3a40ad3-2e50-4b3e-ac30-91eb7944aa36",
+            "id": "c73a7996-e632-4532-b56d-c5dd692ea573",
             "title": "10 cuotas cero interés",
             "category": {
                 "sectorId": 60,
@@ -1498,10 +1472,36 @@
             ]
         },
         {
+            "commerceName": "Sur Importacion - Rio Grande -",
+            "subtitle": "En Sur Importacion - Rio Grande -, ingresá y encontrá más beneficios.",
+            "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030595204549_ZxDDf2AHpC7UbM0B.png",
+            "id": "ce7b5053-3207-476e-92a5-f6d1620c3599",
+            "title": "14 cuotas cero interés",
+            "category": {
+                "sectorId": 60,
+                "name": "ELECTRO_Y_TECNOLOGIA",
+                "id": 102,
+                "title": "Electro y tecnología",
+                "subcategory": {
+                    "name": "ELECTRODOMESTICOS",
+                    "id": 27,
+                    "title": "Electrodomésticos"
+                }
+            },
+            "urlDetail": null,
+            "url": "sur_importacion__rio_grande_",
+            "tags": [
+                {
+                    "description": "Todos los dias",
+                    "type": "days"
+                }
+            ]
+        },
+        {
             "commerceName": "S. I. P.",
             "subtitle": "En S. I. P., ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "3f1ce71e-310d-415c-b3d4-3dd465742e1a",
+            "id": "b5ec126f-b65e-4d07-841b-6b3051213bef",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 520,
@@ -1527,7 +1527,7 @@
             "commerceName": "Wapa",
             "subtitle": "En Wapa, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "5927d6e6-326c-4864-9ada-622c825ea440",
+            "id": "614eb572-72db-4085-a9da-4af7ffb644df",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -1550,88 +1550,10 @@
             ]
         },
         {
-            "commerceName": "Dra Romina Dufour",
-            "subtitle": "En Dra Romina Dufour, ingresá y encontrá más beneficios.",
-            "logo": "",
-            "id": "a7eb1a02-d674-488a-86d8-90c0b188f07b",
-            "title": "5 cuotas cero interés",
-            "category": {
-                "sectorId": 190,
-                "name": "SALUD_Y_BIENESTAR",
-                "id": 103,
-                "title": "Salud y bienestar",
-                "subcategory": {
-                    "name": "ESPECIALIDADES_MEDICAS",
-                    "id": 15,
-                    "title": "Especialidades médicas"
-                }
-            },
-            "urlDetail": null,
-            "url": "dra_romina_dufour",
-            "tags": [
-                {
-                    "description": "Todos los dias",
-                    "type": "days"
-                }
-            ]
-        },
-        {
-            "commerceName": "Celulares Rivadavia",
-            "subtitle": "En Celulares Rivadavia.",
-            "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019222_jFjcvt2uY1YIqeMV.png",
-            "id": "6e77991c-a0ab-4354-9be6-8cb9d00e48a0",
-            "title": "6 cuotas cero interés",
-            "category": {
-                "sectorId": 40,
-                "name": "ELECTRO_Y_TECNOLOGIA",
-                "id": 102,
-                "title": "Electro y tecnología",
-                "subcategory": {
-                    "name": "COMPUTACION_Y_ELECTRONICA",
-                    "id": 26,
-                    "title": "Computación y electronica"
-                }
-            },
-            "urlDetail": "6_cuotas_cero_interes-C",
-            "url": "celulares_rivadavia",
-            "tags": [
-                {
-                    "description": "Todos los dias",
-                    "type": "days"
-                }
-            ]
-        },
-        {
-            "commerceName": "Trelew",
-            "subtitle": "En Trelew, ingresá y encontrá más beneficios.",
-            "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030716289482_a4FIFJdxlPHpWjbX.png",
-            "id": "0c85904c-951f-4822-9c32-460cfdb57a07",
-            "title": "4 cuotas cero interés",
-            "category": {
-                "sectorId": 425,
-                "name": "ALIMENTOS",
-                "id": 111,
-                "title": "Alimentos",
-                "subcategory": {
-                    "name": "CARNICERIAS_Y_VERDULERIAS",
-                    "id": 4,
-                    "title": "Carnicerías y verdulerías"
-                }
-            },
-            "urlDetail": null,
-            "url": "trelew",
-            "tags": [
-                {
-                    "description": "Días seleccionados",
-                    "type": "days"
-                }
-            ]
-        },
-        {
             "commerceName": "Lulu",
             "subtitle": "En Lulu, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750029136_XvezPPdKKhv1LfOH.png",
-            "id": "b8e320a0-3c1b-47e3-823d-4d05d13f6e05",
+            "id": "c3dd830f-c0c6-4d40-a636-888c783d5754",
             "title": "6 cuotas cero interés",
             "category": {
                 "sectorId": 390,
@@ -1657,7 +1579,7 @@
             "commerceName": "Colchoneria y Blanqueria Spymo",
             "subtitle": "En Colchoneria y Blanqueria Spymo, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019618_osaMaDRaUGR67ncl.png",
-            "id": "492d0d65-2c51-46db-b7d2-7610618bf2cf",
+            "id": "47e45742-6cad-4bee-9c54-700a2dfa8b25",
             "title": "1 cuota menos y 10 cuotas cero interés",
             "category": {
                 "sectorId": 130,
@@ -1680,24 +1602,24 @@
             ]
         },
         {
-            "commerceName": "Kiosco Alianza",
-            "subtitle": "En Kiosco Alianza.",
-            "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020273685139_XY15fPk1crCsZMzT.png",
-            "id": "4c2b376a-7021-4a88-a9dd-35741c95cca4",
-            "title": "Plan Zeta cero interés",
+            "commerceName": "Dra Romina Dufour",
+            "subtitle": "En Dra Romina Dufour, ingresá y encontrá más beneficios.",
+            "logo": "",
+            "id": "d49916a8-d64f-4a84-bc0f-919733b26c5f",
+            "title": "5 cuotas cero interés",
             "category": {
-                "sectorId": 116,
-                "name": "SUPERMERCADOS",
-                "id": 101,
-                "title": "Supermercados",
+                "sectorId": 190,
+                "name": "SALUD_Y_BIENESTAR",
+                "id": 103,
+                "title": "Salud y bienestar",
                 "subcategory": {
-                    "name": "DESPENSAS",
-                    "id": 1,
-                    "title": "Despensas"
+                    "name": "ESPECIALIDADES_MEDICAS",
+                    "id": 15,
+                    "title": "Especialidades médicas"
                 }
             },
-            "urlDetail": "plan_zeta_cero_interes-C",
-            "url": "kiosco_alianza",
+            "urlDetail": null,
+            "url": "dra_romina_dufour",
             "tags": [
                 {
                     "description": "Todos los dias",
@@ -1709,7 +1631,7 @@
             "commerceName": "Soldasur Sa",
             "subtitle": "En Soldasur Sa, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_760002563_DED6E8Co62jTVbxd.png",
-            "id": "e9e54cd9-cd44-46e2-ad37-ea0451638b9d",
+            "id": "b2214d71-ed38-4c02-9b6e-d72d4d701acf",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 230,
@@ -1732,10 +1654,88 @@
             ]
         },
         {
+            "commerceName": "Kiosco Alianza",
+            "subtitle": "En Kiosco Alianza.",
+            "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020273685139_XY15fPk1crCsZMzT.png",
+            "id": "4fdaede9-097c-45ee-8b24-2e4ebdf434f2",
+            "title": "Plan Zeta cero interés",
+            "category": {
+                "sectorId": 116,
+                "name": "SUPERMERCADOS",
+                "id": 101,
+                "title": "Supermercados",
+                "subcategory": {
+                    "name": "DESPENSAS",
+                    "id": 1,
+                    "title": "Despensas"
+                }
+            },
+            "urlDetail": "plan_zeta_cero_interes-C",
+            "url": "kiosco_alianza",
+            "tags": [
+                {
+                    "description": "Todos los dias",
+                    "type": "days"
+                }
+            ]
+        },
+        {
+            "commerceName": "Celulares Rivadavia",
+            "subtitle": "En Celulares Rivadavia.",
+            "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019222_jFjcvt2uY1YIqeMV.png",
+            "id": "11a304a9-12d5-4bf5-9f07-df702078d07c",
+            "title": "6 cuotas cero interés",
+            "category": {
+                "sectorId": 40,
+                "name": "ELECTRO_Y_TECNOLOGIA",
+                "id": 102,
+                "title": "Electro y tecnología",
+                "subcategory": {
+                    "name": "COMPUTACION_Y_ELECTRONICA",
+                    "id": 26,
+                    "title": "Computación y electronica"
+                }
+            },
+            "urlDetail": "6_cuotas_cero_interes-C",
+            "url": "celulares_rivadavia",
+            "tags": [
+                {
+                    "description": "Todos los dias",
+                    "type": "days"
+                }
+            ]
+        },
+        {
+            "commerceName": "Trelew",
+            "subtitle": "En Trelew, ingresá y encontrá más beneficios.",
+            "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030716289482_a4FIFJdxlPHpWjbX.png",
+            "id": "599aefca-98c9-4c56-ac87-e522bdfc7fb2",
+            "title": "4 cuotas cero interés",
+            "category": {
+                "sectorId": 425,
+                "name": "ALIMENTOS",
+                "id": 111,
+                "title": "Alimentos",
+                "subcategory": {
+                    "name": "CARNICERIAS_Y_VERDULERIAS",
+                    "id": 4,
+                    "title": "Carnicerías y verdulerías"
+                }
+            },
+            "urlDetail": null,
+            "url": "trelew",
+            "tags": [
+                {
+                    "description": "Días seleccionados",
+                    "type": "days"
+                }
+            ]
+        },
+        {
             "commerceName": "Accesorios Rivadavia",
             "subtitle": "En Accesorios Rivadavia.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750011658_5FfLCeD0wb8vD3lp.png",
-            "id": "0326365f-38fb-43d0-9a53-659b1b7d4c97",
+            "id": "1680d8e7-8f02-4e49-aa21-08e2458979eb",
             "title": "6 cuotas cero interés",
             "category": {
                 "sectorId": 40,
@@ -1761,7 +1761,7 @@
             "commerceName": "Materiales y Servicios S. R. L.",
             "subtitle": "En Materiales y Servicios S. R. L..",
             "logo": "",
-            "id": "f03081b0-c47f-4b0b-a208-c8d315bc96c1",
+            "id": "fcf6b5db-d986-43c1-b61f-0cdacf8c0467",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 360,
@@ -1787,7 +1787,7 @@
             "commerceName": "Autofarma",
             "subtitle": "En Autofarma, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030708661127_jYp6L68TN2MgbV0D.png",
-            "id": "d2a0ba09-7d4f-4dba-868f-0d13bff13a01",
+            "id": "b4adda3b-1b99-444c-83d1-b02335b585b2",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 220,
@@ -1813,7 +1813,7 @@
             "commerceName": "Wapa Ii",
             "subtitle": "En Wapa Ii.",
             "logo": "",
-            "id": "ec8d83af-940b-4aec-ad86-2a4983cda8ba",
+            "id": "ce223a98-fad5-48ba-8f65-4ac45ea2ff11",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -1839,7 +1839,7 @@
             "commerceName": "Alfa Hogar",
             "subtitle": "En Alfa Hogar, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707771654_1Z4rFKCrmcN3pFs7.png",
-            "id": "6b356de9-a810-4bd7-ac9c-bcdac1da5895",
+            "id": "1d20fc9a-584e-4d97-a6e4-8e2fe29775fa",
             "title": "14 cuotas cero interés",
             "category": {
                 "sectorId": 60,
@@ -1865,7 +1865,7 @@
             "commerceName": "Chics Cosas de Chica",
             "subtitle": "En Chics Cosas de Chica.",
             "logo": "",
-            "id": "685a59d5-1ecc-4271-9510-d30b3bde3ec9",
+            "id": "7fa85916-9fd5-4f13-9fc4-2dfaaf685756",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 470,
@@ -1891,7 +1891,7 @@
             "commerceName": "Joyeria Relojeria el Trust",
             "subtitle": "En Joyeria Relojeria el Trust.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0027063565151_Ai1LjTGUJESM5z3V.png",
-            "id": "dd52d21f-fc1d-4a4e-8b14-c8034d0d6c5c",
+            "id": "2f35c503-aa0e-4bea-8678-3403e9f24b55",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 290,
@@ -1917,7 +1917,7 @@
             "commerceName": "Hola Mola",
             "subtitle": "En Hola Mola.",
             "logo": "",
-            "id": "869b47b2-57c7-4b50-a644-91319aef5159",
+            "id": "51359165-422e-4ce0-9b85-ef1b09225001",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 470,
@@ -1943,7 +1943,7 @@
             "commerceName": "Lazaro",
             "subtitle": "En Lazaro, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_380070584_TVdgmPngDoAMGzFG.png",
-            "id": "5ff77941-2415-4328-95e1-5595bcb35299",
+            "id": "69018515-c64f-468f-87ac-4c47cbe9a85e",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 350,
@@ -1969,7 +1969,7 @@
             "commerceName": "Domingo Granja",
             "subtitle": "En Domingo Granja.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750003611_TqkplyUFiYzSicd6.png",
-            "id": "0d2a8589-349c-448b-a55c-edeba4030b25",
+            "id": "f177f201-8b46-4427-b148-fc866d6f637c",
             "title": "6 cuotas cero interés",
             "category": {
                 "sectorId": 360,
@@ -1995,7 +1995,7 @@
             "commerceName": "Anglers Aventuras Srl",
             "subtitle": "En Anglers Aventuras Srl, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750020200_5x4VDR5nXI7DljJV.png",
-            "id": "535359ad-08f2-4d57-950b-3b8fd2800745",
+            "id": "0d2fccd4-b383-41d6-be58-889530ccad85",
             "title": "12 cuotas cero interés",
             "category": {
                 "sectorId": 155,
@@ -2021,7 +2021,7 @@
             "commerceName": "Lacar",
             "subtitle": "En Lacar.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750004811_k4U7xBlhr8REpLLx.png",
-            "id": "128a94a5-53c2-48cd-a25a-9a578a9dff50",
+            "id": "502afcf7-b7e6-437e-b322-887d2373f6f3",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -2047,7 +2047,7 @@
             "commerceName": "Ona's Corralon S. R. L.",
             "subtitle": "En Ona's Corralon S. R. L..",
             "logo": "",
-            "id": "b59b8d21-da58-43d5-b1f5-d4522281b987",
+            "id": "b6591f12-c672-4d60-a304-6a5e7481c3f8",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 230,
@@ -2073,7 +2073,7 @@
             "commerceName": "Spymo Sofa",
             "subtitle": "En Spymo Sofa, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750031279_QuAZU6qPPsQFe8Rf.png",
-            "id": "b2a23494-4d55-4b9b-a1eb-7b6aca2759d0",
+            "id": "b51d97a7-bd54-4193-9823-c61f808daa8d",
             "title": "1 cuota menos y 10 cuotas cero interés",
             "category": {
                 "sectorId": 130,
@@ -2099,7 +2099,7 @@
             "commerceName": "Optica Lopez",
             "subtitle": "En Optica Lopez, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030716698242_rdVkW9vvWQohGgpA.png",
-            "id": "05afc2cb-0096-4071-bc4d-dcd8b459f0a9",
+            "id": "2e95127d-c74c-4d7f-9010-b98a98288d39",
             "title": "10 cuotas cero interés",
             "category": {
                 "sectorId": 430,
@@ -2125,7 +2125,7 @@
             "commerceName": "Mariano Acosta Neumaticos",
             "subtitle": "En Mariano Acosta Neumaticos.",
             "logo": "",
-            "id": "c3ec709a-be91-4e01-ba94-e70c3f6e4f93",
+            "id": "b227d261-b6f3-481d-ab2f-9a453fc240e1",
             "title": "10 cuotas cero interés",
             "category": {
                 "sectorId": 520,
@@ -2151,7 +2151,7 @@
             "commerceName": "Scandinavian",
             "subtitle": "En Scandinavian, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030640843329_EkWeYDGnh6o26YfW.png",
-            "id": "2f2f985a-aef9-4b56-9394-a10ee4d3fc16",
+            "id": "b2e98660-958b-404b-b43b-34e18713d731",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 155,
@@ -2177,7 +2177,7 @@
             "commerceName": "Calzados Mari - Esth",
             "subtitle": "En Calzados Mari - Esth, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "c4b3013e-283b-4cda-b92f-b828b5bde1d9",
+            "id": "4aa69794-9829-4bb8-80ab-15ab466a2aef",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 610,
@@ -2203,7 +2203,7 @@
             "commerceName": "Austral Repuestos",
             "subtitle": "En Austral Repuestos.",
             "logo": "",
-            "id": "ae31b137-36f1-42a7-9d6c-37cafc32ffa1",
+            "id": "c390229f-bc3e-42bc-bc68-fe143279b7db",
             "title": "6 cuotas cero interés",
             "category": {
                 "sectorId": 560,
@@ -2229,7 +2229,7 @@
             "commerceName": "Trevman Kumho Neumaticos",
             "subtitle": "En Trevman Kumho Neumaticos, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030635932518_jRlcKMDBWNHsnucc.png",
-            "id": "9f6f1a21-e1a9-4517-8b91-495e8dd11f42",
+            "id": "a4ad457c-ec98-449b-85a2-5e87c39b8e97",
             "title": "10 cuotas cero interés",
             "category": {
                 "sectorId": 560,
@@ -2255,7 +2255,7 @@
             "commerceName": "Iterbio Sas",
             "subtitle": "En Iterbio Sas, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_760024560_E9J1EHFTpQDl93OJ.png",
-            "id": "731dde06-6d59-4d6a-85d4-670453fdd0f1",
+            "id": "4ed1fadd-8f65-4ffd-98aa-92eae82ea1d2",
             "title": "6 cuotas cero interés",
             "category": {
                 "sectorId": 150,
@@ -2281,7 +2281,7 @@
             "commerceName": "Don Aldo Neumaticos",
             "subtitle": "En Don Aldo Neumaticos.",
             "logo": "",
-            "id": "e8e58b5c-9fb3-482d-a433-d7f0fc096845",
+            "id": "ba449889-7628-4f30-8a59-3258654631f9",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 560,
@@ -2307,7 +2307,7 @@
             "commerceName": "Municipalidad de Rio Grande",
             "subtitle": "En Municipalidad de Rio Grande, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "6d495ecf-61f1-463b-bac5-8d067545b5de",
+            "id": "d219dae4-1e6e-4857-a714-58ebae0d0ae8",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 8999,
@@ -2333,7 +2333,7 @@
             "commerceName": "Farmacia Posadas",
             "subtitle": "En Farmacia Posadas.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020229537742_gTaidUlNs4QiOHRR.png",
-            "id": "c3f6763d-c402-43c1-8b5b-d3cf8bae60da",
+            "id": "ea4b8a70-ecaa-4f0e-a971-4bf4722dbb14",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 220,
@@ -2359,7 +2359,7 @@
             "commerceName": "Guadis Jugueteria",
             "subtitle": "En Guadis Jugueteria.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0027116273026_PAgJpLlsgE0WOb6r.png",
-            "id": "6466de49-d48a-4da7-93ee-f011ff354053",
+            "id": "47274a48-f1f7-4124-8c51-33b6407787d1",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 300,
@@ -2380,7 +2380,7 @@
             "commerceName": "Corralon Naza",
             "subtitle": "En Corralon Naza.",
             "logo": "",
-            "id": "a639df27-430b-4b0f-b8d4-c8a7be35493f",
+            "id": "de8f40b5-eff9-46f6-a865-fa5aca388dfa",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 109,
@@ -2406,7 +2406,7 @@
             "commerceName": "Ms Patagonia Argentina Rgd",
             "subtitle": "En Ms Patagonia Argentina Rgd, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "5ab7bb91-450c-49c8-9331-3c65c74bdb6c",
+            "id": "7836d5c0-150c-413f-b718-b3fcf7a9d9de",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 530,
@@ -2427,7 +2427,7 @@
             "commerceName": "Torres Ariel Hernan",
             "subtitle": "En Torres Ariel Hernan.",
             "logo": "",
-            "id": "eb7b1acc-be90-45b5-bbe5-3b12fc13150a",
+            "id": "7f41e57c-c9c4-4c4c-b667-8125418fe908",
             "title": "6 cuotas cero interés",
             "category": {
                 "sectorId": 40,
@@ -2453,7 +2453,7 @@
             "commerceName": "Minimercado Champita",
             "subtitle": "En Minimercado Champita.",
             "logo": "",
-            "id": "f693f431-bd3b-4325-9ae5-785e84e383a8",
+            "id": "3da7e0ae-e0df-4bc2-8b81-37f5b16bd87d",
             "title": "Plan Zeta cero interés",
             "category": {
                 "sectorId": 116,
@@ -2479,7 +2479,7 @@
             "commerceName": "Tienda Buenos Aires",
             "subtitle": "En Tienda Buenos Aires.",
             "logo": "",
-            "id": "6d46c51b-7bf0-4617-a278-18628c58f785",
+            "id": "83b70c64-c2b2-42ae-8d54-ce67ddc135b4",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 155,
@@ -2505,7 +2505,7 @@
             "commerceName": "Montagne",
             "subtitle": "En Montagne, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030714303585_S1iNJ5kJ5l7F9J8L.png",
-            "id": "f27312a1-ca0f-4e1b-a6c6-e78a58d50dc6",
+            "id": "9c27af4a-fac1-4af2-a129-26c295d5d0e7",
             "title": "15% off y 12 cuotas cero interés",
             "category": {
                 "sectorId": 155,
@@ -2531,7 +2531,7 @@
             "commerceName": "Patagonia Lighting S R. L.",
             "subtitle": "En Patagonia Lighting S R. L., ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "cd43d115-0822-45d4-8c2a-0d3201aedc4d",
+            "id": "5e4f4ba3-94d0-4b16-8dff-c5dec883d4ca",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 180,
@@ -2557,7 +2557,7 @@
             "commerceName": "Transporte Montiel",
             "subtitle": "En Transporte Montiel, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "d34d309c-70e8-46b9-ae31-8785ba367169",
+            "id": "8cd6468e-1026-4220-bab4-97fc0691d44f",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 574,
@@ -2583,7 +2583,7 @@
             "commerceName": "Mundo Maderas",
             "subtitle": "En Mundo Maderas, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "c30812d1-a81b-4253-a961-1b62234fbe6a",
+            "id": "dc833a23-c052-4288-bd01-b605dc7ee71f",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 230,
@@ -2609,7 +2609,7 @@
             "commerceName": "Isla Race S A. S.",
             "subtitle": "En Isla Race S A. S., ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "1bfb7346-29fc-48eb-a299-fb50ddf21ed1",
+            "id": "9bb42b9a-559a-4290-95af-41fa47aefde2",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 624,
@@ -2635,7 +2635,7 @@
             "commerceName": "Fuego Bikes",
             "subtitle": "En Fuego Bikes, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "aa04415d-6c19-49be-9543-89d385d5043d",
+            "id": "cefec38e-4f3d-413f-97eb-72e7d6f59ab7",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 155,
@@ -2661,7 +2661,7 @@
             "commerceName": "Pintureria Ti - Son",
             "subtitle": "En Pintureria Ti - Son, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "be062e6f-9ba2-4bec-99f2-649980d8306c",
+            "id": "dfdb2d52-fd56-43c1-8089-be4a057350c3",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 460,
@@ -2687,7 +2687,7 @@
             "commerceName": "Dulce Lucia",
             "subtitle": "En Dulce Lucia, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "5bf7bfb7-2ff4-4178-8551-43ef89e445d3",
+            "id": "ed1648c8-1100-419e-8098-96813647e286",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 320,
@@ -2713,7 +2713,7 @@
             "commerceName": "Western Jeans",
             "subtitle": "En Western Jeans, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "07ac90e0-fc05-4ebc-8969-e7ebcdbe5912",
+            "id": "d3471c6b-4d3c-4497-9ff3-1420fadc898b",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -2739,7 +2739,7 @@
             "commerceName": "Western",
             "subtitle": "En Western, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "0f673e7f-bd59-4b75-9ddf-51f93ac96fde",
+            "id": "fe9f5b4b-d73f-49f3-aba6-cc197373635e",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -2765,7 +2765,7 @@
             "commerceName": "Rhodes",
             "subtitle": "En Rhodes, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "24f52513-96a9-4ff2-ae56-c9290c8dda50",
+            "id": "fb84425b-e41c-4f8e-b84f-0d2023cf7d40",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 290,
@@ -2788,135 +2788,10 @@
             ]
         },
         {
-            "commerceName": "Mr Drinks Beer Shop",
-            "subtitle": "En Mr Drinks Beer Shop.",
-            "logo": "",
-            "id": "0053d490-f20e-4e0a-b8b6-2eca0ff688fe",
-            "title": "30% off",
-            "category": {
-                "sectorId": 550,
-                "name": "SUPERMERCADOS",
-                "id": 101,
-                "title": "Supermercados",
-                "subcategory": {
-                    "name": "HIPERMERCADOS",
-                    "id": 3,
-                    "title": "Hipermercados"
-                }
-            },
-            "urlDetail": "1_cuota_cero_interes-30_de_descuento-C",
-            "url": "mr_drinks_beer_shop",
-            "tags": [
-                {
-                    "description": "Los viernes",
-                    "type": "days"
-                }
-            ]
-        },
-        {
-            "commerceName": "Ecus Cars Repuestos",
-            "subtitle": "En Ecus Cars Repuestos, ingresá y encontrá más beneficios.",
-            "logo": "",
-            "id": "c20eb585-129f-48bf-8379-9db25c70c5f8",
-            "title": "8 cuotas cero interés",
-            "category": {
-                "sectorId": 560,
-                "name": "AUTOS_Y_MOTOS",
-                "id": 107,
-                "title": "Autos y motos",
-                "subcategory": {
-                    "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
-                    "id": 9,
-                    "title": "Repuestos y accesorios para autos"
-                }
-            },
-            "urlDetail": null,
-            "url": "ecus_cars_repuestos",
-            "tags": [
-                {
-                    "description": "Martes y viernes",
-                    "type": "days"
-                }
-            ]
-        },
-        {
-            "commerceName": "Mh Graphic",
-            "subtitle": "En Mh Graphic, ingresá y encontrá más beneficios.",
-            "logo": "",
-            "id": "6796fd83-e34b-46b5-ab7c-0b4f04550fc2",
-            "title": "8 cuotas cero interés",
-            "category": {
-                "sectorId": 280,
-                "name": "LIBRERIAS",
-                "id": 119,
-                "title": "Librerías"
-            },
-            "urlDetail": null,
-            "url": "mh_graphic",
-            "tags": [
-                {
-                    "description": "Martes y viernes",
-                    "type": "days"
-                }
-            ]
-        },
-        {
-            "commerceName": "Santino Big Shop 2",
-            "subtitle": "En Santino Big Shop 2.",
-            "logo": "",
-            "id": "f1a0ab65-e9a1-4825-a7b3-06594647b66f",
-            "title": "30% off",
-            "category": {
-                "sectorId": 550,
-                "name": "SUPERMERCADOS",
-                "id": 101,
-                "title": "Supermercados",
-                "subcategory": {
-                    "name": "HIPERMERCADOS",
-                    "id": 3,
-                    "title": "Hipermercados"
-                }
-            },
-            "urlDetail": "especial-1_cuota_cero_interes-30_de_descuento-C",
-            "url": "santino_big_shop_2",
-            "tags": [
-                {
-                    "description": "Los viernes",
-                    "type": "days"
-                }
-            ]
-        },
-        {
-            "commerceName": "Chic Chic Indumentaria",
-            "subtitle": "En Chic Chic Indumentaria, ingresá y encontrá más beneficios.",
-            "logo": "",
-            "id": "1c05eefa-acf1-4667-9ac7-eac58b9bf658",
-            "title": "30% off y Plan Zeta cero interés",
-            "category": {
-                "sectorId": 400,
-                "name": "MODA_Y_ACCESORIOS",
-                "id": 100,
-                "title": "Moda y accesorios",
-                "subcategory": {
-                    "name": "INDUMENTARIA",
-                    "id": 55,
-                    "title": "Indumentaria"
-                }
-            },
-            "urlDetail": null,
-            "url": "chic_chic_indumentaria",
-            "tags": [
-                {
-                    "description": "Los martes",
-                    "type": "days"
-                }
-            ]
-        },
-        {
             "commerceName": "Lamparas de Sal Tdf",
             "subtitle": "En Lamparas de Sal Tdf, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "6e4808bb-1b73-457f-929b-38895d281d55",
+            "id": "56c0b5c7-1ce2-431d-a931-c8e380e543c6",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 180,
@@ -2939,10 +2814,62 @@
             ]
         },
         {
+            "commerceName": "Chic Chic Indumentaria",
+            "subtitle": "En Chic Chic Indumentaria, ingresá y encontrá más beneficios.",
+            "logo": "",
+            "id": "47d79a27-1b39-4d6c-af2e-9869e1c07153",
+            "title": "30% off y Plan Zeta cero interés",
+            "category": {
+                "sectorId": 400,
+                "name": "MODA_Y_ACCESORIOS",
+                "id": 100,
+                "title": "Moda y accesorios",
+                "subcategory": {
+                    "name": "INDUMENTARIA",
+                    "id": 55,
+                    "title": "Indumentaria"
+                }
+            },
+            "urlDetail": null,
+            "url": "chic_chic_indumentaria",
+            "tags": [
+                {
+                    "description": "Los martes",
+                    "type": "days"
+                }
+            ]
+        },
+        {
+            "commerceName": "Ph Showroom",
+            "subtitle": "En Ph Showroom, ingresá y encontrá más beneficios.",
+            "logo": "",
+            "id": "99590589-0db2-4f2d-af0b-508dbc8d8fff",
+            "title": "30% off y Plan Zeta cero interés",
+            "category": {
+                "sectorId": 390,
+                "name": "MODA_Y_ACCESORIOS",
+                "id": 100,
+                "title": "Moda y accesorios",
+                "subcategory": {
+                    "name": "INDUMENTARIA",
+                    "id": 55,
+                    "title": "Indumentaria"
+                }
+            },
+            "urlDetail": null,
+            "url": "ph_showroom",
+            "tags": [
+                {
+                    "description": "Los martes",
+                    "type": "days"
+                }
+            ]
+        },
+        {
             "commerceName": "Electro Service",
             "subtitle": "En Electro Service, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "71667252-5989-4b83-9b03-265af1797003",
+            "id": "593065ab-eaa8-40e5-8b57-e35ed9338b76",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 40,
@@ -2965,10 +2892,109 @@
             ]
         },
         {
+            "commerceName": "Santino Big Shop 2",
+            "subtitle": "En Santino Big Shop 2.",
+            "logo": "",
+            "id": "8c37d194-462a-4e1b-93cf-1908fc3beab7",
+            "title": "30% off",
+            "category": {
+                "sectorId": 550,
+                "name": "SUPERMERCADOS",
+                "id": 101,
+                "title": "Supermercados",
+                "subcategory": {
+                    "name": "HIPERMERCADOS",
+                    "id": 3,
+                    "title": "Hipermercados"
+                }
+            },
+            "urlDetail": "especial-1_cuota_cero_interes-30_de_descuento-C",
+            "url": "santino_big_shop_2",
+            "tags": [
+                {
+                    "description": "Los viernes",
+                    "type": "days"
+                }
+            ]
+        },
+        {
+            "commerceName": "Mr Drinks Beer Shop",
+            "subtitle": "En Mr Drinks Beer Shop.",
+            "logo": "",
+            "id": "bf04ac02-9eab-4bbf-8923-2bd45d1ea612",
+            "title": "30% off",
+            "category": {
+                "sectorId": 550,
+                "name": "SUPERMERCADOS",
+                "id": 101,
+                "title": "Supermercados",
+                "subcategory": {
+                    "name": "HIPERMERCADOS",
+                    "id": 3,
+                    "title": "Hipermercados"
+                }
+            },
+            "urlDetail": "1_cuota_cero_interes-30_de_descuento-C",
+            "url": "mr_drinks_beer_shop",
+            "tags": [
+                {
+                    "description": "Los viernes",
+                    "type": "days"
+                }
+            ]
+        },
+        {
+            "commerceName": "Mh Graphic",
+            "subtitle": "En Mh Graphic, ingresá y encontrá más beneficios.",
+            "logo": "",
+            "id": "5b7d304a-094b-4fad-8071-77dad40a7231",
+            "title": "8 cuotas cero interés",
+            "category": {
+                "sectorId": 280,
+                "name": "LIBRERIAS",
+                "id": 119,
+                "title": "Librerías"
+            },
+            "urlDetail": null,
+            "url": "mh_graphic",
+            "tags": [
+                {
+                    "description": "Martes y viernes",
+                    "type": "days"
+                }
+            ]
+        },
+        {
+            "commerceName": "Ecus Cars Repuestos",
+            "subtitle": "En Ecus Cars Repuestos, ingresá y encontrá más beneficios.",
+            "logo": "",
+            "id": "984e590d-f2fe-499c-ab39-c04dd4b16ba4",
+            "title": "8 cuotas cero interés",
+            "category": {
+                "sectorId": 560,
+                "name": "AUTOS_Y_MOTOS",
+                "id": 107,
+                "title": "Autos y motos",
+                "subcategory": {
+                    "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
+                    "id": 9,
+                    "title": "Repuestos y accesorios para autos"
+                }
+            },
+            "urlDetail": null,
+            "url": "ecus_cars_repuestos",
+            "tags": [
+                {
+                    "description": "Martes y viernes",
+                    "type": "days"
+                }
+            ]
+        },
+        {
             "commerceName": "Sarah Oly",
             "subtitle": "En Sarah Oly, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "9812ffab-5c95-43fc-86d2-17e897dd6fa3",
+            "id": "f8f8b637-aeaf-4409-84f2-9137004f0b4b",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 480,
@@ -2994,7 +3020,7 @@
             "commerceName": "Farmacia Margen Sur",
             "subtitle": "En Farmacia Margen Sur, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "8c164152-e317-4d14-8f28-0e833b9976f1",
+            "id": "eaab3db7-b6b9-43aa-bb1f-64ea0438f8de",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 220,
@@ -3017,36 +3043,10 @@
             ]
         },
         {
-            "commerceName": "Ph Showroom",
-            "subtitle": "En Ph Showroom, ingresá y encontrá más beneficios.",
-            "logo": "",
-            "id": "cf4738ca-421f-4a9b-9891-c3a4903b3649",
-            "title": "30% off y Plan Zeta cero interés",
-            "category": {
-                "sectorId": 390,
-                "name": "MODA_Y_ACCESORIOS",
-                "id": 100,
-                "title": "Moda y accesorios",
-                "subcategory": {
-                    "name": "INDUMENTARIA",
-                    "id": 55,
-                    "title": "Indumentaria"
-                }
-            },
-            "urlDetail": null,
-            "url": "ph_showroom",
-            "tags": [
-                {
-                    "description": "Los martes",
-                    "type": "days"
-                }
-            ]
-        },
-        {
             "commerceName": "Fulanas de Tal",
             "subtitle": "En Fulanas de Tal, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "1576f1bd-fd80-41c1-b56e-3952a715edc5",
+            "id": "f4cfe2bd-a2aa-4f20-93e8-3012a7069cd8",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 390,
@@ -3072,7 +3072,7 @@
             "commerceName": "Martina Store",
             "subtitle": "En Martina Store.",
             "logo": "",
-            "id": "16ea2ff7-44af-4c22-9652-a8551f8f54fc",
+            "id": "efe4767a-6a53-4688-a028-3efd3c34d28c",
             "title": "4 cuotas cero interés",
             "category": {
                 "sectorId": 610,
@@ -3098,7 +3098,7 @@
             "commerceName": "Acuarela Centro",
             "subtitle": "En Acuarela Centro, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "c937ecb2-6e23-404b-b6e5-1dd1aa3b330d",
+            "id": "1b9a5fdb-612f-4550-8a66-d5933dbe10de",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 330,
@@ -3119,7 +3119,7 @@
             "commerceName": "La Casa del Plomero",
             "subtitle": "En La Casa del Plomero, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "c3fdfb7e-c1b5-421d-8160-28270093e5e2",
+            "id": "c802b0fc-ac1a-428c-9146-9ed22d10644b",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 230,
@@ -3145,7 +3145,7 @@
             "commerceName": "Farmacia Bahia",
             "subtitle": "En Farmacia Bahia, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "0c7e26f2-73df-41ec-bda2-6532b42c7521",
+            "id": "8feb9359-4e58-4b58-bac2-d8da3298dde3",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 220,
@@ -3171,7 +3171,7 @@
             "commerceName": "Farmacia del Pueblo",
             "subtitle": "En Farmacia del Pueblo, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030708661127_jYp6L68TN2MgbV0D.png",
-            "id": "8e712e9b-a1b6-406d-86be-7aa48edb26bb",
+            "id": "b0280a5f-9af8-4c45-b9a5-3d79edc6c0f4",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 220,
@@ -3197,7 +3197,7 @@
             "commerceName": "Oruga",
             "subtitle": "En Oruga, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "8af58d8a-571d-41b2-80ec-19570b486a81",
+            "id": "8bfa5af6-03ab-4e47-81c8-5ef167440e45",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -3223,7 +3223,7 @@
             "commerceName": "Peumamiya",
             "subtitle": "En Peumamiya, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "73bc8296-86f3-4eb0-847b-58669030d3b5",
+            "id": "2787337d-4806-429e-b267-64a7b8dd7d7e",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 470,
@@ -3249,7 +3249,7 @@
             "commerceName": "Linea B Sa",
             "subtitle": "En Linea B Sa, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "a3104d15-09bf-41ec-9183-256be1f82c93",
+            "id": "593bb717-7609-4a3c-be9d-b0330d437b9f",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 20,
@@ -3275,7 +3275,7 @@
             "commerceName": "Alan",
             "subtitle": "En Alan, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "f4a688d0-5425-41c7-8440-b7748f998c77",
+            "id": "4e4cf449-69d8-4783-8abc-697fb6097c95",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -3301,7 +3301,7 @@
             "commerceName": "Anastasia",
             "subtitle": "En Anastasia, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750005118_DjRZOI0WpUKqhd81.png",
-            "id": "356f7db8-ee32-454b-8f21-4afa8115450d",
+            "id": "93e29d84-1082-4fd8-ac51-9af59f679e8e",
             "title": "12 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -3327,7 +3327,7 @@
             "commerceName": "Abrojitos Bb",
             "subtitle": "En Abrojitos Bb, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "0f0974bb-d6e7-4d62-be35-3f860a65bb5a",
+            "id": "f073574b-6e3a-4d87-a870-6a285917e80e",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 380,
@@ -3353,7 +3353,7 @@
             "commerceName": "Bodysculpt Rio Grande",
             "subtitle": "En Bodysculpt Rio Grande, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "12f04d89-4f90-4898-bf95-8ef2aef51ddb",
+            "id": "b2d0944e-34ef-44dc-933f-1c19330f9b0d",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 155,
@@ -3379,7 +3379,7 @@
             "commerceName": "Crazy",
             "subtitle": "En Crazy, ingresá y encontrá más beneficios.",
             "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750018366_ogQChSEq9meuVScq.png",
-            "id": "ca4dbcd7-da23-4e9c-a7df-427b82530a0d",
+            "id": "92d19eaa-2e58-4c1a-9dd1-bfa97968e973",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 410,
@@ -3405,7 +3405,7 @@
             "commerceName": "Sanitarios y Repuestos Fede",
             "subtitle": "En Sanitarios y Repuestos Fede, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "e4e7c173-b02a-48b4-aa52-5acf74252d06",
+            "id": "0ada545d-2881-4723-b6cb-f5d2f53be7d8",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 60,
@@ -3431,7 +3431,7 @@
             "commerceName": "Morena Moda",
             "subtitle": "En Morena Moda, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "31e19c70-5363-461a-8e71-9f4e44681df2",
+            "id": "5898db5c-7a86-4db2-ad3d-8e6f06f30b68",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 390,
@@ -3457,7 +3457,7 @@
             "commerceName": "Cr Motos",
             "subtitle": "En Cr Motos, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "7d58767b-53e7-4c24-9b3b-65cea0195a2a",
+            "id": "23fef91b-497f-409a-919f-38dece682a5a",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 152,
@@ -3483,7 +3483,7 @@
             "commerceName": "Mini Boutique",
             "subtitle": "En Mini Boutique, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "4bd94018-761a-4482-90ff-78c1a343585a",
+            "id": "bcc184fb-fa73-4a4b-87b3-9b21c406658c",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -3509,7 +3509,7 @@
             "commerceName": "Autoglass",
             "subtitle": "En Autoglass, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "a75c17d1-4d60-4de2-8521-aaaa53932864",
+            "id": "db32aeea-3c4d-4e0a-a65c-32b6c9b6bc75",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 560,
@@ -3535,7 +3535,7 @@
             "commerceName": "Levati",
             "subtitle": "En Levati, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "35f4b45e-e82b-4a30-a717-f9fffbe5bcf4",
+            "id": "a1c85d27-f306-4163-af35-9a1a0b26902e",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 455,
@@ -3561,7 +3561,7 @@
             "commerceName": "Drako Gnc",
             "subtitle": "En Drako Gnc, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "d5349122-9477-4fe8-bd6c-f62b41c36534",
+            "id": "fcbb7425-cee5-43dc-936d-cb9c2d59e41b",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 520,
@@ -3587,7 +3587,7 @@
             "commerceName": "No Callare",
             "subtitle": "En No Callare, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "35a1bda1-b711-4143-af0b-08fb8c70d4b1",
+            "id": "69273aa6-fce8-4303-829e-324eb5777ec1",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -3613,7 +3613,7 @@
             "commerceName": "Kahlo",
             "subtitle": "En Kahlo, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "de1c419e-13c8-4df9-b18e-676c6a488a7f",
+            "id": "30e8c2fe-ab23-4e7e-b0c6-a3559d09494a",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 390,
@@ -3639,7 +3639,7 @@
             "commerceName": "Motohouse",
             "subtitle": "En Motohouse, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "abe5109b-e33f-464e-88a7-9a6a189ca616",
+            "id": "b3c73f58-6679-42ae-a0dc-d970f232f1f3",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 560,
@@ -3665,7 +3665,7 @@
             "commerceName": "Artesanias Kospi",
             "subtitle": "En Artesanias Kospi, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "dd03960b-1fd6-472f-abbe-92ef304fa0c8",
+            "id": "5742a366-cc62-44d8-b035-378dc92e4b10",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 290,
@@ -3691,7 +3691,7 @@
             "commerceName": "Bejira Peluqueria Unisex",
             "subtitle": "En Bejira Peluqueria Unisex, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "cf768700-8644-4a7d-a032-fb5ebda26179",
+            "id": "0a712782-443f-43a1-9e30-0585f1b473aa",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 450,
@@ -3717,7 +3717,7 @@
             "commerceName": "Variedades",
             "subtitle": "En Variedades, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "d7acc8d0-4f87-4890-b459-df6488ddd0cf",
+            "id": "c04f856b-7ed6-4464-a48c-c15d79fb2319",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 370,
@@ -3743,7 +3743,7 @@
             "commerceName": "Stylofs",
             "subtitle": "En Stylofs, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "e507888f-c24b-4dc0-90bc-eb067d242ec6",
+            "id": "4a6075ca-dc45-4a76-b202-0effed93ee70",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 450,
@@ -3769,7 +3769,7 @@
             "commerceName": "Https://www. Instagram. Com/magnolia. Tdf/",
             "subtitle": "En Https://www. Instagram. Com/magnolia. Tdf/, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "820341a3-1bc5-4b0b-b86e-54834ac11e20",
+            "id": "0698294d-f818-4507-b642-a55449eea468",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -3795,7 +3795,7 @@
             "commerceName": "Nina",
             "subtitle": "En Nina, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "c28b23a2-4d68-440b-a714-5c1889a948ed",
+            "id": "5b6f1b30-0452-4869-8297-d84ca8a37052",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 390,
@@ -3821,7 +3821,7 @@
             "commerceName": "Oasis",
             "subtitle": "En Oasis, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "cd655417-80d6-415f-8e9a-a2b6e491a8ea",
+            "id": "710490cc-26ac-4d0d-a042-3ccaea39b6c0",
             "title": "6 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -3847,7 +3847,7 @@
             "commerceName": "Bodysculpt",
             "subtitle": "En Bodysculpt, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "ec497bcd-ad2a-4110-828b-374262a42bd2",
+            "id": "1a658b9f-5529-4cdc-98e2-96a6149ed3aa",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 8999,
@@ -3873,7 +3873,7 @@
             "commerceName": "Almacen de Ramos Generales",
             "subtitle": "En Almacen de Ramos Generales, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "36a14937-e0d8-4c57-b5e4-349de7e892e2",
+            "id": "4c8c9968-2610-46db-a4ce-72bcdefea3a0",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 470,
@@ -3899,7 +3899,7 @@
             "commerceName": "Placa Centro",
             "subtitle": "En Placa Centro, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "88a5b613-5425-4f94-83d4-2cdd0be16510",
+            "id": "e596fd9e-0272-4706-a4fe-09fdca9b2ee0",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 360,
@@ -3925,7 +3925,7 @@
             "commerceName": "Tuti Frutti",
             "subtitle": "En Tuti Frutti.",
             "logo": "",
-            "id": "9b7b7f77-5bca-4408-b66c-064cb558bd6f",
+            "id": "43e0bebf-3d3f-4dc6-bf50-d0de8b627680",
             "title": "30% off",
             "category": {
                 "sectorId": 550,
@@ -3951,7 +3951,7 @@
             "commerceName": "Grandiosas",
             "subtitle": "En Grandiosas, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "0e721ad6-2fed-4c1c-ad55-3c538ed369d2",
+            "id": "adb5f03d-e61f-44fa-b147-fcd4ce9326cd",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 390,
@@ -3977,7 +3977,7 @@
             "commerceName": "Abby Chuela",
             "subtitle": "En Abby Chuela, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "2804d83d-d6f6-4be9-8159-34205550f8ba",
+            "id": "520b9696-6a82-4b0b-a52d-99cb902b602f",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 400,
@@ -4003,7 +4003,7 @@
             "commerceName": "Grande Hotel",
             "subtitle": "En Grande Hotel, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "b3263fdc-50ae-4123-99d8-4093b3b9ed73",
+            "id": "6771578a-4067-4a62-8a33-d962e09602f8",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 275,
@@ -4029,7 +4029,7 @@
             "commerceName": "Viceversa",
             "subtitle": "En Viceversa, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "f4113b16-33b2-4afd-9e1d-ac1e7f5b5da0",
+            "id": "e91b8d3a-772d-4086-92a4-e82c6c228b3e",
             "title": "12 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -4055,7 +4055,7 @@
             "commerceName": "Pe - Kes",
             "subtitle": "En Pe - Kes, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "9f28875d-08d8-45f1-bb36-7f3290452874",
+            "id": "5d551d94-4874-4f16-901d-597aba85991f",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 400,
@@ -4081,7 +4081,7 @@
             "commerceName": "Fulanos",
             "subtitle": "En Fulanos, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "6af963d1-7b02-43c5-be26-9fe0f2f64eea",
+            "id": "47f96f11-93cf-419c-84de-849b50ca91fd",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 155,
@@ -4107,7 +4107,7 @@
             "commerceName": "Felipa",
             "subtitle": "En Felipa, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "5ab682bc-b76f-41dc-b4e9-949c4d2041be",
+            "id": "f28c852e-06a0-485d-a237-82a77ca36eca",
             "title": "12 cuotas cero interés",
             "category": {
                 "sectorId": 610,
@@ -4133,7 +4133,7 @@
             "commerceName": "Susana Mascarello",
             "subtitle": "En Susana Mascarello, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "1c6fc09e-55ae-41b2-9b1b-bf710e952c8c",
+            "id": "00d3a00b-6226-4821-b619-490cb6a934e0",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 450,
@@ -4159,7 +4159,7 @@
             "commerceName": "Salgado Macarena Soledad",
             "subtitle": "En Salgado Macarena Soledad, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "a955e212-658d-49de-87ce-0b0c39862dd1",
+            "id": "c9bb7841-1b24-4cfa-9ee5-8d95f689bad3",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 155,
@@ -4185,7 +4185,7 @@
             "commerceName": "Farmacia San Expedito",
             "subtitle": "En Farmacia San Expedito, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "033bd018-d1bd-499d-8317-8e199adb9d55",
+            "id": "63236e01-56ac-4e41-b44e-7cbcee090cd2",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 220,
@@ -4211,7 +4211,7 @@
             "commerceName": "Gomeria y Lavadero el Paton",
             "subtitle": "En Gomeria y Lavadero el Paton, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "32bbcac5-5898-4147-b27e-d658dae195b9",
+            "id": "b17957aa-0f20-4cc6-9196-925883234fc7",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 111,
@@ -4237,7 +4237,7 @@
             "commerceName": "Farmacenter",
             "subtitle": "En Farmacenter, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "b9f03c52-9d4f-4eb4-8657-9a7969a00cc0",
+            "id": "a9e7717e-ad2f-457b-9f2d-920b0bf7728d",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 220,
@@ -4263,7 +4263,7 @@
             "commerceName": "Minimercado y Carniceria Triple B",
             "subtitle": "En Minimercado y Carniceria Triple B, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "5d3e1c8b-7eb9-4b03-90d1-23a42133621e",
+            "id": "1af06507-c3b9-40f7-9471-00c1ec5ff879",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 300,
@@ -4284,7 +4284,7 @@
             "commerceName": "Infierno Grande",
             "subtitle": "En Infierno Grande, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "009ba8f2-907e-4ba3-add9-894a31d666aa",
+            "id": "bd85bfd0-4d94-4680-96ad-931fe8909229",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 290,
@@ -4310,7 +4310,7 @@
             "commerceName": "Vzmotos",
             "subtitle": "En Vzmotos, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "05795190-c7d0-4481-bb2a-047bb07c92b8",
+            "id": "14498092-3362-491e-a7fd-8e13e2279b88",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 626,
@@ -4333,10 +4333,62 @@
             ]
         },
         {
+            "commerceName": "Boom",
+            "subtitle": "En Boom, ingresá y encontrá más beneficios.",
+            "logo": "",
+            "id": "64f528a3-bc49-45a8-80d4-ec1042c58402",
+            "title": "8 cuotas cero interés",
+            "category": {
+                "sectorId": 390,
+                "name": "MODA_Y_ACCESORIOS",
+                "id": 100,
+                "title": "Moda y accesorios",
+                "subcategory": {
+                    "name": "INDUMENTARIA",
+                    "id": 55,
+                    "title": "Indumentaria"
+                }
+            },
+            "urlDetail": null,
+            "url": "boom",
+            "tags": [
+                {
+                    "description": "Días seleccionados",
+                    "type": "days"
+                }
+            ]
+        },
+        {
+            "commerceName": "La Sportiva",
+            "subtitle": "En La Sportiva, ingresá y encontrá más beneficios.",
+            "logo": "",
+            "id": "95b169ef-a276-455d-a659-442031c8e8ff",
+            "title": "5 cuotas cero interés",
+            "category": {
+                "sectorId": 155,
+                "name": "MODA_Y_ACCESORIOS",
+                "id": 100,
+                "title": "Moda y accesorios",
+                "subcategory": {
+                    "name": "INDUMENTARIA_DEPORTIVA",
+                    "id": 47,
+                    "title": "Indumentaria deportiva"
+                }
+            },
+            "urlDetail": null,
+            "url": "la_sportiva",
+            "tags": [
+                {
+                    "description": "Todos los dias",
+                    "type": "days"
+                }
+            ]
+        },
+        {
             "commerceName": "Farmacia Moreno",
             "subtitle": "En Farmacia Moreno, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "f53d5ea2-bb5d-4c48-85b8-b854f4f9c423",
+            "id": "29ecf300-3ac9-4f4c-97eb-b1cf60d222ef",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 220,
@@ -4362,7 +4414,7 @@
             "commerceName": "Almacen Raulito",
             "subtitle": "En Almacen Raulito, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "295c1f7a-392a-43c7-9dd2-07e8a15de0f3",
+            "id": "4c4d3c93-ed58-4e84-99df-146eccda530f",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 116,
@@ -4385,62 +4437,10 @@
             ]
         },
         {
-            "commerceName": "La Sportiva",
-            "subtitle": "En La Sportiva, ingresá y encontrá más beneficios.",
-            "logo": "",
-            "id": "7f70787d-e449-4c6c-aaec-72cbf4351184",
-            "title": "5 cuotas cero interés",
-            "category": {
-                "sectorId": 155,
-                "name": "MODA_Y_ACCESORIOS",
-                "id": 100,
-                "title": "Moda y accesorios",
-                "subcategory": {
-                    "name": "INDUMENTARIA_DEPORTIVA",
-                    "id": 47,
-                    "title": "Indumentaria deportiva"
-                }
-            },
-            "urlDetail": null,
-            "url": "la_sportiva",
-            "tags": [
-                {
-                    "description": "Todos los dias",
-                    "type": "days"
-                }
-            ]
-        },
-        {
-            "commerceName": "Boom",
-            "subtitle": "En Boom, ingresá y encontrá más beneficios.",
-            "logo": "",
-            "id": "c992ecfc-4a16-46a6-a0d9-daa2f3dd4b60",
-            "title": "8 cuotas cero interés",
-            "category": {
-                "sectorId": 390,
-                "name": "MODA_Y_ACCESORIOS",
-                "id": 100,
-                "title": "Moda y accesorios",
-                "subcategory": {
-                    "name": "INDUMENTARIA",
-                    "id": 55,
-                    "title": "Indumentaria"
-                }
-            },
-            "urlDetail": null,
-            "url": "boom",
-            "tags": [
-                {
-                    "description": "Días seleccionados",
-                    "type": "days"
-                }
-            ]
-        },
-        {
             "commerceName": "Girasoles S A. S.",
             "subtitle": "En Girasoles S A. S., ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "9e52aaeb-4f76-4c7a-be4e-78ed8433ad6f",
+            "id": "5a08f2c0-681d-4cf7-9dac-90751fdefbd3",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 455,
@@ -4466,7 +4466,7 @@
             "commerceName": "Taller de Conceptos",
             "subtitle": "En Taller de Conceptos, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "1eab38ca-709c-40fe-b626-68db106b867b",
+            "id": "2a440b6a-82e2-47da-bc01-553fbec257a8",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 153,
@@ -4492,7 +4492,7 @@
             "commerceName": "Economizadores Tdf",
             "subtitle": "En Economizadores Tdf, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "d3e956f8-5ee3-44a5-b6be-8732c6035041",
+            "id": "6f889703-b32c-4383-8f70-79b59239d896",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 100,
@@ -4518,7 +4518,7 @@
             "commerceName": "4m Service",
             "subtitle": "En 4m Service, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "7f9bb439-3f11-4fec-bfd5-a0db9927c755",
+            "id": "2ae1ada8-541b-4798-9b9c-a566bf237e98",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 40,
@@ -4544,7 +4544,7 @@
             "commerceName": "Upalala",
             "subtitle": "En Upalala, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "9cc2a9b4-3df3-49d9-9807-d27ee9410ef3",
+            "id": "1716882c-058f-4914-b4ca-8c0588815bb4",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 380,
@@ -4570,7 +4570,7 @@
             "commerceName": "Multi Rubro Eluney",
             "subtitle": "En Multi Rubro Eluney, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "0c7b8fa4-6b8e-4100-9f50-d07e0c6dff6b",
+            "id": "859c418d-c09f-4ebe-b09d-251122989011",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 390,
@@ -4596,7 +4596,7 @@
             "commerceName": "Silka#s",
             "subtitle": "En Silka#s, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "d8500f55-9db4-4dae-b84d-7a61db33d2e7",
+            "id": "4b0b7dcc-50ab-40e8-bb31-7716c681f3a5",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 470,
@@ -4622,7 +4622,7 @@
             "commerceName": "Oh Nena",
             "subtitle": "En Oh Nena, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "52e4bd55-dbb1-4815-9b3d-267e7b6e18c0",
+            "id": "57cbbae5-c2d4-4f5d-b609-203db7b33fb3",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 390,
@@ -4648,7 +4648,7 @@
             "commerceName": "Beauty Full",
             "subtitle": "En Beauty Full, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "23cdc8be-6794-4ab6-825d-a060fa219b9a",
+            "id": "6cb9914f-371c-4cb8-a2a1-3bd56f28c79e",
             "title": "5 cuotas cero interés",
             "category": {
                 "sectorId": 115,
@@ -4674,7 +4674,7 @@
             "commerceName": "Fuegotech",
             "subtitle": "En Fuegotech, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "a0027576-839d-467d-bff7-faf36ecb818f",
+            "id": "014c24bc-f544-4f03-ab17-19b64feef4b7",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 40,
@@ -4700,7 +4700,7 @@
             "commerceName": "No Somos Diablas",
             "subtitle": "En No Somos Diablas, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "953076b1-a2e7-4c2b-a514-d26102f4b5e9",
+            "id": "5b381c46-2dce-4ce1-87bd-d3911e7fd36b",
             "title": "30% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 320,
@@ -4726,7 +4726,7 @@
             "commerceName": "Austral Herramientas",
             "subtitle": "En Austral Herramientas, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "f0c28998-c87f-409b-a8df-f83d92d1a4a7",
+            "id": "f81142be-f983-4739-81d2-9359b0bf6299",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 230,
@@ -4752,7 +4752,7 @@
             "commerceName": "Insfran Carlos",
             "subtitle": "En Insfran Carlos, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "c2d15b94-897a-4e76-b423-fe018aa90d6f",
+            "id": "06e6ed3d-b315-486d-a022-91f59d530361",
             "title": "12 cuotas cero interés",
             "category": {
                 "sectorId": 530,
@@ -4773,7 +4773,7 @@
             "commerceName": "El Divino Boton",
             "subtitle": "En El Divino Boton, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "e251fc53-9b64-4ed5-a356-d0f4ca944357",
+            "id": "029ef5a8-e25e-4b01-a2d4-33ea2a06e97f",
             "title": "8 cuotas cero interés",
             "category": {
                 "sectorId": 370,
@@ -4799,7 +4799,7 @@
             "commerceName": "Danzo",
             "subtitle": "En Danzo, ingresá y encontrá más beneficios.",
             "logo": "",
-            "id": "39603408-f0f0-4838-bc0d-78f83c707470",
+            "id": "d7da6e48-211f-4b1e-8e98-ff4f50135513",
             "title": "25% off y Plan Zeta cero interés",
             "category": {
                 "sectorId": 360,

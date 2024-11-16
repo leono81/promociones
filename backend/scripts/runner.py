@@ -1,7 +1,6 @@
 from scripts.galicia import fetch_galicia_promos
 from scripts.frances import fetch_frances_promos
 from scripts.naranja import fetch_naranja_promos
-from datetime import datetime
 from pathlib import Path
 import json
 
@@ -36,10 +35,10 @@ def run_all_scripts():
 
 # Guardar todas las promociones en un solo archivo JSON
     try:
-        fecha_actual = datetime.now().strftime("%d%m%Y")
+        
         output_dir = Path("../backend/scripts/output")
         output_dir.mkdir(parents=True, exist_ok=True)
-        nombre_archivo = output_dir / f"promociones_combinadas_{fecha_actual}.json"
+        nombre_archivo = output_dir / f"promociones_combinadas.json"
 
         with open(nombre_archivo, "w", encoding="utf-8") as file:
             json.dump(all_promotions, file, ensure_ascii=False, indent=4)

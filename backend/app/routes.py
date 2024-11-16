@@ -1,3 +1,4 @@
+import json
 from fastapi import APIRouter
 from scripts.runner import run_all_scripts
 
@@ -6,18 +7,22 @@ router = APIRouter()
 
 @router.get("/promociones")
 def get_promociones():
-    # Aquí cargamos los datos de los JSON
-    from pathlib import Path
-    import json
+    # Leer el archivo JSON con todas las promociones recolectadas
+    try:
+        with open("../backend/scripts/output/promociones_combinadas.json", "r", encoding="utf-8") as file:
+            promociones = file.read()
+    except Exception as e:
+        promociones = {"error": f"Error al leer el archivo: {e}"}
 
-    output_dir = Path("../backend/scripts/output")
-    promociones = []
+    # Convertir el contenido del archivo JSON a un diccionario
+    try:
+        promociones = json.loads(promociones)
+    except Exception as e:
+        promociones = {"error": f"Error al convertir el archivo JSON: {e}"}
 
-    for file in output_dir.glob("*.json"):
-        with open(file, "r") as f:
-            promociones.extend(json.load(f))
+    return promociones
 
-    return {"data": promociones}
+
 
 @router.post("/run-scripts")
 def run_scripts():
