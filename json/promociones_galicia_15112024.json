@@ -1,0 +1,503 @@
+{
+    "meta": {
+        "method": "GET",
+        "operation": "/api/portal/catalogo/v1/promociones"
+    },
+    "data": {
+        "list": [
+            {
+                "id": 20378,
+                "promocion": "20% de ahorro y hasta 3 cuotas sin inter\u00e9s",
+                "imagen": "scandinavian_180.png",
+                "titulo": "Scandinavian",
+                "subtitulo": "Indumentaria",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Viernes",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta American Express",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Galicia D\u00e9bito",
+                        "tipoTarjeta": "Debito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 20390,
+                "promocion": "25% de ahorro y hasta 3 cuotas sin inter\u00e9s",
+                "imagen": "scandinavian_180.png",
+                "titulo": "Scandinavian",
+                "subtitulo": "Indumentaria",
+                "eminent": true,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Viernes",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta American Express",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Galicia D\u00e9bito",
+                        "tipoTarjeta": "Debito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Eminent",
+                    "exclusivo": true
+                }
+            },
+            {
+                "id": 20458,
+                "promocion": "20% de ahorro y hasta 3 cuotas sin inter\u00e9s",
+                "imagen": "etam_180.png",
+                "titulo": "Etam",
+                "subtitulo": "Indumentaria",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Viernes",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta American Express",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Galicia D\u00e9bito",
+                        "tipoTarjeta": "Debito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 20460,
+                "promocion": "25% de ahorro y hasta 3 cuotas sin inter\u00e9s",
+                "imagen": "etam_180.png",
+                "titulo": "Etam",
+                "subtitulo": "Indumentaria",
+                "eminent": true,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Viernes",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta American Express",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Galicia D\u00e9bito",
+                        "tipoTarjeta": "Debito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Eminent",
+                    "exclusivo": true
+                }
+            },
+            {
+                "id": 22202,
+                "promocion": "Hasta 12 cuotas sin inter\u00e9s",
+                "imagen": "renaultservice_180.png",
+                "titulo": "Renault",
+                "subtitulo": "Veh\u00edculos",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Todos los d\u00edas",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta American Express",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 24560,
+                "promocion": "Hasta 3 cuotas sin inter\u00e9s",
+                "imagen": "laanonimanuevo.png",
+                "titulo": "Supermercados La Anonima",
+                "subtitulo": "Supermercados",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Jueves a domingo",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 24592,
+                "promocion": "Hasta 3 cuotas sin inter\u00e9s",
+                "imagen": "diarco_180.png",
+                "titulo": "Diarco",
+                "subtitulo": "Supermercados",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Jueves a domingo",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 24596,
+                "promocion": "Hasta 3 cuotas sin inter\u00e9s",
+                "imagen": "cr-market_180.png",
+                "titulo": "Carrefour Market",
+                "subtitulo": "Supermercados",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Jueves a domingo",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 24729,
+                "promocion": "Hasta 3 cuotas sin inter\u00e9s",
+                "imagen": "hiper_tehuelche_principal.png",
+                "titulo": "Hiper Tehuelche",
+                "subtitulo": "Supermercados",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Todos los d\u00edas",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 24730,
+                "promocion": "Hasta 12 cuotas sin inter\u00e9s",
+                "imagen": "hiper_tehuelche_principal.png",
+                "titulo": "Hiper Tehuelche",
+                "subtitulo": "Supermercados",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "S\u00e1bado y domingo",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 24732,
+                "promocion": "Hasta 6 cuotas sin inter\u00e9s",
+                "imagen": "soldasur_principal.png",
+                "titulo": "Soldasur",
+                "subtitulo": "Hogar",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Todos los d\u00edas",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 24828,
+                "promocion": "20% de ahorro y hasta 5 cuotas sin inter\u00e9s",
+                "imagen": "sarkany_180.png",
+                "titulo": "Sarkany",
+                "subtitulo": "Indumentaria",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": true,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Viernes",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta American Express",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Galicia D\u00e9bito",
+                        "tipoTarjeta": "Debito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 24830,
+                "promocion": "25% de ahorro y hasta 5 cuotas sin inter\u00e9s",
+                "imagen": "sarkany_180.png",
+                "titulo": "Sarkany",
+                "subtitulo": "Indumentaria",
+                "eminent": true,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": true,
+                "haberes": false,
+                "autogestivas": false,
+                "leyendaDiasAplicacion": "Viernes",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta American Express",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Galicia D\u00e9bito",
+                        "tipoTarjeta": "Debito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Eminent",
+                    "exclusivo": true
+                }
+            },
+            {
+                "id": 101491,
+                "promocion": "Hasta 12 cuotas sin inter\u00e9s",
+                "imagen": "Imagen%20categoria%20Hogar.png",
+                "titulo": "KaizenPro",
+                "subtitulo": "Hogar",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": true,
+                "leyendaDiasAplicacion": "Todos los d\u00edas",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            },
+            {
+                "id": 101509,
+                "promocion": "25% de ahorro",
+                "imagen": "imagen_indumentaria.png",
+                "titulo": "acevedo paula",
+                "subtitulo": "Indumentaria",
+                "eminent": false,
+                "pagoQR": false,
+                "tipoPromocion": "Marca",
+                "pagoNFC": false,
+                "flagNovedad": false,
+                "haberes": false,
+                "autogestivas": true,
+                "leyendaDiasAplicacion": "S\u00e1bado",
+                "mediosDePago": [
+                    {
+                        "tarjeta": "Tarjeta Mastercard",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Visa",
+                        "tipoTarjeta": "Credito"
+                    },
+                    {
+                        "tarjeta": "Tarjeta Galicia D\u00e9bito",
+                        "tipoTarjeta": "Debito"
+                    }
+                ],
+                "modeloAtencion": {
+                    "nombre": "Masivo",
+                    "exclusivo": false
+                }
+            }
+        ],
+        "totalSize": 19
+    },
+    "errors": []
+}

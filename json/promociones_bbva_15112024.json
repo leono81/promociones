@@ -1,0 +1,360 @@
+[
+    {
+        "id": "71473",
+        "titulo": "Carrefour",
+        "fechaVigenciaDesde": "2024-10-05",
+        "fechaVigenciaHasta": "2024-12-28",
+        "subtitulo": "en el total de tu compra",
+        "destacado": false,
+        "beneficios": [
+            {
+                "tipo": "cartera",
+                "cuando": "Del 05/10/2024 al 28/12/2024",
+                "valor": "25",
+                "cuota": 0,
+                "tope": "20000",
+                "frecuencia": "Por Mes",
+                "tipoTope": "Por tarjeta",
+                "claseDeBeneficio": "Descuento",
+                "casuistica": {
+                    "descripcion": null
+                },
+                "condicion": "en el total de tu compra",
+                "requisitos": [
+                    "Con tus tarjetas de cr\u00e9dito Visa BBVA a trav\u00e9s de app BBVA y/o MODO todos los Sabados.\nRecib\u00ed el reintegro en tu caja de ahorro BBVA vinculada a Modo.\n10% de reintegro con tope de $8000 mensual y 15% de reintegro adicional si cobr\u00e1s el sueldo en el Banco con tope de $12000 mensual."
+                ],
+                "usos": [
+                    "PRESENCIAL"
+                ],
+                "texto_aplicacion": "El beneficio se aplicar\u00e1 seg\u00fan lo detallado en las bases y condiciones"
+            }
+        ],
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/carrefour320x144_1.jpg",
+        "campania": {
+            "id": "2453",
+            "descripcion": "Supermercados"
+        },
+        "mensajeReintegro": null,
+        "diasPromo": "0,0,0,0,0,1,0",
+        "idPrioridad": 1,
+        "cabecera": "Carrefour 25%",
+        "subcabecera": " 25% de reintegro .Promoci\u00f3n v\u00e1lida desde 05-10-2024 hasta 28-12-2024",
+        "rubros": [
+            {
+                "nombre": "Otros comercios y servicios",
+                "id": "26"
+            }
+        ]
+    },
+    {
+        "id": "71469",
+        "titulo": "Samsung",
+        "fechaVigenciaDesde": "2024-10-01",
+        "fechaVigenciaHasta": "2024-12-31",
+        "subtitulo": "en el total de tu compra",
+        "destacado": false,
+        "beneficios": [
+            {
+                "tipo": "cartera",
+                "cuando": "Del 01/10/2024 al 31/12/2024",
+                "valor": null,
+                "cuota": 18,
+                "tope": null,
+                "frecuencia": null,
+                "tipoTope": "",
+                "claseDeBeneficio": "Descuento",
+                "casuistica": {
+                    "descripcion": null
+                },
+                "condicion": "en el total de tu compra",
+                "requisitos": [
+                    "Todos los d\u00edas hasta 18 cuotas con tus tarjetas de cr\u00e9dito BBVA"
+                ],
+                "usos": [
+                    "PRESENCIAL",
+                    "ONLINE"
+                ],
+                "texto_aplicacion": "El beneficio se aplicar\u00e1 seg\u00fan lo detallado en las bases y condiciones"
+            }
+        ],
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-electroytecno-electro-940x620-4.jpg",
+        "campania": null,
+        "mensajeReintegro": null,
+        "diasPromo": "1,1,1,1,1,1,1",
+        "idPrioridad": 4,
+        "cabecera": "Samsung 0% y 18 cuotas",
+        "subcabecera": "Hasta 18 cuotas con tus tarjetas de cr\u00e9dito BBVA .Promoci\u00f3n v\u00e1lida desde 01-10-2024 hasta 31-12-2024",
+        "rubros": [
+            {
+                "nombre": "Electro y Tecnolog\u00eda",
+                "id": "192"
+            }
+        ]
+    },
+    {
+        "id": "71411",
+        "titulo": "Pourquoi pas",
+        "fechaVigenciaDesde": "2024-10-01",
+        "fechaVigenciaHasta": "2024-12-26",
+        "subtitulo": "en el total de tu compra",
+        "destacado": false,
+        "beneficios": [
+            {
+                "tipo": "cartera",
+                "cuando": "Del 01/10/2024 al 26/12/2024",
+                "valor": "30",
+                "cuota": 6,
+                "tope": null,
+                "frecuencia": " ",
+                "tipoTope": " ",
+                "claseDeBeneficio": "Descuento",
+                "casuistica": {
+                    "descripcion": null
+                },
+                "condicion": "en el total de tu compra",
+                "requisitos": [
+                    "Con tus tarjetas de cr\u00e9dito BBVA todos los jueves. Recib\u00ed el reintegro en el resumen de tu tarjeta de cr\u00e9dito.\nTope de reintegro $8.000 por cuenta por mes\n"
+                ],
+                "usos": [
+                    "PRESENCIAL"
+                ],
+                "texto_aplicacion": "El beneficio se aplicar\u00e1 seg\u00fan lo detallado en las bases y condiciones"
+            }
+        ],
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/farmacia320x144.png",
+        "campania": null,
+        "mensajeReintegro": null,
+        "diasPromo": "0,0,0,1,0,0,0",
+        "idPrioridad": 4,
+        "cabecera": "Pourquoi pas 30% y 6 cuotas",
+        "subcabecera": " 30% de reintegro y 6 cuotas sin inter\u00e9s .Promoci\u00f3n v\u00e1lida desde 01-10-2024 hasta 26-12-2024",
+        "rubros": [
+            {
+                "nombre": "Belleza",
+                "id": "8"
+            }
+        ]
+    },
+    {
+        "id": "71462",
+        "titulo": "Motorola",
+        "fechaVigenciaDesde": "2024-10-01",
+        "fechaVigenciaHasta": "2024-12-31",
+        "subtitulo": "en el total de tu compra",
+        "destacado": false,
+        "beneficios": [
+            {
+                "tipo": "cartera",
+                "cuando": "Del 01/10/2024 al 31/12/2024",
+                "valor": null,
+                "cuota": 18,
+                "tope": null,
+                "frecuencia": null,
+                "tipoTope": "",
+                "claseDeBeneficio": "Descuento",
+                "casuistica": {
+                    "descripcion": null
+                },
+                "condicion": "en el total de tu compra",
+                "requisitos": [
+                    "Todos los d\u00edas hasta 18 cuotas con tus tarjetas de cr\u00e9dito BBVA"
+                ],
+                "usos": [
+                    "PRESENCIAL",
+                    "ONLINE"
+                ],
+                "texto_aplicacion": "El beneficio se aplicar\u00e1 seg\u00fan lo detallado en las bases y condiciones"
+            }
+        ],
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/motorolalogo320x320_0.jpg",
+        "campania": null,
+        "mensajeReintegro": null,
+        "diasPromo": "1,1,1,1,1,1,1",
+        "idPrioridad": 4,
+        "cabecera": "Motorola 0% y 18 cuotas",
+        "subcabecera": "Hasta 18 cuotas con tus tarjetas de cr\u00e9dito BBVA .Promoci\u00f3n v\u00e1lida desde 01-10-2024 hasta 31-12-2024",
+        "rubros": [
+            {
+                "nombre": "Electro y Tecnolog\u00eda",
+                "id": "192"
+            }
+        ]
+    },
+    {
+        "id": "71372",
+        "titulo": "NO SOMOS DIABLAS",
+        "fechaVigenciaDesde": "2024-10-01",
+        "fechaVigenciaHasta": "2024-12-26",
+        "subtitulo": "en el total de tu compra",
+        "destacado": false,
+        "beneficios": [
+            {
+                "tipo": "cartera",
+                "cuando": "Del 01/10/2024 al 26/12/2024",
+                "valor": "30",
+                "cuota": 6,
+                "tope": null,
+                "frecuencia": " ",
+                "tipoTope": " ",
+                "claseDeBeneficio": "Descuento",
+                "casuistica": {
+                    "descripcion": null
+                },
+                "condicion": "en el total de tu compra",
+                "requisitos": [
+                    "Con tus tarjetas de cr\u00e9dito BBVA todos los jueves. Recib\u00ed el reintegro en el resumen de tu tarjeta de cr\u00e9dito.\nTope de reintegro $8.000 por cuenta por mes\n"
+                ],
+                "usos": [
+                    "PRESENCIAL"
+                ],
+                "texto_aplicacion": "El beneficio se aplicar\u00e1 seg\u00fan lo detallado en las bases y condiciones"
+            }
+        ],
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-lenceria-940x620-2.jpg",
+        "campania": null,
+        "mensajeReintegro": null,
+        "diasPromo": "0,0,0,1,0,0,0",
+        "idPrioridad": 4,
+        "cabecera": "NO SOMOS DIABLAS 30% y 6 cuotas",
+        "subcabecera": " 30% de reintegro y 6 cuotas sin inter\u00e9s .Promoci\u00f3n v\u00e1lida desde 01-10-2024 hasta 26-12-2024",
+        "rubros": [
+            {
+                "nombre": "Moda",
+                "id": "170"
+            }
+        ]
+    },
+    {
+        "id": "71458",
+        "titulo": "Diggit",
+        "fechaVigenciaDesde": "2024-10-01",
+        "fechaVigenciaHasta": "2024-12-31",
+        "subtitulo": "en el total de tu compra",
+        "destacado": false,
+        "beneficios": [
+            {
+                "tipo": "cartera",
+                "cuando": "Del 01/10/2024 al 31/12/2024",
+                "valor": null,
+                "cuota": 18,
+                "tope": null,
+                "frecuencia": null,
+                "tipoTope": "",
+                "claseDeBeneficio": "Descuento",
+                "casuistica": {
+                    "descripcion": null
+                },
+                "condicion": "en el total de tu compra",
+                "requisitos": [
+                    "Todos los d\u00edas hasta 18 cuotas con tus tarjetas de cr\u00e9dito BBVA"
+                ],
+                "usos": [
+                    "PRESENCIAL",
+                    "ONLINE"
+                ],
+                "texto_aplicacion": "El beneficio se aplicar\u00e1 seg\u00fan lo detallado en las bases y condiciones"
+            }
+        ],
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/tecnologia_4_0.jpg",
+        "campania": null,
+        "mensajeReintegro": null,
+        "diasPromo": "1,1,1,1,1,1,1",
+        "idPrioridad": 4,
+        "cabecera": "Diggit 0% y 18 cuotas",
+        "subcabecera": "Hasta 18 cuotas con tus tarjetas de cr\u00e9dito BBVA .Promoci\u00f3n v\u00e1lida desde 01-10-2024 hasta 31-12-2024",
+        "rubros": [
+            {
+                "nombre": "Electro y Tecnolog\u00eda",
+                "id": "192"
+            }
+        ]
+    },
+    {
+        "id": "70977",
+        "titulo": "Trini Calzados",
+        "fechaVigenciaDesde": "2024-08-14",
+        "fechaVigenciaHasta": "2024-12-26",
+        "subtitulo": "en el total de tu compra",
+        "destacado": false,
+        "beneficios": [
+            {
+                "tipo": "cartera",
+                "cuando": "Del 14/08/2024 al 26/12/2024",
+                "valor": "30",
+                "cuota": 6,
+                "tope": null,
+                "frecuencia": " ",
+                "tipoTope": " ",
+                "claseDeBeneficio": "Descuento",
+                "casuistica": {
+                    "descripcion": null
+                },
+                "condicion": "en el total de tu compra",
+                "requisitos": [
+                    "Con tus tarjetas de cr\u00e9dito BBVA todos los jueves. Recib\u00ed el reintegro en el resumen de tu tarjeta de cr\u00e9dito.\nTope de reintegro $8.000 por cuenta por mes"
+                ],
+                "usos": [
+                    "PRESENCIAL"
+                ],
+                "texto_aplicacion": "El beneficio se aplicar\u00e1 seg\u00fan lo detallado en las bases y condiciones"
+            }
+        ],
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-calzadosyaccesorios-940x620-2.jpg",
+        "campania": null,
+        "mensajeReintegro": null,
+        "diasPromo": "0,0,0,1,0,0,0",
+        "idPrioridad": 4,
+        "cabecera": "Trini Calzados 30% y 6 cuotas",
+        "subcabecera": " 30% de reintegro y 6 cuotas sin inter\u00e9s .Promoci\u00f3n v\u00e1lida desde 14-08-2024 hasta 26-12-2024",
+        "rubros": [
+            {
+                "nombre": "Moda",
+                "id": "170"
+            }
+        ]
+    },
+    {
+        "id": "71163",
+        "titulo": "Valkiria",
+        "fechaVigenciaDesde": "2024-08-28",
+        "fechaVigenciaHasta": "2024-12-26",
+        "subtitulo": "en el total de tu compra",
+        "destacado": false,
+        "beneficios": [
+            {
+                "tipo": "cartera",
+                "cuando": "Del 28/08/2024 al 26/12/2024",
+                "valor": "30",
+                "cuota": 6,
+                "tope": null,
+                "frecuencia": " ",
+                "tipoTope": " ",
+                "claseDeBeneficio": "Descuento",
+                "casuistica": {
+                    "descripcion": null
+                },
+                "condicion": "en el total de tu compra",
+                "requisitos": [
+                    "Con tus tarjetas de cr\u00e9dito BBVA todos los jueves. Recib\u00ed el reintegro en el resumen de tu tarjeta de cr\u00e9dito.\nTope de reintegro $8.000 por cuenta por mes"
+                ],
+                "usos": [
+                    "PRESENCIAL"
+                ],
+                "texto_aplicacion": "El beneficio se aplicar\u00e1 seg\u00fan lo detallado en las bases y condiciones"
+            }
+        ],
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-femenina-940x620-3.jpg",
+        "campania": null,
+        "mensajeReintegro": null,
+        "diasPromo": "0,0,0,1,0,0,0",
+        "idPrioridad": 4,
+        "cabecera": "Valkiria 30% y 6 cuotas",
+        "subcabecera": " 30% de reintegro y 6 cuotas sin inter\u00e9s .Promoci\u00f3n v\u00e1lida desde 28-08-2024 hasta 26-12-2024",
+        "rubros": [
+            {
+                "nombre": "Moda",
+                "id": "170"
+            }
+        ]
+    }
+]

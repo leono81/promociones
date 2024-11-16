@@ -1,0 +1,3612 @@
+[
+    {
+        "commerceName": "La Anonima",
+        "subtitle": "En La Anonima, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030506730038_WbssvBUVU1BxzJCV.png",
+        "id": "c2b43faa-041d-43e2-a053-f9fe6dcbf273",
+        "title": "12 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 550,
+            "name": "SUPERMERCADOS",
+            "id": 101,
+            "title": "Supermercados",
+            "subcategory": {
+                "name": "HIPERMERCADOS",
+                "id": 3,
+                "title": "Hipermercados"
+            }
+        },
+        "urlDetail": null,
+        "url": "la_anonima",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Diggit",
+        "subtitle": "En Diggit, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_253004691_0LWJXi0ybaivy3Yz.png",
+        "id": "8ff3b003-0180-44a4-9ad1-9ff66fd46ba9",
+        "title": "9 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 40,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "COMPUTACION_Y_ELECTRONICA",
+                "id": 26,
+                "title": "Computaci\u00f3n y electronica"
+            }
+        },
+        "urlDetail": null,
+        "url": "diggit",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Etam",
+        "subtitle": "En Etam, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707489878_7y7zSXv9DvXq6MCb.png",
+        "id": "f78740ea-7681-4cb9-933c-1344f6031c3d",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "etam",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Soldasur Sa",
+        "subtitle": "En Soldasur Sa, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_760002563_DED6E8Co62jTVbxd.png",
+        "id": "47a72e6e-e7eb-4d04-9b64-5c483a032343",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 230,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "FERRETERIAS",
+                "id": 39,
+                "title": "Ferreter\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "soldasur_sa",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Kiosco Alianza",
+        "subtitle": "En Kiosco Alianza.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020273685139_XY15fPk1crCsZMzT.png",
+        "id": "26cc9a9d-764f-49d8-9db5-28be57d35e04",
+        "title": "Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 116,
+            "name": "SUPERMERCADOS",
+            "id": 101,
+            "title": "Supermercados",
+            "subcategory": {
+                "name": "DESPENSAS",
+                "id": 1,
+                "title": "Despensas"
+            }
+        },
+        "urlDetail": "plan_zeta_cero_interes-C",
+        "url": "kiosco_alianza",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Trelew",
+        "subtitle": "En Trelew, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030716289482_a4FIFJdxlPHpWjbX.png",
+        "id": "30c49b22-f60e-4471-a38a-12f1a5bee6e9",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 425,
+            "name": "ALIMENTOS",
+            "id": 111,
+            "title": "Alimentos",
+            "subcategory": {
+                "name": "CARNICERIAS_Y_VERDULERIAS",
+                "id": 4,
+                "title": "Carnicer\u00edas y verduler\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "trelew",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Lulu",
+        "subtitle": "En Lulu, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750029136_XvezPPdKKhv1LfOH.png",
+        "id": "b0c4825d-56e5-42ce-8d91-87ba5d47bc76",
+        "title": "6 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "lulu",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Celulares Rivadavia",
+        "subtitle": "En Celulares Rivadavia.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019222_jFjcvt2uY1YIqeMV.png",
+        "id": "db45c0f5-b158-42ae-ba79-458fe99a3638",
+        "title": "6 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 40,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "COMPUTACION_Y_ELECTRONICA",
+                "id": 26,
+                "title": "Computaci\u00f3n y electronica"
+            }
+        },
+        "urlDetail": "6_cuotas_cero_interes-C",
+        "url": "celulares_rivadavia",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Colchoneria y Blanqueria Spymo",
+        "subtitle": "En Colchoneria y Blanqueria Spymo, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019618_osaMaDRaUGR67ncl.png",
+        "id": "4d970b74-43b2-413c-87cf-c4f19d72db3f",
+        "title": "1 cuota menos y 10 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 130,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "TEXTILES_DE_HOGAR",
+                "id": 43,
+                "title": "Textiles de hogar"
+            }
+        },
+        "urlDetail": null,
+        "url": "colchoneria_y_blanqueria_spymo",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Dra Romina Dufour",
+        "subtitle": "En Dra Romina Dufour, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "54f70520-9dde-4685-a421-f8193233ae73",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 190,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "ESPECIALIDADES_MEDICAS",
+                "id": 15,
+                "title": "Especialidades m\u00e9dicas"
+            }
+        },
+        "urlDetail": null,
+        "url": "dra_romina_dufour",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Sur Importacion - Venta Telefonica -",
+        "subtitle": "En Sur Importacion - Venta Telefonica -, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030595204549_ZxDDf2AHpC7UbM0B.png",
+        "id": "57d1223a-4176-4c92-80da-ad9e08b325e8",
+        "title": "10 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 60,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "ELECTRODOMESTICOS",
+                "id": 27,
+                "title": "Electrodom\u00e9sticos"
+            }
+        },
+        "urlDetail": null,
+        "url": "sur_importacion__venta_telefonica_",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Sur Importacion - Rio Grande -",
+        "subtitle": "En Sur Importacion - Rio Grande -, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030595204549_ZxDDf2AHpC7UbM0B.png",
+        "id": "5c7746ab-f701-4291-851a-3fc53e1612f8",
+        "title": "14 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 60,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "ELECTRODOMESTICOS",
+                "id": 27,
+                "title": "Electrodom\u00e9sticos"
+            }
+        },
+        "urlDetail": null,
+        "url": "sur_importacion__rio_grande_",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Opticas del Sur",
+        "subtitle": "En Opticas del Sur, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707594515_oCU0UADhSAZWQQnW.png",
+        "id": "4d917ce4-670b-45fd-8716-d554954d3f0a",
+        "title": "10 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 430,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "OPTICAS",
+                "id": 17,
+                "title": "\u00d3pticas"
+            }
+        },
+        "urlDetail": null,
+        "url": "opticas_del_sur",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Materiales y Servicios S. R. L.",
+        "subtitle": "En Materiales y Servicios S. R. L..",
+        "logo": "",
+        "id": "f182415d-c63b-496a-8a11-a553f78ad84b",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 360,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "MATERIALES_DE_CONSTRUCCION",
+                "id": 37,
+                "title": "Materiales de construcci\u00f3n"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "materiales_y_servicios_s_r_l",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Cosa Nostra",
+        "subtitle": "En Cosa Nostra.",
+        "logo": "",
+        "id": "f42ebde2-19f7-44d7-8efa-22318ddd9f6b",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "cosa_nostra",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Monaco Muebles - Articulos P/hog",
+        "subtitle": "En Monaco Muebles - Articulos P/hog, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020143414001_dC5xmdf8iuckHid8.png",
+        "id": "5ae40c39-46e3-4500-9467-5aabe2c28b0b",
+        "title": "12 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 420,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "DECORACION",
+                "id": 45,
+                "title": "Decoraci\u00f3n"
+            }
+        },
+        "urlDetail": null,
+        "url": "monaco_muebles__articulos_p/hog",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Autofarma",
+        "subtitle": "En Autofarma, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030708661127_jYp6L68TN2MgbV0D.png",
+        "id": "4fdcf7e5-d6bb-4179-861f-a8e2ef8a8676",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 220,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "FARMACIAS",
+                "id": 16,
+                "title": "Farmacias"
+            }
+        },
+        "urlDetail": null,
+        "url": "autofarma",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Wapa Ii",
+        "subtitle": "En Wapa Ii.",
+        "logo": "",
+        "id": "88858379-25b3-4baa-b69f-32f730dc79fa",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "wapa_ii",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Alfa Hogar",
+        "subtitle": "En Alfa Hogar, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030707771654_1Z4rFKCrmcN3pFs7.png",
+        "id": "60d269f4-77ba-460c-a2f1-ff744cfc7ab8",
+        "title": "14 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 60,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "ELECTRODOMESTICOS",
+                "id": 27,
+                "title": "Electrodom\u00e9sticos"
+            }
+        },
+        "urlDetail": null,
+        "url": "alfa_hogar",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Wapa",
+        "subtitle": "En Wapa, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "9e1609b6-09b8-4b8e-8003-2768f2689243",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "wapa",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Joyeria Relojeria el Trust",
+        "subtitle": "En Joyeria Relojeria el Trust.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0027063565151_Ai1LjTGUJESM5z3V.png",
+        "id": "5c7ede47-2f0f-417e-a8d9-c6ec9f3957e2",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 290,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "JOYERIAS_Y_RELOJERIAS",
+                "id": 50,
+                "title": "Joyerias y relojerias"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "joyeria_relojeria_el_trust",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Chics Cosas de Chica",
+        "subtitle": "En Chics Cosas de Chica.",
+        "logo": "",
+        "id": "24887817-975c-40bc-b415-97fb4a8ff40b",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 470,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "REGALERIAS",
+                "id": 46,
+                "title": "Regaler\u00edas"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "chics_cosas_de_chica",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Hola Mola",
+        "subtitle": "En Hola Mola.",
+        "logo": "",
+        "id": "2de2e31f-e8a3-4985-920f-18e62f2274bd",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 470,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "REGALERIAS",
+                "id": 46,
+                "title": "Regaler\u00edas"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "hola_mola",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Accesorios Rivadavia",
+        "subtitle": "En Accesorios Rivadavia.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750011658_5FfLCeD0wb8vD3lp.png",
+        "id": "d2fb3dbb-17f8-488d-8423-317d14bbfdba",
+        "title": "6 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 40,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "COMPUTACION_Y_ELECTRONICA",
+                "id": 26,
+                "title": "Computaci\u00f3n y electronica"
+            }
+        },
+        "urlDetail": "6_cuotas_cero_interes-C",
+        "url": "accesorios_rivadavia",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Lazaro",
+        "subtitle": "En Lazaro, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_380070584_TVdgmPngDoAMGzFG.png",
+        "id": "ea91b0e4-0beb-4b5a-a4b3-2453f03a64fb",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 350,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "MARROQUINERIAS",
+                "id": 54,
+                "title": "Marroquiner\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "lazaro",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Anglers Aventuras Srl",
+        "subtitle": "En Anglers Aventuras Srl, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750020200_5x4VDR5nXI7DljJV.png",
+        "id": "1b7ea9aa-7f91-47bc-aaa0-b8a46b2e9cfd",
+        "title": "12 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": null,
+        "url": "anglers_aventuras_srl",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Lacar",
+        "subtitle": "En Lacar.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750004811_k4U7xBlhr8REpLLx.png",
+        "id": "278c69d6-3819-4b6c-bc33-837665204227",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": "5_cuotas_cero_interes-C",
+        "url": "lacar",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Domingo Granja",
+        "subtitle": "En Domingo Granja.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750003611_TqkplyUFiYzSicd6.png",
+        "id": "74c3a34b-c5eb-4f15-984b-3d7183f8a280",
+        "title": "6 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 360,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "MATERIALES_DE_CONSTRUCCION",
+                "id": 37,
+                "title": "Materiales de construcci\u00f3n"
+            }
+        },
+        "urlDetail": "6_cuotas_cero_interes-C",
+        "url": "domingo_granja",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Abc Deportes",
+        "subtitle": "En Abc Deportes.",
+        "logo": "",
+        "id": "593209aa-6d70-4b3a-9214-5d31f1535be7",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "abc_deportes",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Optica Lopez",
+        "subtitle": "En Optica Lopez, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030716698242_rdVkW9vvWQohGgpA.png",
+        "id": "7c951a57-f809-4adf-8ac0-b360d787ab99",
+        "title": "10 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 430,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "OPTICAS",
+                "id": 17,
+                "title": "\u00d3pticas"
+            }
+        },
+        "urlDetail": null,
+        "url": "optica_lopez",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Scandinavian",
+        "subtitle": "En Scandinavian, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030640843329_EkWeYDGnh6o26YfW.png",
+        "id": "3bf38a8e-24f4-4f24-95a0-db82c7400ac0",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": null,
+        "url": "scandinavian",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Calzados Mari - Esth",
+        "subtitle": "En Calzados Mari - Esth, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "6c6aec79-5023-4318-b499-55ff778db38a",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 610,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "CALZADOS",
+                "id": 56,
+                "title": "Calzados"
+            }
+        },
+        "urlDetail": null,
+        "url": "calzados_mari__esth",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Spymo Sofa",
+        "subtitle": "En Spymo Sofa, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750031279_QuAZU6qPPsQFe8Rf.png",
+        "id": "3fc6beb2-c4b1-4e26-9183-6e1e3e94c10b",
+        "title": "1 cuota menos y 10 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 130,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "TEXTILES_DE_HOGAR",
+                "id": 43,
+                "title": "Textiles de hogar"
+            }
+        },
+        "urlDetail": null,
+        "url": "spymo_sofa",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Iterbio Sas",
+        "subtitle": "En Iterbio Sas, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_760024560_E9J1EHFTpQDl93OJ.png",
+        "id": "7e02bb2f-5313-4c9b-8ee8-54fbc4635f7e",
+        "title": "6 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 150,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "COMPUTACION_Y_ELECTRONICA",
+                "id": 26,
+                "title": "Computaci\u00f3n y electronica"
+            }
+        },
+        "urlDetail": null,
+        "url": "iterbio_sas",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Municipalidad de Rio Grande",
+        "subtitle": "En Municipalidad de Rio Grande, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "994cbdf6-8326-4f3e-ae92-e427e7fb3556",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 8999,
+            "name": "OTROS",
+            "id": 116,
+            "title": "Otros",
+            "subcategory": {
+                "name": "VARIOS",
+                "id": 71,
+                "title": "Varios"
+            }
+        },
+        "urlDetail": null,
+        "url": "municipalidad_de_rio_grande",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Repuestos Pitu",
+        "subtitle": "En Repuestos Pitu.",
+        "logo": "",
+        "id": "2da3b56c-c874-479c-a75e-8fad7d1ac4dc",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 560,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
+                "id": 9,
+                "title": "Repuestos y accesorios para autos"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "repuestos_pitu",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Nitro",
+        "subtitle": "En Nitro, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "87953ccd-84cc-486a-9eeb-f15789c76752",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "nitro",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Mariano Acosta Neumaticos",
+        "subtitle": "En Mariano Acosta Neumaticos.",
+        "logo": "",
+        "id": "419a301f-c9b5-4369-8c2d-d013b052d7b8",
+        "title": "10 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 520,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "TALLER_MECANICO_PARA_AUTOS",
+                "id": 10,
+                "title": "Taller mec\u00e1nico para autos"
+            }
+        },
+        "urlDetail": "10_cuotas_cero_interes-C",
+        "url": "mariano_acosta_neumaticos",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "S. I. P.",
+        "subtitle": "En S. I. P., ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "3779ae41-b944-4667-b845-cfc1f27af1db",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 520,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "TALLER_MECANICO_PARA_AUTOS",
+                "id": 10,
+                "title": "Taller mec\u00e1nico para autos"
+            }
+        },
+        "urlDetail": null,
+        "url": "s_i_p",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Austral Repuestos",
+        "subtitle": "En Austral Repuestos.",
+        "logo": "",
+        "id": "6f5c6998-8baf-4a83-b2a6-a5a47837b050",
+        "title": "6 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 560,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
+                "id": 9,
+                "title": "Repuestos y accesorios para autos"
+            }
+        },
+        "urlDetail": "6_cuotas_cero_interes-C",
+        "url": "austral_repuestos",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Trevman Kumho Neumaticos",
+        "subtitle": "En Trevman Kumho Neumaticos, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030635932518_jRlcKMDBWNHsnucc.png",
+        "id": "4cdae93c-f00f-4520-a2e4-493b47a4c4ba",
+        "title": "10 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 560,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
+                "id": 9,
+                "title": "Repuestos y accesorios para autos"
+            }
+        },
+        "urlDetail": null,
+        "url": "trevman_kumho_neumaticos",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Ona's Corralon S. R. L.",
+        "subtitle": "En Ona's Corralon S. R. L..",
+        "logo": "",
+        "id": "4b65a9a3-7235-4d57-9b0b-dc97bb7f9163",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 230,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "FERRETERIAS",
+                "id": 39,
+                "title": "Ferreter\u00edas"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "onas_corralon_s_r_l",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Don Aldo Neumaticos",
+        "subtitle": "En Don Aldo Neumaticos.",
+        "logo": "",
+        "id": "f0c147d1-8f99-4ca0-942b-0965a6c5180b",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 560,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
+                "id": 9,
+                "title": "Repuestos y accesorios para autos"
+            }
+        },
+        "urlDetail": "5_cuotas_cero_interes-C",
+        "url": "don_aldo_neumaticos",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Guadis Jugueteria",
+        "subtitle": "En Guadis Jugueteria.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0027116273026_PAgJpLlsgE0WOb6r.png",
+        "id": "2374f683-0732-4c30-9888-d853f6f813cf",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 300,
+            "name": "JUGUETERIA",
+            "id": 113,
+            "title": "Jugueter\u00eda"
+        },
+        "urlDetail": "5_cuotas_cero_interes-C",
+        "url": "guadis_jugueteria",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Farmacia Posadas",
+        "subtitle": "En Farmacia Posadas.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020229537742_gTaidUlNs4QiOHRR.png",
+        "id": "a459ac40-96cb-4bed-ba95-c6a380b16226",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 220,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "FARMACIAS",
+                "id": 16,
+                "title": "Farmacias"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "farmacia_posadas",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Corralon Naza",
+        "subtitle": "En Corralon Naza.",
+        "logo": "",
+        "id": "cad1fe6a-c4cb-4336-ac3d-89467895b345",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 109,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "MATERIALES_DE_CONSTRUCCION",
+                "id": 37,
+                "title": "Materiales de construcci\u00f3n"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "corralon_naza",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Ms Patagonia Argentina Rgd",
+        "subtitle": "En Ms Patagonia Argentina Rgd, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "50015d99-5205-4361-8297-0f31ffcfb8b6",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 530,
+            "name": "SERVICIOS",
+            "id": 108,
+            "title": "Servicios"
+        },
+        "urlDetail": null,
+        "url": "ms_patagonia_argentina_rgd",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Torres Ariel Hernan",
+        "subtitle": "En Torres Ariel Hernan.",
+        "logo": "",
+        "id": "33530ab1-b60c-4e6e-8db5-965d3f7d7427",
+        "title": "6 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 40,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "COMPUTACION_Y_ELECTRONICA",
+                "id": 26,
+                "title": "Computaci\u00f3n y electronica"
+            }
+        },
+        "urlDetail": "6_cuotas_cero_interes-C",
+        "url": "torres_ariel_hernan",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Minimercado Champita",
+        "subtitle": "En Minimercado Champita.",
+        "logo": "",
+        "id": "f05ccede-4f69-45c3-9815-c509f502140a",
+        "title": "Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 116,
+            "name": "SUPERMERCADOS",
+            "id": 101,
+            "title": "Supermercados",
+            "subcategory": {
+                "name": "DESPENSAS",
+                "id": 1,
+                "title": "Despensas"
+            }
+        },
+        "urlDetail": "plan_zeta_cero_interes-C",
+        "url": "minimercado_champita",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Tienda Buenos Aires",
+        "subtitle": "En Tienda Buenos Aires.",
+        "logo": "",
+        "id": "e52a3612-8731-4a13-915d-fadf10c87886",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "tienda_buenos_aires",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Montagne",
+        "subtitle": "En Montagne, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030714303585_S1iNJ5kJ5l7F9J8L.png",
+        "id": "ad4ed9f8-a3c6-431d-aae5-c883d7c31142",
+        "title": "15% off y 12 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": null,
+        "url": "montagne",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Fulanas de Tal",
+        "subtitle": "En Fulanas de Tal, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "27c39487-ec19-42b5-8645-ffa6044ff465",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "fulanas_de_tal",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Lamparas de Sal Tdf",
+        "subtitle": "En Lamparas de Sal Tdf, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "fa3b86bf-d078-41b3-b26d-03730351d6ee",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 180,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "ELECTRICIDAD_E_ILUMINACION",
+                "id": 38,
+                "title": "Electricidad e iluminaci\u00f3n"
+            }
+        },
+        "urlDetail": null,
+        "url": "lamparas_de_sal_tdf",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Ecus Cars Repuestos",
+        "subtitle": "En Ecus Cars Repuestos, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "53916a4a-8ab4-4c91-bb93-f40a264da0f0",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 560,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
+                "id": 9,
+                "title": "Repuestos y accesorios para autos"
+            }
+        },
+        "urlDetail": null,
+        "url": "ecus_cars_repuestos",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Sarah Oly",
+        "subtitle": "En Sarah Oly, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "4d960f03-cb09-4852-bc9f-60b40ca8fa4b",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 480,
+            "name": "OTROS",
+            "id": 116,
+            "title": "Otros",
+            "subcategory": {
+                "name": "COTILLON",
+                "id": 68,
+                "title": "Cotill\u00f3n"
+            }
+        },
+        "urlDetail": null,
+        "url": "sarah_oly",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Mh Graphic",
+        "subtitle": "En Mh Graphic, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "51e3f8cc-0698-4c48-b2dc-ba3d14c49e71",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 280,
+            "name": "LIBRERIAS",
+            "id": 119,
+            "title": "Librer\u00edas"
+        },
+        "urlDetail": null,
+        "url": "mh_graphic",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Electro Service",
+        "subtitle": "En Electro Service, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "24d1a61b-582f-42d3-8227-6bfeaf5e74d7",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 40,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "COMPUTACION_Y_ELECTRONICA",
+                "id": 26,
+                "title": "Computaci\u00f3n y electronica"
+            }
+        },
+        "urlDetail": null,
+        "url": "electro_service",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Santino Big Shop 2",
+        "subtitle": "En Santino Big Shop 2.",
+        "logo": "",
+        "id": "643fd9a7-2120-403e-baeb-99a805289200",
+        "title": "30% off",
+        "category": {
+            "sectorId": 550,
+            "name": "SUPERMERCADOS",
+            "id": 101,
+            "title": "Supermercados",
+            "subcategory": {
+                "name": "HIPERMERCADOS",
+                "id": 3,
+                "title": "Hipermercados"
+            }
+        },
+        "urlDetail": "especial-1_cuota_cero_interes-30_de_descuento-C",
+        "url": "santino_big_shop_2",
+        "tags": [
+            {
+                "description": "Los viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Chic Chic Indumentaria",
+        "subtitle": "En Chic Chic Indumentaria, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "af05f08e-961d-4000-b2b7-3031fa47ffd6",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "chic_chic_indumentaria",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Ph Showroom",
+        "subtitle": "En Ph Showroom, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "8ab363d6-036b-4c4e-986f-3d7ead9581a9",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "ph_showroom",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Mr Drinks Beer Shop",
+        "subtitle": "En Mr Drinks Beer Shop.",
+        "logo": "",
+        "id": "18936b0b-00ce-4b02-acec-a0e390049aff",
+        "title": "30% off",
+        "category": {
+            "sectorId": 550,
+            "name": "SUPERMERCADOS",
+            "id": 101,
+            "title": "Supermercados",
+            "subcategory": {
+                "name": "HIPERMERCADOS",
+                "id": 3,
+                "title": "Hipermercados"
+            }
+        },
+        "urlDetail": "1_cuota_cero_interes-30_de_descuento-C",
+        "url": "mr_drinks_beer_shop",
+        "tags": [
+            {
+                "description": "Los viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Farmacia Margen Sur",
+        "subtitle": "En Farmacia Margen Sur, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "6fbe5580-e29d-43a3-ab0a-7768914ea719",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 220,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "FARMACIAS",
+                "id": 16,
+                "title": "Farmacias"
+            }
+        },
+        "urlDetail": null,
+        "url": "farmacia_margen_sur",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Martina Store",
+        "subtitle": "En Martina Store.",
+        "logo": "",
+        "id": "c39cf10f-9a71-4b12-af6d-9e6353b84d94",
+        "title": "4 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 610,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "CALZADOS",
+                "id": 56,
+                "title": "Calzados"
+            }
+        },
+        "urlDetail": "4_cuotas_cero_interes-C",
+        "url": "martina_store",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Rhodes",
+        "subtitle": "En Rhodes, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "a82f4b64-bb48-4954-9fd8-b75971428b9f",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 290,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "JOYERIAS_Y_RELOJERIAS",
+                "id": 50,
+                "title": "Joyerias y relojerias"
+            }
+        },
+        "urlDetail": null,
+        "url": "rhodes",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Farmacia del Pueblo",
+        "subtitle": "En Farmacia del Pueblo, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0030708661127_jYp6L68TN2MgbV0D.png",
+        "id": "44407337-dfba-4ea9-8f1b-7ad5ea3595a6",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 220,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "FARMACIAS",
+                "id": 16,
+                "title": "Farmacias"
+            }
+        },
+        "urlDetail": null,
+        "url": "farmacia_del_pueblo",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Oruga",
+        "subtitle": "En Oruga, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "7f4d2ba0-100b-481c-92f0-23961e62ba2c",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "oruga",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Western",
+        "subtitle": "En Western, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "d654c60b-5478-44be-922c-5393175b5eda",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "western",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Western Jeans",
+        "subtitle": "En Western Jeans, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "d6e126c6-e029-431a-af4a-51e594ba84e8",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "western_jeans",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Acuarela Centro",
+        "subtitle": "En Acuarela Centro, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "9fde67a6-fd5c-44e8-85c5-3ac5ea58928b",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 330,
+            "name": "LIBRERIAS",
+            "id": 119,
+            "title": "Librer\u00edas"
+        },
+        "urlDetail": null,
+        "url": "acuarela_centro",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Linea B Sa",
+        "subtitle": "En Linea B Sa, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "213334d8-e226-4913-8acb-98f01768175d",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 20,
+            "name": "VIAJES_Y_TURISMO",
+            "id": 117,
+            "title": "Viajes y turismo",
+            "subcategory": {
+                "name": "AGENCIAS_DE_VIAJES",
+                "id": 72,
+                "title": "Agencias de viajes"
+            }
+        },
+        "urlDetail": null,
+        "url": "linea_b_sa",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Pintureria Ti - Son",
+        "subtitle": "En Pintureria Ti - Son, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "53219836-4646-43f2-92a1-1829d4158a55",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 460,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "PINTURERIAS",
+                "id": 41,
+                "title": "Pinturer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "pintureria_ti__son",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Alan",
+        "subtitle": "En Alan, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "1cc0b773-dd94-4a07-882d-b074119bbad6",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "alan",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Anastasia",
+        "subtitle": "En Anastasia, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750005118_DjRZOI0WpUKqhd81.png",
+        "id": "19cf86bd-4e6d-4439-87c7-3f478d4c31a7",
+        "title": "12 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "anastasia",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Abrojitos Bb",
+        "subtitle": "En Abrojitos Bb, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "ef682bc2-6936-4fa9-883f-846a5540cb3e",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 380,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "NINOS",
+                "id": 49,
+                "title": "Ni\u00f1os"
+            }
+        },
+        "urlDetail": null,
+        "url": "abrojitos_bb",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Crazy",
+        "subtitle": "En Crazy, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750018366_ogQChSEq9meuVScq.png",
+        "id": "e6363deb-4cb3-4e01-bbb0-9e26cf520bdc",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 410,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "crazy",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Bodysculpt Rio Grande",
+        "subtitle": "En Bodysculpt Rio Grande, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "ff13d0f5-e058-44ca-b2b3-5420fa76416b",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": null,
+        "url": "bodysculpt_rio_grande",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Patagonia Lighting S R. L.",
+        "subtitle": "En Patagonia Lighting S R. L., ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "2f4b7fdb-2cd7-4b36-8b47-e121e42158ce",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 180,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "ELECTRICIDAD_E_ILUMINACION",
+                "id": 38,
+                "title": "Electricidad e iluminaci\u00f3n"
+            }
+        },
+        "urlDetail": null,
+        "url": "patagonia_lighting_s_r_l",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Peumamiya",
+        "subtitle": "En Peumamiya, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "000279f6-a568-4652-af23-a65cc98194d4",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 470,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "REGALERIAS",
+                "id": 46,
+                "title": "Regaler\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "peumamiya",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Cr Motos",
+        "subtitle": "En Cr Motos, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "a7416f9e-6133-469c-a218-4231838a5d96",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 152,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "CONCESIONARIAS_PARA_MOTO",
+                "id": 8,
+                "title": "Concesionarias para moto"
+            }
+        },
+        "urlDetail": null,
+        "url": "cr_motos",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Isla Race S A. S.",
+        "subtitle": "En Isla Race S A. S., ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "43af8916-ef68-4983-8452-77f89e1f1f6e",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 624,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_MOTOS",
+                "id": 11,
+                "title": "Repuestos y accesorios para motos"
+            }
+        },
+        "urlDetail": null,
+        "url": "isla_race_s_a_s",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Autoglass",
+        "subtitle": "En Autoglass, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "771d7467-358c-4759-a14c-7580a5f6966b",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 560,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
+                "id": 9,
+                "title": "Repuestos y accesorios para autos"
+            }
+        },
+        "urlDetail": null,
+        "url": "autoglass",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Fuego Bikes",
+        "subtitle": "En Fuego Bikes, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "82c2c6dc-ea0b-433a-a427-f0173687693d",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": null,
+        "url": "fuego_bikes",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Sanitarios y Repuestos Fede",
+        "subtitle": "En Sanitarios y Repuestos Fede, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "afe9d264-184f-4aae-8a45-01afebfa5e60",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 60,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "ELECTRODOMESTICOS",
+                "id": 27,
+                "title": "Electrodom\u00e9sticos"
+            }
+        },
+        "urlDetail": null,
+        "url": "sanitarios_y_repuestos_fede",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Transporte Montiel",
+        "subtitle": "En Transporte Montiel, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "0d06e537-6aee-443f-ad33-edc60dcb0e1b",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 574,
+            "name": "VIAJES_Y_TURISMO",
+            "id": 117,
+            "title": "Viajes y turismo",
+            "subcategory": {
+                "name": "TRANSPORTES",
+                "id": 73,
+                "title": "Transportes"
+            }
+        },
+        "urlDetail": null,
+        "url": "transporte_montiel",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "La Casa del Plomero",
+        "subtitle": "En La Casa del Plomero, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "19013efc-a5a1-4901-a92f-7237d9b04348",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 230,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "FERRETERIAS",
+                "id": 39,
+                "title": "Ferreter\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "la_casa_del_plomero",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Mundo Maderas",
+        "subtitle": "En Mundo Maderas, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "3466be6b-45ac-4f50-996f-4150f20e4b3d",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 230,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "FERRETERIAS",
+                "id": 39,
+                "title": "Ferreter\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "mundo_maderas",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Dulce Lucia",
+        "subtitle": "En Dulce Lucia, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "b85dd604-0720-45d2-b908-471c9f2bd13a",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 320,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "LENCERIAS",
+                "id": 53,
+                "title": "Lencer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "dulce_lucia",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Kahlo",
+        "subtitle": "En Kahlo, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "3665b492-a061-4817-b1a9-77c550fd50d5",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "kahlo",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Morena Moda",
+        "subtitle": "En Morena Moda, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "b9150e56-58ec-4a72-95f3-67cfd1aef32d",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "morena_moda",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Levati",
+        "subtitle": "En Levati, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "4bf2b06a-4d45-46ab-82f7-860f08b6fa57",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 455,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "PERFUMERIAS",
+                "id": 18,
+                "title": "Perfumer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "levati",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Farmacia Bahia",
+        "subtitle": "En Farmacia Bahia, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "c95e19dd-59d4-464d-ac76-287ff461543b",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 220,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "FARMACIAS",
+                "id": 16,
+                "title": "Farmacias"
+            }
+        },
+        "urlDetail": null,
+        "url": "farmacia_bahia",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Oasis",
+        "subtitle": "En Oasis, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "ab4f1a7a-3a91-4122-aa9d-e6009c71814a",
+        "title": "6 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "oasis",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "No Callare",
+        "subtitle": "En No Callare, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "098cf68a-3184-48b3-8081-8286585c3fde",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "no_callare",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Bejira Peluqueria Unisex",
+        "subtitle": "En Bejira Peluqueria Unisex, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "595c1152-f832-4ec6-8dc8-c59b3ae515ce",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 450,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "PELUQUERIAS",
+                "id": 14,
+                "title": "Peluquer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "bejira_peluqueria_unisex",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Mini Boutique",
+        "subtitle": "En Mini Boutique, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "908f5c8c-6552-48e4-9e35-852e1dead310",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "mini_boutique",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Artesanias Kospi",
+        "subtitle": "En Artesanias Kospi, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "4dd2858d-f71e-4628-957a-32aee1385e9e",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 290,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "JOYERIAS_Y_RELOJERIAS",
+                "id": 50,
+                "title": "Joyerias y relojerias"
+            }
+        },
+        "urlDetail": null,
+        "url": "artesanias_kospi",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Drako Gnc",
+        "subtitle": "En Drako Gnc, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "a8d5d696-8428-4d99-9bbc-cef7cd126425",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 520,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "TALLER_MECANICO_PARA_AUTOS",
+                "id": 10,
+                "title": "Taller mec\u00e1nico para autos"
+            }
+        },
+        "urlDetail": null,
+        "url": "drako_gnc",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Grandiosas",
+        "subtitle": "En Grandiosas, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "967bfd21-7430-4bab-bfe4-f3a2ed7ba8fc",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "grandiosas",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Motohouse",
+        "subtitle": "En Motohouse, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "db2bf72f-93be-43ed-914c-14abc900f4cc",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 560,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_AUTOS",
+                "id": 9,
+                "title": "Repuestos y accesorios para autos"
+            }
+        },
+        "urlDetail": null,
+        "url": "motohouse",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Placa Centro",
+        "subtitle": "En Placa Centro, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "bef5043d-83c9-42d2-a24f-de8d63f61a77",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 360,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "MATERIALES_DE_CONSTRUCCION",
+                "id": 37,
+                "title": "Materiales de construcci\u00f3n"
+            }
+        },
+        "urlDetail": null,
+        "url": "placa_centro",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Variedades",
+        "subtitle": "En Variedades, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "f31d2edf-4015-4c1e-9c26-e803670a1991",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 370,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "MERCERIAS",
+                "id": 52,
+                "title": "Mercer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "variedades",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Stylofs",
+        "subtitle": "En Stylofs, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "8477a7ee-5316-41d3-a65a-0565084f5b26",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 450,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "PELUQUERIAS",
+                "id": 14,
+                "title": "Peluquer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "stylofs",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Grande Hotel",
+        "subtitle": "En Grande Hotel, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "42ba8018-e638-4f31-8132-99eddb5d8374",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 275,
+            "name": "VIAJES_Y_TURISMO",
+            "id": 117,
+            "title": "Viajes y turismo",
+            "subcategory": {
+                "name": "HOSPEDAJES",
+                "id": 74,
+                "title": "Hospedajes"
+            }
+        },
+        "urlDetail": null,
+        "url": "grande_hotel",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Https://www. Instagram. Com/magnolia. Tdf/",
+        "subtitle": "En Https://www. Instagram. Com/magnolia. Tdf/, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "7b2f4dc1-9190-40d7-ba93-fc0eba0929d4",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "https://www_instagram_com/magnolia_tdf/",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Nina",
+        "subtitle": "En Nina, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "351e5bcd-6282-4d7b-a1bd-ea971e11529e",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "nina",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Bodysculpt",
+        "subtitle": "En Bodysculpt, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "52c52915-7054-4fcd-8d77-adb5a90e8161",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 8999,
+            "name": "OTROS",
+            "id": 116,
+            "title": "Otros",
+            "subcategory": {
+                "name": "VARIOS",
+                "id": 71,
+                "title": "Varios"
+            }
+        },
+        "urlDetail": null,
+        "url": "bodysculpt",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Almacen de Ramos Generales",
+        "subtitle": "En Almacen de Ramos Generales, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "58654358-c9fe-4a85-b265-410bcf5a8530",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 470,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "REGALERIAS",
+                "id": 46,
+                "title": "Regaler\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "almacen_de_ramos_generales",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Tuti Frutti",
+        "subtitle": "En Tuti Frutti.",
+        "logo": "",
+        "id": "6983eceb-8583-4d67-8022-e2871464d242",
+        "title": "30% off",
+        "category": {
+            "sectorId": 550,
+            "name": "SUPERMERCADOS",
+            "id": 101,
+            "title": "Supermercados",
+            "subcategory": {
+                "name": "HIPERMERCADOS",
+                "id": 3,
+                "title": "Hipermercados"
+            }
+        },
+        "urlDetail": "1_cuota_cero_interes-30_de_descuento-C",
+        "url": "tuti_frutti",
+        "tags": [
+            {
+                "description": "Los viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Abby Chuela",
+        "subtitle": "En Abby Chuela, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "5b1f7be6-4c2a-485e-a1e9-b5007d779520",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "abby_chuela",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Viceversa",
+        "subtitle": "En Viceversa, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "2db8ee7c-e2f9-49db-8620-2688d6d9315d",
+        "title": "12 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "viceversa",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Pe - Kes",
+        "subtitle": "En Pe - Kes, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "630e3297-b964-4cd2-9542-0eb61d5dc2a1",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 400,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "pe__kes",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Fulanos",
+        "subtitle": "En Fulanos, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "396a7f1a-c93b-4ab2-bd79-2e8eb6696bc8",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": null,
+        "url": "fulanos",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Felipa",
+        "subtitle": "En Felipa, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "42029248-ea28-436f-8688-f284615f751f",
+        "title": "12 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 610,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "CALZADOS",
+                "id": 56,
+                "title": "Calzados"
+            }
+        },
+        "urlDetail": null,
+        "url": "felipa",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Salgado Macarena Soledad",
+        "subtitle": "En Salgado Macarena Soledad, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "501cf562-eba4-4b60-866a-0b4a9f1f8497",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": null,
+        "url": "salgado_macarena_soledad",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Susana Mascarello",
+        "subtitle": "En Susana Mascarello, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "9d2dda42-4b7e-40ba-87c0-3a77ce787e97",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 450,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "PELUQUERIAS",
+                "id": 14,
+                "title": "Peluquer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "susana_mascarello",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Farmacenter",
+        "subtitle": "En Farmacenter, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "57bc7e82-308b-44a8-80d8-66b7c87c6ec9",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 220,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "FARMACIAS",
+                "id": 16,
+                "title": "Farmacias"
+            }
+        },
+        "urlDetail": null,
+        "url": "farmacenter",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Minimercado y Carniceria Triple B",
+        "subtitle": "En Minimercado y Carniceria Triple B, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "e44412de-50ce-4b80-b1f1-6cfb9278741d",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 300,
+            "name": "JUGUETERIA",
+            "id": 113,
+            "title": "Jugueter\u00eda"
+        },
+        "urlDetail": null,
+        "url": "minimercado_y_carniceria_triple_b",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Farmacia San Expedito",
+        "subtitle": "En Farmacia San Expedito, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "c34fba2b-9384-428e-a621-85a7cb185ac4",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 220,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "FARMACIAS",
+                "id": 16,
+                "title": "Farmacias"
+            }
+        },
+        "urlDetail": null,
+        "url": "farmacia_san_expedito",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Infierno Grande",
+        "subtitle": "En Infierno Grande, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "4265465c-27d8-43a4-bc93-fedaf27bacd9",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 290,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "JOYERIAS_Y_RELOJERIAS",
+                "id": 50,
+                "title": "Joyerias y relojerias"
+            }
+        },
+        "urlDetail": null,
+        "url": "infierno_grande",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Gomeria y Lavadero el Paton",
+        "subtitle": "En Gomeria y Lavadero el Paton, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "9aff9f89-9e44-43d3-8fec-36e0927c74ae",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 111,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "GOMERIA",
+                "id": 6,
+                "title": "Gomer\u00eda"
+            }
+        },
+        "urlDetail": null,
+        "url": "gomeria_y_lavadero_el_paton",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Boom",
+        "subtitle": "En Boom, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "51c24082-f760-463b-b3e7-4e9dbbc2348b",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "boom",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Farmacia Moreno",
+        "subtitle": "En Farmacia Moreno, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "7effb2ce-99ef-460c-99bf-70fe86cc56e7",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 220,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "FARMACIAS",
+                "id": 16,
+                "title": "Farmacias"
+            }
+        },
+        "urlDetail": null,
+        "url": "farmacia_moreno",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Almacen Raulito",
+        "subtitle": "En Almacen Raulito, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "21eae492-0bae-468b-8c87-1852ae97144d",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 116,
+            "name": "SUPERMERCADOS",
+            "id": 101,
+            "title": "Supermercados",
+            "subcategory": {
+                "name": "DESPENSAS",
+                "id": 1,
+                "title": "Despensas"
+            }
+        },
+        "urlDetail": null,
+        "url": "almacen_raulito",
+        "tags": [
+            {
+                "description": "Los mi\u00e9rcoles",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "La Sportiva",
+        "subtitle": "En La Sportiva, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "8c1b6236-23d3-44dc-8116-49a3471d6a71",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 155,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA_DEPORTIVA",
+                "id": 47,
+                "title": "Indumentaria deportiva"
+            }
+        },
+        "urlDetail": null,
+        "url": "la_sportiva",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Vzmotos",
+        "subtitle": "En Vzmotos, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "71a40e86-72e4-4ea2-9653-281617d5c967",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 626,
+            "name": "AUTOS_Y_MOTOS",
+            "id": 107,
+            "title": "Autos y motos",
+            "subcategory": {
+                "name": "REPUESTOS_Y_ACCESORIOS_PARA_MOTOS",
+                "id": 11,
+                "title": "Repuestos y accesorios para motos"
+            }
+        },
+        "urlDetail": null,
+        "url": "vzmotos",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Girasoles S A. S.",
+        "subtitle": "En Girasoles S A. S., ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "4254509e-fb8f-4724-8d12-3d23fca9f746",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 455,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "PERFUMERIAS",
+                "id": 18,
+                "title": "Perfumer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "girasoles_s_a_s",
+        "tags": [
+            {
+                "description": "Los mi\u00e9rcoles",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Taller de Conceptos",
+        "subtitle": "En Taller de Conceptos, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "b1dee7ae-ef51-4b81-b00f-ed3461de3b94",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 153,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "DECORACION",
+                "id": 45,
+                "title": "Decoraci\u00f3n"
+            }
+        },
+        "urlDetail": null,
+        "url": "taller_de_conceptos",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Economizadores Tdf",
+        "subtitle": "En Economizadores Tdf, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "c62faada-6d10-45d6-a06f-e9a7e15eeb1e",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 100,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "BAZAR",
+                "id": 44,
+                "title": "Bazar"
+            }
+        },
+        "urlDetail": null,
+        "url": "economizadores_tdf",
+        "tags": [
+            {
+                "description": "Los mi\u00e9rcoles",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "4m Service",
+        "subtitle": "En 4m Service, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "a8a2a931-45a1-4129-b6ae-c52abc96ec87",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 40,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "COMPUTACION_Y_ELECTRONICA",
+                "id": 26,
+                "title": "Computaci\u00f3n y electronica"
+            }
+        },
+        "urlDetail": null,
+        "url": "4m_service",
+        "tags": [
+            {
+                "description": "Los mi\u00e9rcoles",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Multi Rubro Eluney",
+        "subtitle": "En Multi Rubro Eluney, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "f241b92f-f26e-4e0c-ab1a-7e779335de96",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "multi_rubro_eluney",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Oh Nena",
+        "subtitle": "En Oh Nena, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "2e125b19-aaa2-4e7a-a70a-448f6ddb3eea",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 390,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "INDUMENTARIA",
+                "id": 55,
+                "title": "Indumentaria"
+            }
+        },
+        "urlDetail": null,
+        "url": "oh_nena",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Upalala",
+        "subtitle": "En Upalala, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "99b1e451-a317-4c94-af9c-4d52494b2324",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 380,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "NINOS",
+                "id": 49,
+                "title": "Ni\u00f1os"
+            }
+        },
+        "urlDetail": null,
+        "url": "upalala",
+        "tags": [
+            {
+                "description": "D\u00edas seleccionados",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Silka#s",
+        "subtitle": "En Silka#s, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "7aada81b-7688-4d14-8684-a76f9c7d43ce",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 470,
+            "name": "HOGAR_Y_DECO",
+            "id": 105,
+            "title": "Hogar y deco",
+            "subcategory": {
+                "name": "REGALERIAS",
+                "id": 46,
+                "title": "Regaler\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "silka#s",
+        "tags": [
+            {
+                "description": "Los mi\u00e9rcoles",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Austral Herramientas",
+        "subtitle": "En Austral Herramientas, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "7996f837-daa4-4486-bc86-2dc55a7d0ec3",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 230,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "FERRETERIAS",
+                "id": 39,
+                "title": "Ferreter\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "austral_herramientas",
+        "tags": [
+            {
+                "description": "Los mi\u00e9rcoles",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Beauty Full",
+        "subtitle": "En Beauty Full, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "b44b63c1-140a-42db-b1d5-716b54fc33dd",
+        "title": "5 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 115,
+            "name": "SALUD_Y_BIENESTAR",
+            "id": 103,
+            "title": "Salud y bienestar",
+            "subcategory": {
+                "name": "CENTROS_DE_ESTETICA",
+                "id": 13,
+                "title": "Centros de est\u00e9tica"
+            }
+        },
+        "urlDetail": null,
+        "url": "beauty_full",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Fuegotech",
+        "subtitle": "En Fuegotech, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "7c15a35d-980a-4f1c-8308-de0974f4ccab",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 40,
+            "name": "ELECTRO_Y_TECNOLOGIA",
+            "id": 102,
+            "title": "Electro y tecnolog\u00eda",
+            "subcategory": {
+                "name": "COMPUTACION_Y_ELECTRONICA",
+                "id": 26,
+                "title": "Computaci\u00f3n y electronica"
+            }
+        },
+        "urlDetail": null,
+        "url": "fuegotech",
+        "tags": [
+            {
+                "description": "Los mi\u00e9rcoles",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "No Somos Diablas",
+        "subtitle": "En No Somos Diablas, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "e27c990f-0107-4739-859f-7b6ebab4a4e3",
+        "title": "30% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 320,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "LENCERIAS",
+                "id": 53,
+                "title": "Lencer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "no_somos_diablas",
+        "tags": [
+            {
+                "description": "Los martes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "El Divino Boton",
+        "subtitle": "En El Divino Boton, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "483a55ac-fab8-46e5-93ef-2c3cf3337d5f",
+        "title": "8 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 370,
+            "name": "MODA_Y_ACCESORIOS",
+            "id": 100,
+            "title": "Moda y accesorios",
+            "subcategory": {
+                "name": "MERCERIAS",
+                "id": 52,
+                "title": "Mercer\u00edas"
+            }
+        },
+        "urlDetail": null,
+        "url": "el_divino_boton",
+        "tags": [
+            {
+                "description": "Martes y viernes",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Insfran Carlos",
+        "subtitle": "En Insfran Carlos, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "615683ed-d0ca-4440-bef5-74e9db5b8528",
+        "title": "12 cuotas cero inter\u00e9s",
+        "category": {
+            "sectorId": 530,
+            "name": "SERVICIOS",
+            "id": 108,
+            "title": "Servicios"
+        },
+        "urlDetail": null,
+        "url": "insfran_carlos",
+        "tags": [
+            {
+                "description": "Todos los dias",
+                "type": "days"
+            }
+        ]
+    },
+    {
+        "commerceName": "Danzo",
+        "subtitle": "En Danzo, ingres\u00e1 y encontr\u00e1 m\u00e1s beneficios.",
+        "logo": "",
+        "id": "29d24716-3a4d-414b-86d6-9675776b96c0",
+        "title": "25% off y Plan Zeta cero inter\u00e9s",
+        "category": {
+            "sectorId": 360,
+            "name": "CONSTRUCCION",
+            "id": 106,
+            "title": "Construcci\u00f3n",
+            "subcategory": {
+                "name": "MATERIALES_DE_CONSTRUCCION",
+                "id": 37,
+                "title": "Materiales de construcci\u00f3n"
+            }
+        },
+        "urlDetail": null,
+        "url": "danzo",
+        "tags": [
+            {
+                "description": "Los mi\u00e9rcoles",
+                "type": "days"
+            }
+        ]
+    }
+]
