@@ -55,6 +55,8 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -79,6 +81,7 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+
 
 # Flask stuff:
 instance/
@@ -162,6 +165,7 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+
 # Pyre type checker
 .pyre/
 
@@ -196,8 +200,6 @@ pyrightconfig.json
 [Ll]ib
 [Ll]ib64
 [Ll]ocal
-[Ss]cripts
+#[Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
-
-# End of https://www.toptal.com/developers/gitignore/api/linux,python,venv
