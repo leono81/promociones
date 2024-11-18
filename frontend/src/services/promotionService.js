@@ -13,8 +13,9 @@ export const getPromociones = async () => {
 // Función para obtener categorías
 export const getCategorias = async () => {
     try {
-      const response = await api.get("/categorias");
-      return response.data.categorias; // Extraemos solo el array de categorías
+      const response = await api.get("/categorias"); // Solicitud al backend
+      console.log("Categorías recibidas del backend:", response.data.categorias); // Verificar JSON
+      return response.data.categorias; // Extraer el array
     } catch (error) {
       console.error("Error obteniendo categorías:", error);
       throw error;

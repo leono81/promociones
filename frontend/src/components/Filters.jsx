@@ -2,7 +2,16 @@ import React, { useState } from "react";
 import DropdownMultiSelect from "./DropdownMultiSelect";
 import { ArrowPathIcon, ChevronUpIcon, ChevronDownIcon } from "@heroicons/react/24/solid";
 
-function Filters({ setFiltroBanco, setFiltroCategoria, setFiltroDia, setOrden, categorias }) {
+function Filters({
+  filtroBanco,
+  setFiltroBanco,
+  filtroCategoria,
+  setFiltroCategoria,
+  filtroDia,
+  setFiltroDia,
+  setOrden,
+  categorias,
+}) {
   const bancos = ["Galicia", "BBVA", "Naranja"];
   const dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"];
   const [orden, setOrdenInterno] = useState("");
@@ -21,26 +30,52 @@ function Filters({ setFiltroBanco, setFiltroCategoria, setFiltroDia, setOrden, c
     setOrdenInterno(nuevoOrden);
   };
 
+  const renderChips = (selectedOptions, setSelectedOptions) => (
+    <div className="flex flex-wrap gap-2 mt-2">
+      {selectedOptions.map((option, index) => (
+        <div
+          key={index}
+          className="bg-primary text-white px-3 py-1 rounded-full flex items-center gap-2 cursor-pointer"
+          onClick={() =>
+            setSelectedOptions(selectedOptions.filter((item) => item !== option))
+          }
+        >
+          {option}
+          <span className="text-sm font-bold">&times;</span>
+        </div>
+      ))}
+    </div>
+  );
+
   return (
-    <div className="flex flex-col gap-4 md:flex-row md:gap-6 items-center">
-      <DropdownMultiSelect
-        label="Banco"
-        options={bancos}
-        selectedOptions={[]}
-        setSelectedOptions={setFiltroBanco}
-      />
-      <DropdownMultiSelect
-        label="Categoría"
-        options={Array.isArray(categorias) ? categorias : []} // Aseguramos que sea un array
-        selectedOptions={[]}
-        setSelectedOptions={setFiltroCategoria}
-      />
-      <DropdownMultiSelect
-        label="Día"
-        options={dias}
-        selectedOptions={[]}
-        setSelectedOptions={setFiltroDia}
-      />
+    <div className="flex flex-col gap-4 md:flex-row md:gap-6 items-start">
+      <div className="w-full md:w-auto">
+        <DropdownMultiSelect
+          label="Banco"
+          options={bancos}
+          selectedOptions={filtroBanco}
+          setSelectedOptions={setFiltroBanco}
+        />
+        {renderChips(filtroBanco, setFiltroBanco)}
+      </div>
+      <div className="w-full md:w-auto">
+        <DropdownMultiSelect
+          label="Categoría"
+          options={Array.isArray(categorias) ? categorias : []}
+          selectedOptions={filtroCategoria}
+          setSelectedOptions={setFiltroCategoria}
+        />
+        {renderChips(filtroCategoria, setFiltroCategoria)}
+      </div>
+      <div className="w-full md:w-auto">
+        <DropdownMultiSelect
+          label="Día"
+          options={dias}
+          selectedOptions={filtroDia}
+          setSelectedOptions={setFiltroDia}
+        />
+        {renderChips(filtroDia, setFiltroDia)}
+      </div>
       <button
         className={`flex items-center justify-center w-10 h-10 rounded-full transition-all ${
           orden === "asc"
