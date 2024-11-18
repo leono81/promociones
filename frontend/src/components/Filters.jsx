@@ -2,19 +2,17 @@ import React, { useState } from "react";
 import DropdownMultiSelect from "./DropdownMultiSelect";
 import { ArrowPathIcon, ChevronUpIcon, ChevronDownIcon } from "@heroicons/react/24/solid";
 
-function Filters({ setFiltroBanco, setFiltroCategoria, setFiltroDia, setOrden }) {
-  const bancos = ["Banco Galicia", "Banco Francés", "Tarjeta Naranja"];
-  const categorias = ["Indumentaria", "Electro y Tecnología","Moda","Otros comercios y servicios","Supermercados","Moda y accesorios","Hipermercados"];
+function Filters({ setFiltroBanco, setFiltroCategoria, setFiltroDia, setOrden, categorias }) {
+  const bancos = ["Galicia", "BBVA", "Naranja"];
   const dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"];
-
   const [orden, setOrdenInterno] = useState("");
 
   const limpiarFiltros = () => {
     setFiltroBanco([]);
     setFiltroCategoria([]);
     setFiltroDia([]);
-    setOrden(""); // Restablece el orden
-    setOrdenInterno(""); // Limpia el estado interno de orden
+    setOrden("");
+    setOrdenInterno("");
   };
 
   const toggleOrden = () => {
@@ -33,7 +31,7 @@ function Filters({ setFiltroBanco, setFiltroCategoria, setFiltroDia, setOrden })
       />
       <DropdownMultiSelect
         label="Categoría"
-        options={categorias}
+        options={Array.isArray(categorias) ? categorias : []} // Aseguramos que sea un array
         selectedOptions={[]}
         setSelectedOptions={setFiltroCategoria}
       />
@@ -43,8 +41,6 @@ function Filters({ setFiltroBanco, setFiltroCategoria, setFiltroDia, setOrden })
         selectedOptions={[]}
         setSelectedOptions={setFiltroDia}
       />
-
-      {/* Botón para ordenar con Chevron Up/Down */}
       <button
         className={`flex items-center justify-center w-10 h-10 rounded-full transition-all ${
           orden === "asc"
@@ -64,8 +60,6 @@ function Filters({ setFiltroBanco, setFiltroCategoria, setFiltroDia, setOrden })
           <ChevronUpIcon className="w-6 h-6 text-gray-400" />
         )}
       </button>
-
-      {/* Botón para limpiar filtros */}
       <button
         className="flex items-center justify-center w-10 h-10 bg-accent text-white rounded-full hover:bg-accent/80 focus:ring-2 focus:ring-accent transition-all"
         onClick={limpiarFiltros}

@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 from fastapi import APIRouter
 from scripts.runner import run_all_scripts
 
@@ -21,6 +22,29 @@ def get_promociones():
         promociones = {"error": f"Error al convertir el archivo JSON: {e}"}
 
     return promociones
+
+
+@router.get("/categorias")
+def get_categorias():
+    try:
+        # Ruta del archivo JSON
+        path = Path("../backend/scripts/output/promociones_normalizadas.json")
+
+        # Leer el archivo JSON
+        with open(path, "r", encoding="utf-8") as file:
+            promociones = json.load(file)
+
+        # Extraer categorías únicas
+        categorias = set()
+        for promo in promociones:
+            categorias.update(promo.get("categorias", []))  # Añadir categorías de cada promoción
+
+        # Convertir el set a una lista ordenada
+        categorias_unicas = sorted(list(categorias))
+
+        return {"categorias": categorias_unicas}
+    except Exception as e:
+        return {"error": f"Error al procesar las categorías: {str(e)}"}
 
 
 
