@@ -6,6 +6,23 @@ from scripts.naranja import fetch_naranja_promos
 from pathlib import Path
 import json
 
+
+# Función para generar un hash basado en los campos clave de la promoción
+def generate_content_hash(promo):
+    raw_content = f"{promo['banco']}_{promo['titulo']}_{promo['subtitulo']}_{promo['promocion']}"
+    return hashlib.md5(raw_content.encode()).hexdigest()
+
+# Función para eliminar duplicados basados en el hash
+def deduplicate_promotions(promotions):
+    seen_hashes = set()
+    unique_promotions = []
+    for promo in promotions:
+        content_hash = generate_content_hash(promo)
+        if content_hash not in seen_hashes:
+            seen_hashes.add(content_hash)
+            unique_promotions.append(promo)
+    return unique_promotions
+
 # Función para generar un ID único basado en el banco y el ID original
 def generate_unique_id(banco, original_id):
     raw_id = f"{banco}_{original_id}"
@@ -174,6 +191,7 @@ def parse_days(diasPromo):
         return [days_map[i] for i, value in enumerate(diasPromo.split(",")) if value == "1"]
     return []
 
+# Procesar todos los datos
 def run_all_scripts():
     print("[Runner] Ejecutando recolección de promociones...")
 
@@ -197,13 +215,18 @@ def run_all_scripts():
     except Exception as e:
         print(f"[Runner] Error en naranja: {e}")
 
-    total_promos = len(all_promotions)
-    print(f"[Runner] Total de promociones recolectadas: {total_promos}")
+    print(f"[Runner] Total de promociones antes de deduplicar: {len(all_promotions)}")
 
+    # Deduplicar promociones
+    all_promotions = deduplicate_promotions(all_promotions)
+
+    print(f"[Runner] Total de promociones después de deduplicar: {len(all_promotions)}")
+
+    # Guardar todas las promociones normalizadas en un archivo JSON
     try:
         output_dir = Path("../backend/scripts/output")
         output_dir.mkdir(parents=True, exist_ok=True)
-        nombre_archivo = output_dir / f"promociones_normalizadas.json"
+        nombre_archivo = output_dir / "promociones_normalizadas.json"
 
         with open(nombre_archivo, "w", encoding="utf-8") as file:
             json.dump(all_promotions, file, ensure_ascii=False, indent=4)

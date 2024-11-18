@@ -9,6 +9,7 @@ function App() {
   const [filtroBanco, setFiltroBanco] = useState([]);
   const [filtroCategoria, setFiltroCategoria] = useState([]);
   const [filtroDia, setFiltroDia] = useState([]);
+  const [orden, setOrden] = useState(""); // Declarar el estado de orden
   const [selectedPromotion, setSelectedPromotion] = useState(null);
 
   useEffect(() => {
@@ -24,8 +25,8 @@ function App() {
     fetchPromociones();
   }, []);
 
-  // Filtrar las promociones según los filtros seleccionados
-  const promocionesFiltradas = promociones.filter((promo) => {
+  const promocionesFiltradas = promociones
+  .filter((promo) => {
     const coincideBanco = filtroBanco.length === 0 || filtroBanco.includes(promo.banco);
     const coincideCategoria =
       filtroCategoria.length === 0 || filtroCategoria.some((cat) => promo.categorias.includes(cat));
@@ -33,7 +34,13 @@ function App() {
       filtroDia.length === 0 || filtroDia.some((dia) => promo.dias_aplicacion.includes(dia));
 
     return coincideBanco && coincideCategoria && coincideDia;
+  })
+  .sort((a, b) => {
+    if (orden === "asc") return a.titulo.localeCompare(b.titulo);
+    if (orden === "desc") return b.titulo.localeCompare(a.titulo);
+    return 0; // Sin orden, no altera el arreglo
   });
+
 
   return (
     <div className="min-h-screen bg-neutral p-6">
@@ -45,6 +52,7 @@ function App() {
         setFiltroBanco={setFiltroBanco}
         setFiltroCategoria={setFiltroCategoria}
         setFiltroDia={setFiltroDia}
+        setOrden={setOrden}
       />
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
