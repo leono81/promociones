@@ -41,7 +41,7 @@ def normalize_data_galicia(raw_data):
                 "subtitulo": item.get("subtitulo", ""),
                 "promocion": item.get("promocion", ""),
                 "imagen": item.get("imagen", ""),
-                "categorias": ["Indumentaria"],  # Por ahora estático
+                "categorias": [item.get("subtitulo", "")],  # Por ahora estático
                 "dias_aplicacion": [item.get("leyendaDiasAplicacion", "")],
                 "vigencia": {
                     "desde": None,

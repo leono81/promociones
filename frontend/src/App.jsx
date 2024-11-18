@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Filters from "./components/Filters";
 import Card from "./components/Card";
 import { getPromociones, getCategorias } from "./services/promotionService";
+import PromotionDetails from "./components/PromotionDetails";
 
 function App() {
   const [promociones, setPromociones] = useState([]);
@@ -10,6 +11,7 @@ function App() {
   const [filtroDia, setFiltroDia] = useState([]);
   const [orden, setOrden] = useState("");
   const [categorias, setCategorias] = useState([]);
+  const [selectedPromotion, setSelectedPromotion] = useState(null); // Estado para la promoción seleccionada
 
   useEffect(() => {
     async function fetchData() {
@@ -66,9 +68,19 @@ function App() {
       />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
         {promocionesFiltradas.map((promo) => (
-          <Card key={promo.id} {...promo} />
+          <Card
+            key={promo.id}
+            {...promo}
+            onClick={() => setSelectedPromotion(promo)} // Vincular el clic
+          />
         ))}
       </div>
+      {selectedPromotion && (
+        <PromotionDetails
+          promotion={selectedPromotion}
+          onClose={() => setSelectedPromotion(null)} // Cerrar overlay
+        />
+      )}
     </div>
   );
 }

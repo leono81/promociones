@@ -187,7 +187,7 @@
         "promocion": "Hasta 12 cuotas sin interés",
         "imagen": "renaultservice_180.png",
         "categorias": [
-            "Indumentaria"
+            "Vehículos"
         ],
         "dias_aplicacion": [
             "Todos los días"
@@ -228,7 +228,7 @@
         "promocion": "Hasta 3 cuotas sin interés",
         "imagen": "laanonimanuevo.png",
         "categorias": [
-            "Indumentaria"
+            "Supermercados"
         ],
         "dias_aplicacion": [
             "Jueves a domingo"
@@ -265,7 +265,7 @@
         "promocion": "Hasta 3 cuotas sin interés",
         "imagen": "diarco_180.png",
         "categorias": [
-            "Indumentaria"
+            "Supermercados"
         ],
         "dias_aplicacion": [
             "Jueves a domingo"
@@ -302,7 +302,7 @@
         "promocion": "Hasta 3 cuotas sin interés",
         "imagen": "cr-market_180.png",
         "categorias": [
-            "Indumentaria"
+            "Supermercados"
         ],
         "dias_aplicacion": [
             "Jueves a domingo"
@@ -339,7 +339,7 @@
         "promocion": "Hasta 3 cuotas sin interés",
         "imagen": "hiper_tehuelche_principal.png",
         "categorias": [
-            "Indumentaria"
+            "Supermercados"
         ],
         "dias_aplicacion": [
             "Todos los días"
@@ -376,7 +376,7 @@
         "promocion": "Hasta 12 cuotas sin interés",
         "imagen": "hiper_tehuelche_principal.png",
         "categorias": [
-            "Indumentaria"
+            "Supermercados"
         ],
         "dias_aplicacion": [
             "Sábado y domingo"
@@ -413,7 +413,7 @@
         "promocion": "Hasta 6 cuotas sin interés",
         "imagen": "soldasur_principal.png",
         "categorias": [
-            "Indumentaria"
+            "Hogar"
         ],
         "dias_aplicacion": [
             "Todos los días"
@@ -540,7 +540,7 @@
         "promocion": "Hasta 12 cuotas sin interés",
         "imagen": "Imagen%20categoria%20Hogar.png",
         "categorias": [
-            "Indumentaria"
+            "Hogar"
         ],
         "dias_aplicacion": [
             "Todos los días"
@@ -758,6 +758,33 @@
         "tipo_promocion": "Descuento"
     },
     {
+        "id": "d77dd6999c6797d2d3331fce0700cb4f",
+        "banco": "Banco Francés",
+        "titulo": "Valkiria",
+        "subtitulo": "Moda",
+        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes",
+        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-femenina-940x620-3.jpg",
+        "categorias": [
+            "Moda"
+        ],
+        "dias_aplicacion": [
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": "28/08/2024",
+            "hasta": "26/12/2024"
+        },
+        "medios_pago": [],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": null,
+        "frecuencia_reintegro": " ",
+        "tipo_tope": " ",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": "Descuento"
+    },
+    {
         "id": "f7cfc3497b7e704d12487b93bd0b25ea",
         "banco": "Banco Francés",
         "titulo": "Diggit",
@@ -818,34 +845,7 @@
         "tipo_promocion": "Descuento"
     },
     {
-        "id": "d77dd6999c6797d2d3331fce0700cb4f",
-        "banco": "Banco Francés",
-        "titulo": "Valkiria",
-        "subtitulo": "Moda",
-        "promocion": "Con tus tarjetas de crédito BBVA todos los jueves. Recibí el reintegro en el resumen de tu tarjeta de crédito.\nTope de reintegro $8.000 por cuenta por mes",
-        "imagen": "https://go.bbva.com.ar/fgo/sites/default/files/c2-subrubro-modayaccesorios-femenina-940x620-3.jpg",
-        "categorias": [
-            "Moda"
-        ],
-        "dias_aplicacion": [
-            "Miércoles"
-        ],
-        "vigencia": {
-            "desde": "28/08/2024",
-            "hasta": "26/12/2024"
-        },
-        "medios_pago": [],
-        "cuotas": true,
-        "ahorro": true,
-        "tope_reintegro": null,
-        "frecuencia_reintegro": " ",
-        "tipo_tope": " ",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": "Descuento"
-    },
-    {
-        "id": "3fe690ced05b5d06d3d43bddae2c1743",
+        "id": "1f394100b9c77e2ef7ea195b75ba05c9",
         "banco": "Tarjeta Naranja",
         "titulo": "La Anonima",
         "subtitulo": "En La Anonima, ingresá y encontrá más beneficios.",
@@ -857,12 +857,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -884,7 +884,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "b8b94eca179ea401226adab870801364",
+        "id": "0039df6929f6ca70c65ba1359b6f24d9",
         "banco": "Tarjeta Naranja",
         "titulo": "Diggit",
         "subtitulo": "En Diggit, ingresá y encontrá más beneficios.",
@@ -896,12 +896,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -923,7 +923,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "f6a08d192e42a6f3bef824c4966d2a2f",
+        "id": "f39eb65fb18cf2d09fe9d800c41f22b8",
         "banco": "Tarjeta Naranja",
         "titulo": "Etam",
         "subtitulo": "En Etam, ingresá y encontrá más beneficios.",
@@ -960,7 +960,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "fe9c252a3ba61083b8305d918bdea772",
+        "id": "3c8ce3d48c45811abbb969e4cf9dcb36",
         "banco": "Tarjeta Naranja",
         "titulo": "Nitro",
         "subtitulo": "En Nitro, ingresá y encontrá más beneficios.",
@@ -997,7 +997,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "497fac6795c9de123e229ca2b17f1014",
+        "id": "9ae87048c46b82bbfaa4ec1e34034094",
         "banco": "Tarjeta Naranja",
         "titulo": "Abc Deportes",
         "subtitulo": "En Abc Deportes.",
@@ -1009,12 +1009,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1036,7 +1036,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "d648f51ea086fae11821144b1f56bcfe",
+        "id": "95d31093bddf1e35a0069950e42f4cbf",
         "banco": "Tarjeta Naranja",
         "titulo": "Cosa Nostra",
         "subtitulo": "En Cosa Nostra.",
@@ -1048,12 +1048,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1075,7 +1075,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "757b16a48dcd260fe4d9fbd0f4cc52ec",
+        "id": "b50c0432bf66293c0f11a912928e69ef",
         "banco": "Tarjeta Naranja",
         "titulo": "Repuestos Pitu",
         "subtitulo": "En Repuestos Pitu.",
@@ -1087,12 +1087,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1114,7 +1114,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "5f67edabe714e06abea30b457e19ed79",
+        "id": "9fa9df98f01d923b32b65afaaa5922c9",
         "banco": "Tarjeta Naranja",
         "titulo": "Monaco Muebles - Articulos P/hog",
         "subtitulo": "En Monaco Muebles - Articulos P/hog, ingresá y encontrá más beneficios.",
@@ -1147,7 +1147,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "d7efdef7fd7447754dbb49148cb34dc6",
+        "id": "f8e64215e8e4aa7657a844233e8314bd",
         "banco": "Tarjeta Naranja",
         "titulo": "Opticas del Sur",
         "subtitulo": "En Opticas del Sur, ingresá y encontrá más beneficios.",
@@ -1159,12 +1159,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1186,7 +1186,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "d5a70d62689b5b57c99498d8183146e2",
+        "id": "f47d52358ba402af78ced5c2df889f93",
         "banco": "Tarjeta Naranja",
         "titulo": "Sur Importacion - Venta Telefonica -",
         "subtitulo": "En Sur Importacion - Venta Telefonica -, ingresá y encontrá más beneficios.",
@@ -1198,12 +1198,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1225,7 +1225,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "853aea90ee1f6a128d194abee7974e47",
+        "id": "60d228a9c7bd8702417db5c07aa772b9",
         "banco": "Tarjeta Naranja",
         "titulo": "Sur Importacion - Rio Grande -",
         "subtitulo": "En Sur Importacion - Rio Grande -, ingresá y encontrá más beneficios.",
@@ -1237,12 +1237,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1264,7 +1264,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "a95f4ef5a85aab1693d9e4ebb430c539",
+        "id": "0e66073190ea7fa6076d5b3d2f6c1498",
         "banco": "Tarjeta Naranja",
         "titulo": "S. I. P.",
         "subtitulo": "En S. I. P., ingresá y encontrá más beneficios.",
@@ -1276,12 +1276,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1303,7 +1303,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "f87d1a3773586214f1f6239b2106e1f3",
+        "id": "b5a625549705b6656cc086d3dc5fd0a8",
         "banco": "Tarjeta Naranja",
         "titulo": "Wapa",
         "subtitulo": "En Wapa, ingresá y encontrá más beneficios.",
@@ -1340,7 +1340,89 @@
         "tipo_promocion": ""
     },
     {
-        "id": "7ce2c8aa5199dc1241fc58e446460a94",
+        "id": "b2628be4338d56f4c25e3c51cb22ece4",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Dra Romina Dufour",
+        "subtitulo": "En Dra Romina Dufour, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Especialidades médicas"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Sábado",
+            "Jueves",
+            "Lunes",
+            "Martes",
+            "Domingo",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "9df66aa948bd7eea178a3355026f1b8f",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Kiosco Alianza",
+        "subtitulo": "En Kiosco Alianza.",
+        "promocion": "Plan Zeta cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020273685139_XY15fPk1crCsZMzT.png",
+        "categorias": [
+            "Supermercados",
+            "Despensas"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Sábado",
+            "Jueves",
+            "Lunes",
+            "Martes",
+            "Domingo",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "4d58da8f238302d341bdbf49824ba64c",
         "banco": "Tarjeta Naranja",
         "titulo": "Trelew",
         "subtitulo": "En Trelew, ingresá y encontrá más beneficios.",
@@ -1373,206 +1455,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "1b84aa471fb779b54a1be57d174b6d02",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Celulares Rivadavia",
-        "subtitulo": "En Celulares Rivadavia.",
-        "promocion": "6 cuotas cero interés",
-        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019222_jFjcvt2uY1YIqeMV.png",
-        "categorias": [
-            "Electro y tecnología",
-            "Computación y electronica"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Lunes",
-            "Martes",
-            "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "236485a2f9817d41aa99ba6410b0f66e",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Kiosco Alianza",
-        "subtitulo": "En Kiosco Alianza.",
-        "promocion": "Plan Zeta cero interés",
-        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/cuit_0020273685139_XY15fPk1crCsZMzT.png",
-        "categorias": [
-            "Supermercados",
-            "Despensas"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Lunes",
-            "Martes",
-            "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Naranja Plan Z",
-                "tipo_tarjeta": "Credito"
-            },
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "8ac820ec9614bc783cc113b213934cd8",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Dra Romina Dufour",
-        "subtitulo": "En Dra Romina Dufour, ingresá y encontrá más beneficios.",
-        "promocion": "5 cuotas cero interés",
-        "imagen": "",
-        "categorias": [
-            "Salud y bienestar",
-            "Especialidades médicas"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Lunes",
-            "Martes",
-            "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "e10c81c127a6038c37cbc6d79df0f525",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Soldasur Sa",
-        "subtitulo": "En Soldasur Sa, ingresá y encontrá más beneficios.",
-        "promocion": "5 cuotas cero interés",
-        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_760002563_DED6E8Co62jTVbxd.png",
-        "categorias": [
-            "Construcción",
-            "Ferreterías"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Lunes",
-            "Martes",
-            "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "2f2db2e33044278f22404083d6fff839",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Colchoneria y Blanqueria Spymo",
-        "subtitulo": "En Colchoneria y Blanqueria Spymo, ingresá y encontrá más beneficios.",
-        "promocion": "1 cuota menos y 10 cuotas cero interés",
-        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019618_osaMaDRaUGR67ncl.png",
-        "categorias": [
-            "Hogar y deco",
-            "Textiles de hogar"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Lunes",
-            "Martes",
-            "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "1f0b9d4d01c803dbfe6ae9c92d8f25b2",
+        "id": "4dc6c0997cabe80a3900687533e72fd3",
         "banco": "Tarjeta Naranja",
         "titulo": "Lulu",
         "subtitulo": "En Lulu, ingresá y encontrá más beneficios.",
@@ -1584,12 +1467,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1611,7 +1494,124 @@
         "tipo_promocion": ""
     },
     {
-        "id": "cf56cf86e0b47cfbf7a6ec08ac6db3fd",
+        "id": "fd95244a2c3263f2f26fe819716d47db",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Celulares Rivadavia",
+        "subtitulo": "En Celulares Rivadavia.",
+        "promocion": "6 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019222_jFjcvt2uY1YIqeMV.png",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Sábado",
+            "Jueves",
+            "Lunes",
+            "Martes",
+            "Domingo",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a77474e2a3b7a56d7ef7d0ffffea4430",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Colchoneria y Blanqueria Spymo",
+        "subtitulo": "En Colchoneria y Blanqueria Spymo, ingresá y encontrá más beneficios.",
+        "promocion": "1 cuota menos y 10 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_750019618_osaMaDRaUGR67ncl.png",
+        "categorias": [
+            "Hogar y deco",
+            "Textiles de hogar"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Sábado",
+            "Jueves",
+            "Lunes",
+            "Martes",
+            "Domingo",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "f55ab5ab224910045893880845ad3abc",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Soldasur Sa",
+        "subtitulo": "En Soldasur Sa, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "https://merchants-api-statics.naranjax.com/commerces/logos/commerce_760002563_DED6E8Co62jTVbxd.png",
+        "categorias": [
+            "Construcción",
+            "Ferreterías"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Sábado",
+            "Jueves",
+            "Lunes",
+            "Martes",
+            "Domingo",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "e235d82c763ec2baaa89b5dd7143ad20",
         "banco": "Tarjeta Naranja",
         "titulo": "Accesorios Rivadavia",
         "subtitulo": "En Accesorios Rivadavia.",
@@ -1623,12 +1623,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1650,7 +1650,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "b4e145b449c95f0c11bcea90aa1cbe4f",
+        "id": "9616d4196a9a653ecfd2cb829cb3b1e6",
         "banco": "Tarjeta Naranja",
         "titulo": "Materiales y Servicios S. R. L.",
         "subtitulo": "En Materiales y Servicios S. R. L..",
@@ -1662,12 +1662,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1689,7 +1689,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "53b1407ca78082e99363a2de8b492378",
+        "id": "afb2e31e202e1374a7aadcd1fe50408f",
         "banco": "Tarjeta Naranja",
         "titulo": "Autofarma",
         "subtitulo": "En Autofarma, ingresá y encontrá más beneficios.",
@@ -1701,12 +1701,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1728,7 +1728,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "3dbf109313e766c4a1ec60a931aa59ea",
+        "id": "1e0511692320b9cd444f64ed3e195121",
         "banco": "Tarjeta Naranja",
         "titulo": "Wapa Ii",
         "subtitulo": "En Wapa Ii.",
@@ -1740,12 +1740,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1767,7 +1767,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "0a94231c06efcbcf82b7b7f4499e2329",
+        "id": "39c870516b5580369b95424da720b561",
         "banco": "Tarjeta Naranja",
         "titulo": "Alfa Hogar",
         "subtitulo": "En Alfa Hogar, ingresá y encontrá más beneficios.",
@@ -1779,12 +1779,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1806,7 +1806,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "307bd67c94ea3f04967471d11547cb1c",
+        "id": "84095e579eb6f3b58e244e453af9544d",
         "banco": "Tarjeta Naranja",
         "titulo": "Chics Cosas de Chica",
         "subtitulo": "En Chics Cosas de Chica.",
@@ -1818,12 +1818,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1845,7 +1845,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "6723f0f143935ada060fb1729bbe8a2e",
+        "id": "ad7d66af0cf932cc790b61e938abb2d7",
         "banco": "Tarjeta Naranja",
         "titulo": "Joyeria Relojeria el Trust",
         "subtitulo": "En Joyeria Relojeria el Trust.",
@@ -1857,12 +1857,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1884,7 +1884,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "7eb5c7621e48376fd9c6e1fe965e7e34",
+        "id": "e80938bef2f61d264742343cb7a78ce4",
         "banco": "Tarjeta Naranja",
         "titulo": "Hola Mola",
         "subtitulo": "En Hola Mola.",
@@ -1896,12 +1896,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1923,7 +1923,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "0e6b302ff7b23fa50f7cb0a267224388",
+        "id": "4cdf724defaea69d455dbb3556336ad1",
         "banco": "Tarjeta Naranja",
         "titulo": "Lazaro",
         "subtitulo": "En Lazaro, ingresá y encontrá más beneficios.",
@@ -1956,7 +1956,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "cb8fd5c9dee6a06fc1a780bd585ff8ab",
+        "id": "0b3b9137ed137fe48ceb3a82b5d63549",
         "banco": "Tarjeta Naranja",
         "titulo": "Domingo Granja",
         "subtitulo": "En Domingo Granja.",
@@ -1968,12 +1968,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -1995,7 +1995,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "b3d5b2955b3c053ecdfcf0045a1a8d26",
+        "id": "01946cac3f033de414fc7aa0acfa2a53",
         "banco": "Tarjeta Naranja",
         "titulo": "Anglers Aventuras Srl",
         "subtitulo": "En Anglers Aventuras Srl, ingresá y encontrá más beneficios.",
@@ -2028,7 +2028,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "04b3beaaef068addd07670397b21504a",
+        "id": "fe8bfe01e3d29e9f70c87b8502c1aff5",
         "banco": "Tarjeta Naranja",
         "titulo": "Lacar",
         "subtitulo": "En Lacar.",
@@ -2040,12 +2040,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2067,7 +2067,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "850933da5104eb0d615e4a00fd0df291",
+        "id": "16f2b579900b1f28af7df8f9dcd7a096",
         "banco": "Tarjeta Naranja",
         "titulo": "Ona's Corralon S. R. L.",
         "subtitulo": "En Ona's Corralon S. R. L..",
@@ -2079,12 +2079,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2106,7 +2106,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "4d12a27c2a2b67c5a6ce9cd8deefeae8",
+        "id": "266c0a3b92d34ebce2c49f422628960c",
         "banco": "Tarjeta Naranja",
         "titulo": "Spymo Sofa",
         "subtitulo": "En Spymo Sofa, ingresá y encontrá más beneficios.",
@@ -2118,12 +2118,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2145,7 +2145,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "e5d8f25412be848ebaf92548bb8cb677",
+        "id": "663e1571aa8613fc13e331fee10edf62",
         "banco": "Tarjeta Naranja",
         "titulo": "Optica Lopez",
         "subtitulo": "En Optica Lopez, ingresá y encontrá más beneficios.",
@@ -2157,12 +2157,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2184,7 +2184,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "5c74d6b47c53bb29c6098e87ced86719",
+        "id": "64d84a3adad48e3fc3960ab42d78968d",
         "banco": "Tarjeta Naranja",
         "titulo": "Mariano Acosta Neumaticos",
         "subtitulo": "En Mariano Acosta Neumaticos.",
@@ -2196,12 +2196,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2223,7 +2223,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "619d21056521f74e7c249792e60ea78c",
+        "id": "ea43642c7b18a4dfca00bbd898ccb3bb",
         "banco": "Tarjeta Naranja",
         "titulo": "Scandinavian",
         "subtitulo": "En Scandinavian, ingresá y encontrá más beneficios.",
@@ -2260,7 +2260,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "cd286c94d0528f95856907fbfff88291",
+        "id": "d770c8bd06424a3f19ea61f33c30cecf",
         "banco": "Tarjeta Naranja",
         "titulo": "Calzados Mari - Esth",
         "subtitulo": "En Calzados Mari - Esth, ingresá y encontrá más beneficios.",
@@ -2272,12 +2272,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2299,7 +2299,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "9c88c95e785d5d7dae050940da0df2cc",
+        "id": "1c047aa75232fe8f43ac0ee77874721d",
         "banco": "Tarjeta Naranja",
         "titulo": "Austral Repuestos",
         "subtitulo": "En Austral Repuestos.",
@@ -2311,12 +2311,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2338,7 +2338,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "2cc07c94e3177739e090d14a0ccd0f9e",
+        "id": "802ab8c13f0529063a1d03d1e8d10212",
         "banco": "Tarjeta Naranja",
         "titulo": "Trevman Kumho Neumaticos",
         "subtitulo": "En Trevman Kumho Neumaticos, ingresá y encontrá más beneficios.",
@@ -2350,12 +2350,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2377,7 +2377,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "c801a81c9e5c5472e4f85e0a06ce1621",
+        "id": "a6ddc21fc46b6f0b1c1d94f5abdb4f40",
         "banco": "Tarjeta Naranja",
         "titulo": "Iterbio Sas",
         "subtitulo": "En Iterbio Sas, ingresá y encontrá más beneficios.",
@@ -2410,7 +2410,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "bef64bcdca26b27fbbcfa86ac0d0ac54",
+        "id": "c6e289196af22c545767a67d25b2471b",
         "banco": "Tarjeta Naranja",
         "titulo": "Don Aldo Neumaticos",
         "subtitulo": "En Don Aldo Neumaticos.",
@@ -2422,12 +2422,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2449,7 +2449,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "65eed9403dadc79cf8bd78fe1db953ec",
+        "id": "09279e9e35fee98687e490e438fcfe06",
         "banco": "Tarjeta Naranja",
         "titulo": "Municipalidad de Rio Grande",
         "subtitulo": "En Municipalidad de Rio Grande, ingresá y encontrá más beneficios.",
@@ -2461,12 +2461,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2488,7 +2488,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "bcc8b397511dedc4cca04c57fef96eec",
+        "id": "d178760000f6cf386a911cb1ed9e62a4",
         "banco": "Tarjeta Naranja",
         "titulo": "Farmacia Posadas",
         "subtitulo": "En Farmacia Posadas.",
@@ -2500,12 +2500,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2527,7 +2527,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "f3552fa3f8352a93f7128806ae86d0b0",
+        "id": "aacca221c09a3e59e36c19053d33d618",
         "banco": "Tarjeta Naranja",
         "titulo": "Guadis Jugueteria",
         "subtitulo": "En Guadis Jugueteria.",
@@ -2539,12 +2539,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2566,7 +2566,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "573ab2cafe7228d46c6a548bb90e7c86",
+        "id": "7d278fea52231e305b1286c8f93b81c6",
         "banco": "Tarjeta Naranja",
         "titulo": "Corralon Naza",
         "subtitulo": "En Corralon Naza.",
@@ -2578,12 +2578,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2605,7 +2605,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "4d26b803640b832e86baa39d3121eb2f",
+        "id": "f2c38367edb9670efc01fce43813109e",
         "banco": "Tarjeta Naranja",
         "titulo": "Ms Patagonia Argentina Rgd",
         "subtitulo": "En Ms Patagonia Argentina Rgd, ingresá y encontrá más beneficios.",
@@ -2617,12 +2617,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2644,7 +2644,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "f17071182106b05d88185f79653b7d3f",
+        "id": "80e4201c5f2134217656e68f09443a2c",
         "banco": "Tarjeta Naranja",
         "titulo": "Torres Ariel Hernan",
         "subtitulo": "En Torres Ariel Hernan.",
@@ -2656,12 +2656,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2683,7 +2683,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "58e8564e990dc40785e16cb9505447c6",
+        "id": "93a1ca2c35fcac0822b34a2525ef3f1d",
         "banco": "Tarjeta Naranja",
         "titulo": "Minimercado Champita",
         "subtitulo": "En Minimercado Champita.",
@@ -2695,12 +2695,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2726,7 +2726,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "dfaa90bfe5f2791bd2552451bad2e7b3",
+        "id": "ed299443bf2ec34591db820632259150",
         "banco": "Tarjeta Naranja",
         "titulo": "Tienda Buenos Aires",
         "subtitulo": "En Tienda Buenos Aires.",
@@ -2738,12 +2738,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -2765,7 +2765,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "5d1b5736bee8df4e5978f823319a9c98",
+        "id": "846245d7a2c5436edd1b48c556bef9ca",
         "banco": "Tarjeta Naranja",
         "titulo": "Montagne",
         "subtitulo": "En Montagne, ingresá y encontrá más beneficios.",
@@ -2798,7 +2798,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "7c934ee0a6706cb7697356991d0efb1b",
+        "id": "037e78f74bb4eed5254fe58836d6c018",
         "banco": "Tarjeta Naranja",
         "titulo": "Patagonia Lighting S R. L.",
         "subtitulo": "En Patagonia Lighting S R. L., ingresá y encontrá más beneficios.",
@@ -2832,7 +2832,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "14e784838bf011da5eb597119a3eae03",
+        "id": "23cd09dc142e264797707844fe6d0a74",
         "banco": "Tarjeta Naranja",
         "titulo": "Transporte Montiel",
         "subtitulo": "En Transporte Montiel, ingresá y encontrá más beneficios.",
@@ -2866,7 +2866,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "9f731651b1b2a523e0c464b4752dfcfd",
+        "id": "f7d2c78f3995b45ec9221c67ddfd41cd",
         "banco": "Tarjeta Naranja",
         "titulo": "Mundo Maderas",
         "subtitulo": "En Mundo Maderas, ingresá y encontrá más beneficios.",
@@ -2900,7 +2900,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "dad7d57be31124828779986c7b819402",
+        "id": "bbf540d4d9a3dd61cfb881d901069e63",
         "banco": "Tarjeta Naranja",
         "titulo": "Isla Race S A. S.",
         "subtitulo": "En Isla Race S A. S., ingresá y encontrá más beneficios.",
@@ -2934,7 +2934,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "4360be8d66ede6f24c12c32920f1b399",
+        "id": "48b20f61999b049b4adb5f60f4be63fb",
         "banco": "Tarjeta Naranja",
         "titulo": "Fuego Bikes",
         "subtitulo": "En Fuego Bikes, ingresá y encontrá más beneficios.",
@@ -2968,7 +2968,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "5891444d5ee23a8373449ef9458580cc",
+        "id": "afcba097d6779e7f05ff3ccc1ecb0c19",
         "banco": "Tarjeta Naranja",
         "titulo": "Pintureria Ti - Son",
         "subtitulo": "En Pintureria Ti - Son, ingresá y encontrá más beneficios.",
@@ -3002,7 +3002,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "93ccb7b8b0cefa534abdb578103b0069",
+        "id": "4457befd24ae875413980e94a7b5ac1a",
         "banco": "Tarjeta Naranja",
         "titulo": "Dulce Lucia",
         "subtitulo": "En Dulce Lucia, ingresá y encontrá más beneficios.",
@@ -3036,7 +3036,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "223bc69c98e0e408ab0b0c6fc7d87943",
+        "id": "cd8513e57c7c0fbc4085d643a6aa1070",
         "banco": "Tarjeta Naranja",
         "titulo": "Western Jeans",
         "subtitulo": "En Western Jeans, ingresá y encontrá más beneficios.",
@@ -3073,7 +3073,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "fd4da0a98e43c7501ff2c66720600185",
+        "id": "9ca355c11366389b84def366945df354",
         "banco": "Tarjeta Naranja",
         "titulo": "Western",
         "subtitulo": "En Western, ingresá y encontrá más beneficios.",
@@ -3110,7 +3110,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "194d3735aaf7f29738f1c838aa0a1a0d",
+        "id": "62284bea227daf224d1bdc91d189c028",
         "banco": "Tarjeta Naranja",
         "titulo": "Rhodes",
         "subtitulo": "En Rhodes, ingresá y encontrá más beneficios.",
@@ -3147,52 +3147,15 @@
         "tipo_promocion": ""
     },
     {
-        "id": "8ccccdb0155620b6e3f8f393066717e0",
+        "id": "01e16e7882ae196bc6b077490f0e3a17",
         "banco": "Tarjeta Naranja",
-        "titulo": "Ph Showroom",
-        "subtitulo": "En Ph Showroom, ingresá y encontrá más beneficios.",
-        "promocion": "30% off y Plan Zeta cero interés",
-        "imagen": "",
-        "categorias": [
-            "Moda y accesorios",
-            "Indumentaria"
-        ],
-        "dias_aplicacion": [
-            "Martes"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Naranja Plan Z",
-                "tipo_tarjeta": "Credito"
-            },
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": true,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "45ee2e84871e390684f91c0912bfcea0",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Farmacia Margen Sur",
-        "subtitulo": "En Farmacia Margen Sur, ingresá y encontrá más beneficios.",
+        "titulo": "Ecus Cars Repuestos",
+        "subtitulo": "En Ecus Cars Repuestos, ingresá y encontrá más beneficios.",
         "promocion": "8 cuotas cero interés",
         "imagen": "",
         "categorias": [
-            "Salud y bienestar",
-            "Farmacias"
+            "Autos y motos",
+            "Repuestos y accesorios para autos"
         ],
         "dias_aplicacion": [
             "Viernes",
@@ -3218,146 +3181,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "ad12bfc191b6eec07027914c29b4157d",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Electro Service",
-        "subtitulo": "En Electro Service, ingresá y encontrá más beneficios.",
-        "promocion": "8 cuotas cero interés",
-        "imagen": "",
-        "categorias": [
-            "Electro y tecnología",
-            "Computación y electronica"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Martes"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "ffc8f844bee7ccf03ef162ffb5972f6f",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Lamparas de Sal Tdf",
-        "subtitulo": "En Lamparas de Sal Tdf, ingresá y encontrá más beneficios.",
-        "promocion": "8 cuotas cero interés",
-        "imagen": "",
-        "categorias": [
-            "Construcción",
-            "Electricidad e iluminación"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Martes"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "bd225c800aaab273d8e34a91c8c3c456",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Sarah Oly",
-        "subtitulo": "En Sarah Oly, ingresá y encontrá más beneficios.",
-        "promocion": "8 cuotas cero interés",
-        "imagen": "",
-        "categorias": [
-            "Otros",
-            "Cotillón"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Martes"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "4d69c4d6dada1922f60289dd821a781a",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Chic Chic Indumentaria",
-        "subtitulo": "En Chic Chic Indumentaria, ingresá y encontrá más beneficios.",
-        "promocion": "30% off y Plan Zeta cero interés",
-        "imagen": "",
-        "categorias": [
-            "Moda y accesorios",
-            "Indumentaria"
-        ],
-        "dias_aplicacion": [
-            "Martes"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Naranja Plan Z",
-                "tipo_tarjeta": "Credito"
-            },
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": true,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "154c0cd36fd9c8aa01157783034daf85",
+        "id": "12f099ce64b5f89f193fa8165b9bc73d",
         "banco": "Tarjeta Naranja",
         "titulo": "Fulanas de Tal",
         "subtitulo": "En Fulanas de Tal, ingresá y encontrá más beneficios.",
@@ -3394,7 +3218,174 @@
         "tipo_promocion": ""
     },
     {
-        "id": "b609f3f7ef3188b448ee06127e222c47",
+        "id": "9d006805697092406b116269cd2173ad",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacia Margen Sur",
+        "subtitulo": "En Farmacia Margen Sur, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "c5221c316ceed16f65f1d8adc4345414",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Santino Big Shop 2",
+        "subtitulo": "En Santino Big Shop 2.",
+        "promocion": "30% off",
+        "imagen": "",
+        "categorias": [
+            "Supermercados",
+            "Hipermercados"
+        ],
+        "dias_aplicacion": [
+            "Viernes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [],
+        "cuotas": false,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "ead2354d2463ddd4944cc9b79055685a",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Electro Service",
+        "subtitulo": "En Electro Service, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Electro y tecnología",
+            "Computación y electronica"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "09cfb3de3b7b6dcc1b5adb9a2b488e2f",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Lamparas de Sal Tdf",
+        "subtitulo": "En Lamparas de Sal Tdf, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Construcción",
+            "Electricidad e iluminación"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "f4bbd4be80a63245c89ce9e759edba53",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Chic Chic Indumentaria",
+        "subtitulo": "En Chic Chic Indumentaria, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "142652ba9baec1e50b662fd15d6d485b",
         "banco": "Tarjeta Naranja",
         "titulo": "Mh Graphic",
         "subtitulo": "En Mh Graphic, ingresá y encontrá más beneficios.",
@@ -3428,7 +3419,78 @@
         "tipo_promocion": ""
     },
     {
-        "id": "c78da5f84a0a477d863d7b32b4a74fdd",
+        "id": "6908cfde36c985d334eb45103c143e21",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Ph Showroom",
+        "subtitulo": "En Ph Showroom, ingresá y encontrá más beneficios.",
+        "promocion": "30% off y Plan Zeta cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria"
+        ],
+        "dias_aplicacion": [
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Naranja Plan Z",
+                "tipo_tarjeta": "Credito"
+            },
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": true,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "d420de00eb02c939dc748766f0f09154",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Sarah Oly",
+        "subtitulo": "En Sarah Oly, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Otros",
+            "Cotillón"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Martes"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "a65aaf749268c04159eb80fb7fa0701f",
         "banco": "Tarjeta Naranja",
         "titulo": "Mr Drinks Beer Shop",
         "subtitulo": "En Mr Drinks Beer Shop.",
@@ -3456,69 +3518,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "42f17e9dc6627fbce3fba7752f03b77e",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Ecus Cars Repuestos",
-        "subtitulo": "En Ecus Cars Repuestos, ingresá y encontrá más beneficios.",
-        "promocion": "8 cuotas cero interés",
-        "imagen": "",
-        "categorias": [
-            "Autos y motos",
-            "Repuestos y accesorios para autos"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Martes"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "b4d5711b27dc5a9e58942263d9ceeef3",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Santino Big Shop 2",
-        "subtitulo": "En Santino Big Shop 2.",
-        "promocion": "30% off",
-        "imagen": "",
-        "categorias": [
-            "Supermercados",
-            "Hipermercados"
-        ],
-        "dias_aplicacion": [
-            "Viernes"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [],
-        "cuotas": false,
-        "ahorro": true,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "23ec82d674b4616093b0c3c32f409b0a",
+        "id": "f588264d8211cd2a8722f583ffae9cfc",
         "banco": "Tarjeta Naranja",
         "titulo": "Martina Store",
         "subtitulo": "En Martina Store.",
@@ -3530,12 +3530,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -3557,7 +3557,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "e7b4da32d123d6e2d5106a85dd14eeb8",
+        "id": "2bf10f6fd0cfbda85407e9ceb0d62a92",
         "banco": "Tarjeta Naranja",
         "titulo": "Acuarela Centro",
         "subtitulo": "En Acuarela Centro, ingresá y encontrá más beneficios.",
@@ -3591,7 +3591,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "89013e88fc420df7e432690b44c42d15",
+        "id": "0c17df4521edad7867cacfab625d50b8",
         "banco": "Tarjeta Naranja",
         "titulo": "La Casa del Plomero",
         "subtitulo": "En La Casa del Plomero, ingresá y encontrá más beneficios.",
@@ -3624,7 +3624,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "bb6a4c52a243ac566af5a1013ed96f8f",
+        "id": "a5800c76f895d3ed3158697d477c8bcb",
         "banco": "Tarjeta Naranja",
         "titulo": "Farmacia Bahia",
         "subtitulo": "En Farmacia Bahia, ingresá y encontrá más beneficios.",
@@ -3658,7 +3658,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "98a9ac2c8b542002ddea0f150dda3d98",
+        "id": "c42184d7b577acbcce20ad6ad2bca83b",
         "banco": "Tarjeta Naranja",
         "titulo": "Farmacia del Pueblo",
         "subtitulo": "En Farmacia del Pueblo, ingresá y encontrá más beneficios.",
@@ -3691,7 +3691,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "b3b6395d6925399d08cdd287b8538092",
+        "id": "31e075be5936a54f33287a262d155b95",
         "banco": "Tarjeta Naranja",
         "titulo": "Oruga",
         "subtitulo": "En Oruga, ingresá y encontrá más beneficios.",
@@ -3725,7 +3725,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "af95aeaabf1d7ca6a6f7197c08ea4585",
+        "id": "b7197cbe477f2066c2e09d98e84ba2c7",
         "banco": "Tarjeta Naranja",
         "titulo": "Peumamiya",
         "subtitulo": "En Peumamiya, ingresá y encontrá más beneficios.",
@@ -3759,7 +3759,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "c07513115db126a5a032c6abd4d22a4c",
+        "id": "092327ae136e86d381ef45f501217589",
         "banco": "Tarjeta Naranja",
         "titulo": "Linea B Sa",
         "subtitulo": "En Linea B Sa, ingresá y encontrá más beneficios.",
@@ -3793,7 +3793,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "8b2bedd1ab08563996807acd68885978",
+        "id": "adf660cf03a6c3e9b6bdb849d22cca84",
         "banco": "Tarjeta Naranja",
         "titulo": "Alan",
         "subtitulo": "En Alan, ingresá y encontrá más beneficios.",
@@ -3826,7 +3826,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "aa72625d5aab0b8a31e9536d590b09ba",
+        "id": "facab4a82d6aa3ef0a077ddc50a104c6",
         "banco": "Tarjeta Naranja",
         "titulo": "Anastasia",
         "subtitulo": "En Anastasia, ingresá y encontrá más beneficios.",
@@ -3859,7 +3859,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "12ff9e271eedfe68007e9440bd225c23",
+        "id": "553200ec6c3aa182dc5696eb73419a33",
         "banco": "Tarjeta Naranja",
         "titulo": "Abrojitos Bb",
         "subtitulo": "En Abrojitos Bb, ingresá y encontrá más beneficios.",
@@ -3896,7 +3896,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "af2661dbd6534b09cbbe9772f45a5aca",
+        "id": "3cc099da5f1d0f46dd8ffd602d4cac88",
         "banco": "Tarjeta Naranja",
         "titulo": "Bodysculpt Rio Grande",
         "subtitulo": "En Bodysculpt Rio Grande, ingresá y encontrá más beneficios.",
@@ -3933,7 +3933,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "89d33c2d86df7d242b6a9e9ffa9671ba",
+        "id": "06ceafca691fc13102b8d691cb2cddd0",
         "banco": "Tarjeta Naranja",
         "titulo": "Crazy",
         "subtitulo": "En Crazy, ingresá y encontrá más beneficios.",
@@ -3970,7 +3970,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "ef1679b18e474650080cef246b748935",
+        "id": "3ccbdbbfa5a2fb89c98919675b418724",
         "banco": "Tarjeta Naranja",
         "titulo": "Sanitarios y Repuestos Fede",
         "subtitulo": "En Sanitarios y Repuestos Fede, ingresá y encontrá más beneficios.",
@@ -4004,7 +4004,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "3f3c0cc681c07af77ee4d8d319b9f542",
+        "id": "4939abb719e3d68dd8cb43461d4d010e",
         "banco": "Tarjeta Naranja",
         "titulo": "Morena Moda",
         "subtitulo": "En Morena Moda, ingresá y encontrá más beneficios.",
@@ -4041,7 +4041,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "7fc923dc9c320f21031c529456a2361b",
+        "id": "c7ff0690409f45fb354746f0534d7721",
         "banco": "Tarjeta Naranja",
         "titulo": "Cr Motos",
         "subtitulo": "En Cr Motos, ingresá y encontrá más beneficios.",
@@ -4074,7 +4074,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "7e7141ea6754b169e369a4441424942c",
+        "id": "ec57c201fea919f65079fccd2a1eb6f9",
         "banco": "Tarjeta Naranja",
         "titulo": "Mini Boutique",
         "subtitulo": "En Mini Boutique, ingresá y encontrá más beneficios.",
@@ -4111,7 +4111,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "403a953055e8fe401602c745da46cfe8",
+        "id": "20975e6cbec8f4ad23ebb27c6b28339c",
         "banco": "Tarjeta Naranja",
         "titulo": "Autoglass",
         "subtitulo": "En Autoglass, ingresá y encontrá más beneficios.",
@@ -4145,7 +4145,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "8e85317f4a4f7b9abd842c70568013e6",
+        "id": "0de083c573532458d00e3e699b4ae6ef",
         "banco": "Tarjeta Naranja",
         "titulo": "Levati",
         "subtitulo": "En Levati, ingresá y encontrá más beneficios.",
@@ -4179,7 +4179,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "66a76b9d6aa2498cfbe9eaa6bee0e9a8",
+        "id": "2655ffbbf0b0ebbc1743c444ee8a05f2",
         "banco": "Tarjeta Naranja",
         "titulo": "Drako Gnc",
         "subtitulo": "En Drako Gnc, ingresá y encontrá más beneficios.",
@@ -4213,7 +4213,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "e458383f0deb881d34d82389ac7d5cc2",
+        "id": "f4cc1835aaf68a5dbfdfaf4ae31c1368",
         "banco": "Tarjeta Naranja",
         "titulo": "No Callare",
         "subtitulo": "En No Callare, ingresá y encontrá más beneficios.",
@@ -4250,7 +4250,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "bceb9d59d3b8df83ebe8bbc18eb607aa",
+        "id": "26854169d30cc870c9f01c5557a20b4d",
         "banco": "Tarjeta Naranja",
         "titulo": "Kahlo",
         "subtitulo": "En Kahlo, ingresá y encontrá más beneficios.",
@@ -4287,7 +4287,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "c3b22ef8923ae8b99246bc1cfeba1c48",
+        "id": "4b6021700d7acf5909a151df94d7fc02",
         "banco": "Tarjeta Naranja",
         "titulo": "Motohouse",
         "subtitulo": "En Motohouse, ingresá y encontrá más beneficios.",
@@ -4321,7 +4321,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "25ed466f84ac7c808a9b048126c7c603",
+        "id": "d1232dcf9929656508af65fd5c7f8f45",
         "banco": "Tarjeta Naranja",
         "titulo": "Artesanias Kospi",
         "subtitulo": "En Artesanias Kospi, ingresá y encontrá más beneficios.",
@@ -4358,7 +4358,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "e722a57ef1ef4e95bdc4323521914eb1",
+        "id": "07f4480d50df1c3f8cabc92275b441d4",
         "banco": "Tarjeta Naranja",
         "titulo": "Bejira Peluqueria Unisex",
         "subtitulo": "En Bejira Peluqueria Unisex, ingresá y encontrá más beneficios.",
@@ -4392,7 +4392,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "aed0656978be76c8fd4bff7aa04bd6e9",
+        "id": "a44af067614b73ef71a822ab86cf5f44",
         "banco": "Tarjeta Naranja",
         "titulo": "Variedades",
         "subtitulo": "En Variedades, ingresá y encontrá más beneficios.",
@@ -4426,7 +4426,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "567bf7a02e942d1cc16e01cbb17d8524",
+        "id": "06657aa04726c488a57bb709b043acc3",
         "banco": "Tarjeta Naranja",
         "titulo": "Stylofs",
         "subtitulo": "En Stylofs, ingresá y encontrá más beneficios.",
@@ -4460,7 +4460,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "d21f244077b58426c7d639b0804861e5",
+        "id": "fd1503ebcda2ab14bc7e12f5cc736163",
         "banco": "Tarjeta Naranja",
         "titulo": "Https://www. Instagram. Com/magnolia. Tdf/",
         "subtitulo": "En Https://www. Instagram. Com/magnolia. Tdf/, ingresá y encontrá más beneficios.",
@@ -4497,7 +4497,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "71c0ee4d62ae1e9be1378ab126700929",
+        "id": "cea7b16b7660a824ea7de1c833538290",
         "banco": "Tarjeta Naranja",
         "titulo": "Nina",
         "subtitulo": "En Nina, ingresá y encontrá más beneficios.",
@@ -4530,7 +4530,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "1bb5e2c4641bc6c29096c2754e289fdf",
+        "id": "9d6842882b9ed8269f95ef20cc70f8f0",
         "banco": "Tarjeta Naranja",
         "titulo": "Oasis",
         "subtitulo": "En Oasis, ingresá y encontrá más beneficios.",
@@ -4563,7 +4563,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "cb8f4ce2c4ecb3cad152004000651457",
+        "id": "fb09c47d0c92054542fa00fc72070061",
         "banco": "Tarjeta Naranja",
         "titulo": "Bodysculpt",
         "subtitulo": "En Bodysculpt, ingresá y encontrá más beneficios.",
@@ -4600,7 +4600,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "822980219469cbe7464afe4c24cb50c5",
+        "id": "4313737ca85c94f21dc91f0465e77c85",
         "banco": "Tarjeta Naranja",
         "titulo": "Almacen de Ramos Generales",
         "subtitulo": "En Almacen de Ramos Generales, ingresá y encontrá más beneficios.",
@@ -4634,7 +4634,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "400276f3384a3d55259474710eb9f0ce",
+        "id": "4ac4f6c384efc30a795923dd7bfdec1f",
         "banco": "Tarjeta Naranja",
         "titulo": "Placa Centro",
         "subtitulo": "En Placa Centro, ingresá y encontrá más beneficios.",
@@ -4668,7 +4668,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "90d858b8d513ffb6e84950285ac6cb30",
+        "id": "7ef4294433e3c7af99fda200fd116ebb",
         "banco": "Tarjeta Naranja",
         "titulo": "Tuti Frutti",
         "subtitulo": "En Tuti Frutti.",
@@ -4696,7 +4696,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "549adb26eb8a61596c4922b31d9188e1",
+        "id": "80d95dadcfe62cf190ffc2a483c591af",
         "banco": "Tarjeta Naranja",
         "titulo": "Grandiosas",
         "subtitulo": "En Grandiosas, ingresá y encontrá más beneficios.",
@@ -4733,7 +4733,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "56558407a5d7016804fa7d3854c348f3",
+        "id": "2c9f5dc078fd9939fee9f72157e85b8d",
         "banco": "Tarjeta Naranja",
         "titulo": "Abby Chuela",
         "subtitulo": "En Abby Chuela, ingresá y encontrá más beneficios.",
@@ -4770,7 +4770,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "4259ae6e0828b7d4588adf774ee92175",
+        "id": "f283f8873546aff3df05bcfdf1720ac8",
         "banco": "Tarjeta Naranja",
         "titulo": "Grande Hotel",
         "subtitulo": "En Grande Hotel, ingresá y encontrá más beneficios.",
@@ -4804,7 +4804,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "1186846f5bdfac0d82655ebecbdbd8f6",
+        "id": "ed2b7dda14539a23c3a46fa51f9d2586",
         "banco": "Tarjeta Naranja",
         "titulo": "Viceversa",
         "subtitulo": "En Viceversa, ingresá y encontrá más beneficios.",
@@ -4837,7 +4837,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "969466f81dbba2c9c85c920d52a953dd",
+        "id": "c797c28966385ac43a85bb0102c97c9e",
         "banco": "Tarjeta Naranja",
         "titulo": "Pe - Kes",
         "subtitulo": "En Pe - Kes, ingresá y encontrá más beneficios.",
@@ -4871,7 +4871,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "94f85ef886d01ac307d0d7543ad0aaa5",
+        "id": "c716b37f638729567359d23fa1508282",
         "banco": "Tarjeta Naranja",
         "titulo": "Fulanos",
         "subtitulo": "En Fulanos, ingresá y encontrá más beneficios.",
@@ -4908,7 +4908,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "ee240089f1f0b90776d2f9491ccdb69d",
+        "id": "c2c4862f6013ed730dd82c5bf035911a",
         "banco": "Tarjeta Naranja",
         "titulo": "Felipa",
         "subtitulo": "En Felipa, ingresá y encontrá más beneficios.",
@@ -4941,7 +4941,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "f55feba9e07ed5ca916ecd26afcbcb60",
+        "id": "ae57041572bf8c66aee4ce7b5e8343a8",
         "banco": "Tarjeta Naranja",
         "titulo": "Susana Mascarello",
         "subtitulo": "En Susana Mascarello, ingresá y encontrá más beneficios.",
@@ -4953,12 +4953,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -4980,7 +4980,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "6dedbc329942413ecd39d182481bbebf",
+        "id": "fedfa8b52d13dc4741ab63c816a54836",
         "banco": "Tarjeta Naranja",
         "titulo": "Salgado Macarena Soledad",
         "subtitulo": "En Salgado Macarena Soledad, ingresá y encontrá más beneficios.",
@@ -5014,7 +5014,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "34999db2dfbe75e1cf6c75fb47dd6731",
+        "id": "6520caa00342d653b452b11199442af1",
         "banco": "Tarjeta Naranja",
         "titulo": "Farmacia San Expedito",
         "subtitulo": "En Farmacia San Expedito, ingresá y encontrá más beneficios.",
@@ -5048,7 +5048,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "f0580730bc29f817d1d1220cea4f6464",
+        "id": "ab7cb399ba7e6c323883ef9fc526d90f",
         "banco": "Tarjeta Naranja",
         "titulo": "Gomeria y Lavadero el Paton",
         "subtitulo": "En Gomeria y Lavadero el Paton, ingresá y encontrá más beneficios.",
@@ -5082,7 +5082,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "335088042898b48684eba3f8edbf96d8",
+        "id": "f1f62ee26dadbe4a365714d00734937f",
         "banco": "Tarjeta Naranja",
         "titulo": "Farmacenter",
         "subtitulo": "En Farmacenter, ingresá y encontrá más beneficios.",
@@ -5116,7 +5116,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "e3d6c4b158c53aec2a4096b6cf917d61",
+        "id": "036e69fca2b8e6f9eb7d8ed7ae9c026e",
         "banco": "Tarjeta Naranja",
         "titulo": "Minimercado y Carniceria Triple B",
         "subtitulo": "En Minimercado y Carniceria Triple B, ingresá y encontrá más beneficios.",
@@ -5150,7 +5150,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "010086634338eebe7b8fd6de1334a0b1",
+        "id": "a043906748552884f8d8f1501d4a6462",
         "banco": "Tarjeta Naranja",
         "titulo": "Infierno Grande",
         "subtitulo": "En Infierno Grande, ingresá y encontrá más beneficios.",
@@ -5187,7 +5187,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "fb70f99a13dda8929e0505672a0c3751",
+        "id": "72939e539506c0180a2d1586048cf3eb",
         "banco": "Tarjeta Naranja",
         "titulo": "Vzmotos",
         "subtitulo": "En Vzmotos, ingresá y encontrá más beneficios.",
@@ -5221,79 +5221,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "373392fd7d6de0f4cf8c2dd6a6d12c8e",
-        "banco": "Tarjeta Naranja",
-        "titulo": "La Sportiva",
-        "subtitulo": "En La Sportiva, ingresá y encontrá más beneficios.",
-        "promocion": "5 cuotas cero interés",
-        "imagen": "",
-        "categorias": [
-            "Moda y accesorios",
-            "Indumentaria deportiva"
-        ],
-        "dias_aplicacion": [
-            "Viernes",
-            "Lunes",
-            "Martes",
-            "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "7d8894ac54fdac1be24b0b5a2d52ae84",
-        "banco": "Tarjeta Naranja",
-        "titulo": "Farmacia Moreno",
-        "subtitulo": "En Farmacia Moreno, ingresá y encontrá más beneficios.",
-        "promocion": "8 cuotas cero interés",
-        "imagen": "",
-        "categorias": [
-            "Salud y bienestar",
-            "Farmacias"
-        ],
-        "dias_aplicacion": [
-            "Consultar dia en la Web"
-        ],
-        "vigencia": {
-            "desde": null,
-            "hasta": null
-        },
-        "medios_pago": [
-            {
-                "tarjeta": "Tarjeta Credito Naranja",
-                "tipo_tarjeta": "Credito"
-            }
-        ],
-        "cuotas": true,
-        "ahorro": false,
-        "tope_reintegro": 0,
-        "frecuencia_reintegro": "",
-        "tipo_tope": "",
-        "pagoQR": false,
-        "pagoNFC": false,
-        "tipo_promocion": ""
-    },
-    {
-        "id": "d916584a9819f904b04c6933f3a21b20",
+        "id": "3cb9c07bc8fcfa88ba3e2c212f635ea3",
         "banco": "Tarjeta Naranja",
         "titulo": "Almacen Raulito",
         "subtitulo": "En Almacen Raulito, ingresá y encontrá más beneficios.",
@@ -5330,7 +5258,40 @@
         "tipo_promocion": ""
     },
     {
-        "id": "114d6eb949d125f685d69cfef38c90db",
+        "id": "1fa601b153c59e43f7aeb7e59e7d0e53",
+        "banco": "Tarjeta Naranja",
+        "titulo": "Farmacia Moreno",
+        "subtitulo": "En Farmacia Moreno, ingresá y encontrá más beneficios.",
+        "promocion": "8 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Salud y bienestar",
+            "Farmacias"
+        ],
+        "dias_aplicacion": [
+            "Consultar dia en la Web"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "c3b900a9529bf2148bdb378b95f9a4f1",
         "banco": "Tarjeta Naranja",
         "titulo": "Boom",
         "subtitulo": "En Boom, ingresá y encontrá más beneficios.",
@@ -5363,7 +5324,46 @@
         "tipo_promocion": ""
     },
     {
-        "id": "133f04bbf22894b57bbb7f0f645d0f8e",
+        "id": "aa7787bcebaf32acfdb39343f76a99f7",
+        "banco": "Tarjeta Naranja",
+        "titulo": "La Sportiva",
+        "subtitulo": "En La Sportiva, ingresá y encontrá más beneficios.",
+        "promocion": "5 cuotas cero interés",
+        "imagen": "",
+        "categorias": [
+            "Moda y accesorios",
+            "Indumentaria deportiva"
+        ],
+        "dias_aplicacion": [
+            "Viernes",
+            "Sábado",
+            "Jueves",
+            "Lunes",
+            "Martes",
+            "Domingo",
+            "Miércoles"
+        ],
+        "vigencia": {
+            "desde": null,
+            "hasta": null
+        },
+        "medios_pago": [
+            {
+                "tarjeta": "Tarjeta Credito Naranja",
+                "tipo_tarjeta": "Credito"
+            }
+        ],
+        "cuotas": true,
+        "ahorro": false,
+        "tope_reintegro": 0,
+        "frecuencia_reintegro": "",
+        "tipo_tope": "",
+        "pagoQR": false,
+        "pagoNFC": false,
+        "tipo_promocion": ""
+    },
+    {
+        "id": "0f3a4f3cd026e78ee6fb82f6f1f12da7",
         "banco": "Tarjeta Naranja",
         "titulo": "Girasoles S A. S.",
         "subtitulo": "En Girasoles S A. S., ingresá y encontrá más beneficios.",
@@ -5400,7 +5400,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "60117f542febd43deb004a761f8b3a71",
+        "id": "fdf71a72ea53840f4f9ff7f7f52e8988",
         "banco": "Tarjeta Naranja",
         "titulo": "Taller de Conceptos",
         "subtitulo": "En Taller de Conceptos, ingresá y encontrá más beneficios.",
@@ -5412,12 +5412,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -5439,7 +5439,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "073ee054fb7af29e92ef0751b291afbd",
+        "id": "1679f344ad6f1e2cae7c3de341170a57",
         "banco": "Tarjeta Naranja",
         "titulo": "Economizadores Tdf",
         "subtitulo": "En Economizadores Tdf, ingresá y encontrá más beneficios.",
@@ -5476,7 +5476,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "b8eef153b40d0907d7f20ea4945632b0",
+        "id": "70d6d1100fa0f97b7741895e049de866",
         "banco": "Tarjeta Naranja",
         "titulo": "4m Service",
         "subtitulo": "En 4m Service, ingresá y encontrá más beneficios.",
@@ -5513,7 +5513,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "a020adaf40e44f9dd77c221a7941031e",
+        "id": "ec2c2e353d67b4c916e2a215bbfd8a7f",
         "banco": "Tarjeta Naranja",
         "titulo": "Upalala",
         "subtitulo": "En Upalala, ingresá y encontrá más beneficios.",
@@ -5550,7 +5550,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "22cb07932175a6c79d7832860142cdcf",
+        "id": "eb364db429770c00c2fe843f1481557b",
         "banco": "Tarjeta Naranja",
         "titulo": "Multi Rubro Eluney",
         "subtitulo": "En Multi Rubro Eluney, ingresá y encontrá más beneficios.",
@@ -5584,7 +5584,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "2bf07381fbf683605ed2cf12a4c9c6a2",
+        "id": "8738482abec23624abdd1be1eb2619a9",
         "banco": "Tarjeta Naranja",
         "titulo": "Silka#s",
         "subtitulo": "En Silka#s, ingresá y encontrá más beneficios.",
@@ -5621,7 +5621,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "8a4f46f1d083ad3cfeaebe6ee1e2f74b",
+        "id": "1b47d3897e7648446a80795527eb0239",
         "banco": "Tarjeta Naranja",
         "titulo": "Oh Nena",
         "subtitulo": "En Oh Nena, ingresá y encontrá más beneficios.",
@@ -5655,7 +5655,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "c9009d16a2c44179c4d381d075b726da",
+        "id": "22d6c70e23b616c798dc36e3124b5a10",
         "banco": "Tarjeta Naranja",
         "titulo": "Beauty Full",
         "subtitulo": "En Beauty Full, ingresá y encontrá más beneficios.",
@@ -5667,12 +5667,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -5694,7 +5694,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "98f6c8aa8fc4ea18e8734ffe68de207c",
+        "id": "5386d1298c2f368a5d07d67ce9e57457",
         "banco": "Tarjeta Naranja",
         "titulo": "Fuegotech",
         "subtitulo": "En Fuegotech, ingresá y encontrá más beneficios.",
@@ -5731,7 +5731,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "de5dd9c779fdadac726cc0513f206cb7",
+        "id": "281bdcfb116da253095a250db85bd19e",
         "banco": "Tarjeta Naranja",
         "titulo": "No Somos Diablas",
         "subtitulo": "En No Somos Diablas, ingresá y encontrá más beneficios.",
@@ -5768,7 +5768,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "25871c264f6f62c3d6da9d086b249180",
+        "id": "83cea4c97e836fae5fba19c9ecf3145a",
         "banco": "Tarjeta Naranja",
         "titulo": "Austral Herramientas",
         "subtitulo": "En Austral Herramientas, ingresá y encontrá más beneficios.",
@@ -5805,7 +5805,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "109bbf851fbdd248dcd0caebda335b5d",
+        "id": "5b13d151c54e083a524e545939600a1f",
         "banco": "Tarjeta Naranja",
         "titulo": "Insfran Carlos",
         "subtitulo": "En Insfran Carlos, ingresá y encontrá más beneficios.",
@@ -5817,12 +5817,12 @@
         ],
         "dias_aplicacion": [
             "Viernes",
+            "Sábado",
+            "Jueves",
             "Lunes",
             "Martes",
             "Domingo",
-            "Miércoles",
-            "Sábado",
-            "Jueves"
+            "Miércoles"
         ],
         "vigencia": {
             "desde": null,
@@ -5844,7 +5844,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "3e48bd58569203c2be1f97ad6197daae",
+        "id": "2dd906b88a7c56bed9a83d028e61611d",
         "banco": "Tarjeta Naranja",
         "titulo": "El Divino Boton",
         "subtitulo": "En El Divino Boton, ingresá y encontrá más beneficios.",
@@ -5878,7 +5878,7 @@
         "tipo_promocion": ""
     },
     {
-        "id": "81f15d8c08cb4a0876664ee4a6334987",
+        "id": "ead80eac5d89c2015880eb87621bd2f0",
         "banco": "Tarjeta Naranja",
         "titulo": "Danzo",
         "subtitulo": "En Danzo, ingresá y encontrá más beneficios.",

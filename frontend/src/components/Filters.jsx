@@ -12,7 +12,7 @@ function Filters({
   setOrden,
   categorias,
 }) {
-  const bancos = ["Galicia", "BBVA", "Naranja"];
+  const bancos = ["Banco Galicia", "Banco Francés", "Tarjeta Naranja"];
   const dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"];
   const [orden, setOrdenInterno] = useState("");
 
