@@ -10,6 +10,7 @@ function Filters({
   filtroDia,
   setFiltroDia,
   setOrden,
+  setSearchTerm,
   categorias,
 }) {
   const bancos = ["Banco Galicia", "Banco Francés", "Tarjeta Naranja"];
@@ -22,6 +23,7 @@ function Filters({
     setFiltroDia([]);
     setOrden("");
     setOrdenInterno("");
+    setSearchTerm(""); // Limpia también el término de búsqueda
   };
 
   const toggleOrden = () => {

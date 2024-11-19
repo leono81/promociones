@@ -96,6 +96,7 @@ function App() {
           setFiltroDia={setFiltroDia}
           setOrden={setOrden}
           categorias={categorias}
+          setSearchTerm={setSearchTerm}
         />
       </div>
 
