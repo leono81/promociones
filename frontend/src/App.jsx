@@ -14,6 +14,8 @@ function App() {
   const [categorias, setCategorias] = useState([]);
   const [selectedPromotion, setSelectedPromotion] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [busqueda, setBusqueda] = useState("");
+
 
   useEffect(() => {
     async function fetchData() {
@@ -46,8 +48,13 @@ function App() {
       promo.categorias.some((cat) => filtroCategoria.includes(cat));
     const coincideDia =
       filtroDia.length === 0 || filtroDia.some((dia) => promo.dias_aplicacion.includes(dia));
-    return coincideBanco && coincideCategoria && coincideDia;
+    const coincideBusqueda =
+      busqueda === "" ||
+      promo.titulo.toLowerCase().includes(busqueda.toLowerCase());
+  
+    return coincideBanco && coincideCategoria && coincideDia && coincideBusqueda;
   });
+  
 
   if (orden === "asc") {
     promocionesFiltradas.sort((a, b) =>
@@ -64,24 +71,46 @@ function App() {
       <h1 className="text-center text-2xl font-bold mb-4">
         Promociones Disponibles
       </h1>
-      <Filters
-        filtroBanco={filtroBanco}
-        setFiltroBanco={setFiltroBanco}
-        filtroCategoria={filtroCategoria}
-        setFiltroCategoria={setFiltroCategoria}
-        filtroDia={filtroDia}
-        setFiltroDia={setFiltroDia}
-        setOrden={setOrden}
-        categorias={categorias}
-      />
+
+      <div className="flex flex-col gap-4 md:flex-row md:gap-6 items-center justify-center m-8">
+        <input
+          type="text"
+          placeholder="Buscar por título..."
+          value={busqueda}
+          onChange={(e) => setBusqueda(e.target.value)}
+          className="w-full md:w-1/3 p-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary sm:text-sm shadow-md"
+        />
+      </div>
+      <div>
+        <Filters
+          filtroBanco={filtroBanco}
+          setFiltroBanco={setFiltroBanco}
+          filtroCategoria={filtroCategoria}
+          setFiltroCategoria={setFiltroCategoria}
+          filtroDia={filtroDia}
+          setFiltroDia={setFiltroDia}
+          setOrden={setOrden}
+          categorias={categorias}
+        />
+      </div>
+
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
-        {promocionesFiltradas.map((promo) => (
-          <Card
-            key={promo.id}
-            {...promo}
-            onClick={() => setSelectedPromotion(promo)} // Vincular el clic
-          />
-        ))}
+        {promocionesFiltradas.length > 0 ? (
+          promocionesFiltradas.map((promo) => (
+            <Card
+              key={promo.id}
+              {...promo}
+              onClick={() => setSelectedPromotion(promo)} // Vincular el clic
+            />
+          ))
+        ) : (
+        <div className="text-center w-full mt-16">
+          {/* Mensaje divertido */}
+          <p className="text-lg font-semibold text-gray-600">
+          🦆 CUAK!! no hay promos con tu selección. Seguí participando
+          </p>
+        </div>
+        )}
       </div>
       {selectedPromotion && (
         <PromotionDetails
