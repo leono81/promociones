@@ -52,7 +52,15 @@ Promociones Web App es una aplicación web que recopila y muestra promociones de
 
 ```plaintext
 promociones/
-├── backend/                # Backend FastAPI (repositorio separado)
+├── backend/
+│   ├── app/
+│   │   ├── main.py        # Configuración principal de FastAPI
+│   │   ├── routes.py      # Endpoints de la API
+│   ├── scripts/
+│   │   ├── galicia.py     # Scraper para Banco Galicia
+│   │   ├── frances.py     # Scraper para Banco Francés (BBVA)
+│   │   ├── naranja.py     # Scraper para Naranja X
+│   │   ├── runner.py      # Coordinador de los scripts
 ├── frontend/               # Frontend React
 │   ├── public/             # Archivos públicos (favicon, index.html)
 │   ├── src/                # Código fuente del frontend
@@ -61,6 +69,7 @@ promociones/
 │   │   ├── services/       # Lógica para consumir la API
 │   │   ├── utils/          # Utilidades como Google Calendar API
 │   └── package.json        # Dependencias y scripts del proyecto
+├── promociones.json       # Archivo consolidado de promociones
 ```
 
 
