@@ -9,6 +9,7 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",  # Frontend local
     "http://127.0.0.1:3000",  # Variación del frontend local
+    "https://promociones.pages.dev",  # Frontend de producción
 ]
 
 app.add_middleware(
