@@ -78,36 +78,35 @@ git clone https://github.com/tu_usuario/promociones.git
 cd promociones/frontend
 ```
 
-
-###Instalar Dependencias
+### Instalar Dependencias
 ```bash
 npm install
 ```
 
-###Configurar Variables de Entorno
+### Configurar Variables de Entorno
 Crea un archivo .env en el directorio frontend/ con el contenido:
 ```plaintext
 REACT_APP_API_URL=http://127.0.0.1:8000
 ```
 
-###Iniciar el Frontend
+### Iniciar el Frontend
 ```bash
 npm start
 ```
-###Iniciar el Backend
+### Iniciar el Backend
 Sigue las instrucciones de configuración del backend en su propio repositorio.
 
-##🌐 URL de Producción
+## 🌐 URL de Producción
 La aplicación está disponible en:
 https://promociones.pages.dev
 
-##🤝 Contribuciones
+## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Por favor, abre un Issue o envía un Pull Request para mejoras.
 
-##📝 Licencia
+## 📝 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Leandro
 
 
