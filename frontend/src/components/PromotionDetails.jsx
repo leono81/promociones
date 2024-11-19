@@ -161,7 +161,7 @@ function PromotionDetails({ promotion, onClose }) {
         {/* Botones inferiores */}
         <div className="flex justify-between mt-6">
           <button
-            className="flex items-center justify-center w-12 h-12 bg-[#4285F4] text-white rounded-full hover:bg-[#357AE8] focus:outline-none focus:ring-2 focus:ring-[#4285F4] transition-all"
+            className="flex items-center justify-center w-12 h-12 bg-[#4285F4] text-white rounded-full hover:bg-[#357AE8] focus:outline-none focus:ring-2 focus:ring-[#4285F4] shadow-lg hover:shadow-xl transition-all"
             onClick={() => {
               const daysToAdd = promotion.dias_aplicacion || ["Consultar día en la web"];
               const title = promotion.titulo || "Promoción";
@@ -186,7 +186,7 @@ function PromotionDetails({ promotion, onClose }) {
               href={bankUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center justify-center w-12 h-12 bg-secondary text-white rounded-full hover:bg-secondary/80 focus:outline-none focus:ring-2 focus:ring-secondary transition-all"
+              className="flex items-center justify-center w-12 h-12 bg-secondary text-white rounded-full hover:bg-secondary/80 focus:outline-none focus:ring-2 focus:ring-secondary shadow-lg hover:shadow-xl transition-all"
             >
               <ArrowTopRightOnSquareIcon className="w-6 h-6" />
             </a>

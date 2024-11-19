@@ -36,7 +36,8 @@ function Card({
 
   return (
     <div
-      className="bg-white rounded-lg shadow-md p-4 hover:shadow-lg cursor-pointer relative"
+      className="bg-white rounded-lg shadow-md p-4 hover:shadow-lg cursor-pointer relative border-2"
+      style={{ borderColor: bankColor }}
       onClick={onClick}
     >
       {/* Logo de Éminent */}
@@ -44,37 +45,37 @@ function Card({
         <img
           src={eminentLogo}
           alt="Éminent Logo"
-          className="absolute top-4 right-8 w-24 h-auto" // Ajuste con `h-auto`
-          style={{ objectFit: "contain" }} // Asegura proporciones
+          className="absolute top-4 right-8 w-24 h-auto"
+          style={{ objectFit: "contain" }}
         />
       )}
-
+  
       {/* Título del Comercio */}
       <h2 className="text-lg font-bold text-dark mb-2">{titulo}</h2>
       <p className="text-sm text-gray-600">{subtitulo}</p>
-
+  
       {/* Destacar la promoción */}
       <p className="text-md font-semibold text-primary mb-4">{promocion}</p>
-
+  
       {/* Banco */}
       <p className="text-sm text-gray-500 mb-4">
-        <strong>{banco}</strong> 
+        <strong>{banco}</strong>
       </p>
-
+  
       {/* Categorías */}
       {categorias && (
         <p className="text-sm text-gray-500">
           <strong>Categorías:</strong> {categorias.join(", ")}
         </p>
       )}
-
+  
       {/* Días de Aplicación */}
       {dias_aplicacion && (
         <p className="text-sm text-gray-500">
           <strong>Días:</strong> {dias_aplicacion.join(", ")}
         </p>
       )}
-
+  
       {/* Tags de características */}
       <div className="flex flex-wrap gap-2 mt-4">
         <span className={getTagStyles("pagoQR", pagoQR)}>Pago QR</span>
@@ -82,18 +83,18 @@ function Card({
         <span className={getTagStyles("cuotas", cuotas)}>Cuotas</span>
         <span className={getTagStyles("ahorro", ahorro)}>Ahorro</span>
       </div>
-
+  
       {/* Cinta del Banco */}
       <div
         className="absolute bottom-0 right-0 w-0 h-0 border-b-[40px] border-l-[40px]"
         style={{
-          borderBottomColor: bankColor, // Color del banco
-          borderLeftColor: "transparent", // Transparente para el resto
+          borderBottomColor: bankColor,
+          borderLeftColor: "transparent",
         }}
       ></div>
     </div>
-
   );
+  
 }
 
 export default Card;

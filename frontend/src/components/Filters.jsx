@@ -49,33 +49,46 @@ function Filters({
 
   return (
     <div className="flex flex-col gap-4 md:flex-row md:gap-6 items-center justify-center">
-      <div className="w-full md:w-auto flex flex-col items-center">
+      {/* Filtro de Banco */}
+      <div className="w-full md:w-auto flex flex-col items-center md:items-start min-h-[100px]">
         <DropdownMultiSelect
           label="Banco"
           options={bancos}
           selectedOptions={filtroBanco}
           setSelectedOptions={setFiltroBanco}
         />
-        {renderChips(filtroBanco, setFiltroBanco)}
+        <div className="mt-2 w-full md:w-auto flex flex-wrap gap-2">
+          {renderChips(filtroBanco, setFiltroBanco)}
+        </div>
       </div>
-      <div className="w-full md:w-auto flex flex-col items-center">
+  
+      {/* Filtro de Categoría */}
+      <div className="w-full md:w-auto flex flex-col items-center md:items-start min-h-[100px]">
         <DropdownMultiSelect
           label="Categoría"
           options={Array.isArray(categorias) ? categorias : []}
           selectedOptions={filtroCategoria}
           setSelectedOptions={setFiltroCategoria}
         />
-        {renderChips(filtroCategoria, setFiltroCategoria)}
+        <div className="mt-2 w-full md:w-auto flex flex-wrap gap-2">
+          {renderChips(filtroCategoria, setFiltroCategoria)}
+        </div>
       </div>
-      <div className="w-full md:w-auto flex flex-col items-center">
+  
+      {/* Filtro de Día */}
+      <div className="w-full md:w-auto flex flex-col items-center md:items-start min-h-[100px]">
         <DropdownMultiSelect
           label="Día"
           options={dias}
           selectedOptions={filtroDia}
           setSelectedOptions={setFiltroDia}
         />
-        {renderChips(filtroDia, setFiltroDia)}
+        <div className="mt-2 w-full md:w-auto flex flex-wrap gap-2">
+          {renderChips(filtroDia, setFiltroDia)}
+        </div>
       </div>
+  
+      {/* Botones */}
       <div className="flex gap-4 mt-4">
         <button
           className={`flex items-center justify-center w-10 h-10 rounded-full transition-all ${
@@ -105,9 +118,7 @@ function Filters({
         </button>
       </div>
     </div>
-  );
- 
-  
+  );  
 }
 
 export default Filters;
