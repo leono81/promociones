@@ -3,6 +3,7 @@ import Filters from "./components/Filters";
 import Card from "./components/Card";
 import { getPromociones, getCategorias } from "./services/promotionService";
 import PromotionDetails from "./components/PromotionDetails";
+import LoadingPage from "./components/LoadingPage"; 
 
 function App() {
   const [promociones, setPromociones] = useState([]);
@@ -11,7 +12,8 @@ function App() {
   const [filtroDia, setFiltroDia] = useState([]);
   const [orden, setOrden] = useState("");
   const [categorias, setCategorias] = useState([]);
-  const [selectedPromotion, setSelectedPromotion] = useState(null); // Estado para la promoción seleccionada
+  const [selectedPromotion, setSelectedPromotion] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     async function fetchData() {
@@ -25,10 +27,16 @@ function App() {
         setCategorias(dataCategorias); // Verifica que esto es un array
       } catch (error) {
         console.error("Error al cargar datos:", error);
+      } finally {
+        setIsLoading(false); // Oculta la pantalla de carga
       }
     }
     fetchData();
   }, []);
+
+  if (isLoading) {
+    return <LoadingPage />; // Muestra la pantalla de carga
+  }
 
   const promocionesFiltradas = promociones.filter((promo) => {
     const coincideBanco =

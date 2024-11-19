@@ -1,5 +1,6 @@
 import React from "react";
 import eminentLogo from "../assets/eminent-logo.png"; // Ruta del logo (guarda el archivo en /src/assets)
+import bankColors from "../data/bankColors";
 
 function Card({
   titulo,
@@ -15,6 +16,9 @@ function Card({
   cuotas, 
   ahorro 
 }) {
+
+  // Obtener el color del banco
+  const bankColor = bankColors[banco]?.primary || "#CCCCCC"; // Gris por defecto
 
 
   // Función para determinar los estilos del tag basado en su estado
@@ -78,6 +82,15 @@ function Card({
         <span className={getTagStyles("cuotas", cuotas)}>Cuotas</span>
         <span className={getTagStyles("ahorro", ahorro)}>Ahorro</span>
       </div>
+
+      {/* Cinta del Banco */}
+      <div
+        className="absolute bottom-0 right-0 w-0 h-0 border-b-[40px] border-l-[40px]"
+        style={{
+          borderBottomColor: bankColor, // Color del banco
+          borderLeftColor: "transparent", // Transparente para el resto
+        }}
+      ></div>
     </div>
 
   );

@@ -1,9 +1,31 @@
 import React from "react";
-import { XMarkIcon } from "@heroicons/react/24/solid";
+import { XMarkIcon, ArrowTopRightOnSquareIcon } from "@heroicons/react/24/outline";
+import { CalendarIcon } from "@heroicons/react/24/solid";
 import eminentLogo from "../assets/eminent-logo.png"; // Ruta al logo Eminent
+import bankColors from "../data/bankColors";
+import { addDaysToGoogleCalendar } from "../utils/calendarUtils";
+
+
+
 
 function PromotionDetails({ promotion, onClose }) {
   if (!promotion) return null;
+
+  // Función para obtener el enlace de promociones del banco
+  const getBankPromotionsUrl = (banco) => {
+    switch (banco) {
+      case "Banco Galicia":
+        return "https://www.galicia.ar/personas/buscador-de-promociones";
+      case "Banco Francés":
+        return "https://go.bbva.com.ar/fgo/#/";
+      case "Tarjeta Naranja":
+        return "https://www.naranjax.com/promociones/";
+      default:
+        return null; // Sin enlace si el banco no está en la lista
+    }
+  };
+
+  const bankUrl = getBankPromotionsUrl(promotion.banco);
 
   // Función para estilos de tags
   const getTagStyles = (type, isActive) => {
@@ -17,9 +39,23 @@ function PromotionDetails({ promotion, onClose }) {
     return `${baseClasses} ${colors[type]}`;
   };
 
+  // Obtener el color del banco
+  const bankColor = bankColors[promotion.banco]?.primary || "#CCCCCC"; // Gris por defecto
+
+
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50">
       <div className="bg-white rounded-lg shadow-lg w-11/12 max-w-3xl p-6 relative">
+        {/* Cinta del Banco */}
+          <div
+            className="absolute bottom-0 right-0 w-0 h-0 border-b-[40px] border-l-[40px]"
+            style={{
+              borderBottomColor: bankColor,
+              borderLeftColor: "transparent",
+            }}
+          ></div>
+
+
         {/* Botón Cerrar */}
         <button
           className="absolute top-4 right-4 text-gray-600 hover:text-gray-800"
@@ -60,6 +96,14 @@ function PromotionDetails({ promotion, onClose }) {
           </div>
         )}
 
+        {/* Banco */}
+        {promotion.subtitulo && (
+          <div className="mb-4">
+            <h3 className="text-lg font-bold">Categorías:</h3>
+            <p className="text-lg text-gray-700 mb-4">{promotion.banco}</p>
+          </div>
+        )}
+
         {/* Días de Aplicación */}
         {promotion.dias_aplicacion && (
           <div className="mb-4">
@@ -96,9 +140,9 @@ function PromotionDetails({ promotion, onClose }) {
             <img
               src={eminentLogo}
               alt="Eminent"
-              className="w-16 h-auto mr-4"
+              className="w-16 h-auto w-32"
             />
-            <span className="text-lg text-yellow-700 font-semibold">Socio: Eminent</span>
+            {/* <span className="text-lg text-yellow-700 font-semibold">Socio: Eminent</span> */}
           </div>
         )}
 
@@ -113,13 +157,41 @@ function PromotionDetails({ promotion, onClose }) {
           </div>
         </div>
 
-        {/* Botón Agregar a Google Calendar */}
-        <button
-          className="mt-6 px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 focus:outline-none focus:ring-2 focus:ring-primary transition-all"
-          onClick={() => alert("Agregar a Google Calendar aún no implementado.")}
-        >
-          Agregar a Google Calendar
-        </button>
+        {/* Botón para Google Calendar */}
+        {/* Botones inferiores */}
+        <div className="flex justify-between mt-6">
+          <button
+            className="flex items-center justify-center w-12 h-12 bg-[#4285F4] text-white rounded-full hover:bg-[#357AE8] focus:outline-none focus:ring-2 focus:ring-[#4285F4] transition-all"
+            onClick={() => {
+              const daysToAdd = promotion.dias_aplicacion || ["Consultar día en la web"];
+              const title = promotion.titulo || "Promoción";
+              const description = promotion.promocion || "Detalles de la promoción";
+              const vigencia = promotion.vigencia || {};
+              
+              const calendarLink = addDaysToGoogleCalendar(title, description, daysToAdd, vigencia);
+
+              if (calendarLink) {
+                window.open(calendarLink, "_blank");
+              } else {
+                alert("No se pudo generar un enlace para Google Calendar.");
+              }
+            }}
+          >
+            <CalendarIcon className="w-6 h-6" />
+          </button>
+
+          {/* Botón para promociones del banco */}
+          {bankUrl && (
+            <a
+              href={bankUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center w-12 h-12 bg-secondary text-white rounded-full hover:bg-secondary/80 focus:outline-none focus:ring-2 focus:ring-secondary transition-all"
+            >
+              <ArrowTopRightOnSquareIcon className="w-6 h-6" />
+            </a>
+          )}
+        </div>
       </div>
     </div>
   );
