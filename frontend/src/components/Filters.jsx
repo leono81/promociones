@@ -48,8 +48,8 @@ function Filters({
   );
 
   return (
-    <div className="flex flex-col gap-4 md:flex-row md:gap-6 items-start">
-      <div className="w-full md:w-auto">
+    <div className="flex flex-col gap-4 md:flex-row md:gap-6 items-center justify-center">
+      <div className="w-full md:w-auto flex flex-col items-center">
         <DropdownMultiSelect
           label="Banco"
           options={bancos}
@@ -58,7 +58,7 @@ function Filters({
         />
         {renderChips(filtroBanco, setFiltroBanco)}
       </div>
-      <div className="w-full md:w-auto">
+      <div className="w-full md:w-auto flex flex-col items-center">
         <DropdownMultiSelect
           label="Categoría"
           options={Array.isArray(categorias) ? categorias : []}
@@ -67,7 +67,7 @@ function Filters({
         />
         {renderChips(filtroCategoria, setFiltroCategoria)}
       </div>
-      <div className="w-full md:w-auto">
+      <div className="w-full md:w-auto flex flex-col items-center">
         <DropdownMultiSelect
           label="Día"
           options={dias}
@@ -76,34 +76,38 @@ function Filters({
         />
         {renderChips(filtroDia, setFiltroDia)}
       </div>
-      <button
-        className={`flex items-center justify-center w-10 h-10 rounded-full transition-all ${
-          orden === "asc"
-            ? "bg-primary text-white hover:bg-primary/80"
-            : orden === "desc"
-            ? "bg-secondary text-white hover:bg-secondary/80"
-            : "bg-neutral text-gray-700 hover:bg-neutral/80 border border-gray-400"
-        }`}
-        onClick={toggleOrden}
-        aria-label="Ordenar por título"
-      >
-        {orden === "asc" ? (
-          <ChevronUpIcon className="w-6 h-6" />
-        ) : orden === "desc" ? (
-          <ChevronDownIcon className="w-6 h-6" />
-        ) : (
-          <ChevronUpIcon className="w-6 h-6 text-gray-400" />
-        )}
-      </button>
-      <button
-        className="flex items-center justify-center w-10 h-10 bg-accent text-white rounded-full hover:bg-accent/80 focus:ring-2 focus:ring-accent transition-all"
-        onClick={limpiarFiltros}
-        aria-label="Limpiar Filtros"
-      >
-        <ArrowPathIcon className="w-6 h-6" />
-      </button>
+      <div className="flex gap-4 mt-4">
+        <button
+          className={`flex items-center justify-center w-10 h-10 rounded-full transition-all ${
+            orden === "asc"
+              ? "bg-primary text-white hover:bg-primary/80"
+              : orden === "desc"
+              ? "bg-secondary text-white hover:bg-secondary/80"
+              : "bg-neutral text-gray-700 hover:bg-neutral/80 border border-gray-400"
+          }`}
+          onClick={toggleOrden}
+          aria-label="Ordenar por título"
+        >
+          {orden === "asc" ? (
+            <ChevronUpIcon className="w-6 h-6" />
+          ) : orden === "desc" ? (
+            <ChevronDownIcon className="w-6 h-6" />
+          ) : (
+            <ChevronUpIcon className="w-6 h-6 text-gray-400" />
+          )}
+        </button>
+        <button
+          className="flex items-center justify-center w-10 h-10 bg-accent text-white rounded-full hover:bg-accent/80 focus:ring-2 focus:ring-accent transition-all"
+          onClick={limpiarFiltros}
+          aria-label="Limpiar Filtros"
+        >
+          <ArrowPathIcon className="w-6 h-6" />
+        </button>
+      </div>
     </div>
   );
+ 
+  
 }
 
 export default Filters;

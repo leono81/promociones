@@ -19,7 +19,7 @@ const LoadingPage = () => {
         const currentIndex = frases.indexOf(prevFrase);
         return frases[(currentIndex + 1) % frases.length];
       });
-    }, 2000); // Cambia cada 2 segundos
+    }, 7000); // Cambia cada 2 segundos
 
     return () => clearInterval(interval);
   }, []);
@@ -29,7 +29,7 @@ const LoadingPage = () => {
       {/* Spinner */}
       <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-b-4 border-primary mb-6"></div>
       {/* Frase */}
-      <p className="text-lg font-medium">{fraseActual}</p>
+      <p className="text-lg font-medium justify-center p-8 text-center">{fraseActual}</p>
     </div>
   );
 };
