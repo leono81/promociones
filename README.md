@@ -96,6 +96,18 @@ npm start
 ### Iniciar el Backend
 Sigue las instrucciones de configuración del backend en su propio repositorio.
 
+### Roadmap
+- Agregar mas bancos o medios de oferta.
+   - Modo
+   - YPF
+   - Banco Macro
+   - Banco Santander
+   - Banco Tierra del Fuego
+   - Banco Nación
+- Mejorar UX/UI de la interfaz.
+   - Que las tarjetas lleven a la promocion de la pagina oficial de la prmo
+   - Lavado de cara a la interfaz.
+
 ## 🌐 URL de Producción
 La aplicación está disponible en:
 https://promociones.pages.dev
